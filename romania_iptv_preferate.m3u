@@ -1,0 +1,362 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ro/tvr.ro.epg.xml" tvg-shift="0" deinterlace="-1"
+## Lista IPTV Romania - Versiune preferată de mine
+## Surse: iptv-org/iptv, iptv-org/database, robert-sz-76/RoIptv, iptvcat.org
+## Actualizat: Mai 2026
+
+#############################################
+## GENERALE
+#############################################
+
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Antena1.svg/200px-Antena1.svg.png" group-title="Generale",Antena 1
+https://live7digi.antenaplay.ro/a1/a1_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://i.imgur.com/iMoHkdO.png" group-title="Generale",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Antena_Stars_logo.png/200px-Antena_Stars_logo.png" group-title="Generale",Antena Stars
+https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaCom.ro" tvg-name="Antena Comedy" tvg-logo="" group-title="Generale",Antena Comedy
+https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaCook.ro" tvg-name="Antena Cook & Play" tvg-logo="" group-title="Generale",Antena Cook & Play
+https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
+
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-name="PRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PRO_TV_logo.svg/200px-PRO_TV_logo.svg.png" group-title="Generale",PRO TV
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pro2.ro" tvg-name="PRO 2" tvg-logo="" group-title="Generale",PRO 2
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProX.ro" tvg-name="PRO X" tvg-logo="" group-title="Generale",PRO X
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProGold.ro" tvg-name="PRO GOLD" tvg-logo="" group-title="Generale",PRO GOLD
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-name="Observator News" tvg-logo="https://i.imgur.com/sarnn0Y.png" group-title="Generale",Observator News
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Generale",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kanal_D_Romania_logo.svg/200px-Kanal_D_Romania_logo.svg.png" group-title="Generale",Kanal D
+https://stream2.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="" group-title="Generale",National TV
+https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
+
+#############################################
+## STIRI / NEWS
+#############################################
+
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Stiri",Romania TV
+#EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" tvg-logo="https://i.imgur.com/kHvAhfj.png" group-title="Stiri",Realitatea Plus
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title="Stiri",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="B1TV.ro" tvg-name="B1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/B1_TV_logo.svg/200px-B1_TV_logo.svg.png" group-title="Stiri",B1 TV
+https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
+
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Antena3logo.svg/200px-Antena3logo.svg.png" group-title="Stiri",Antena 3 CNN
+https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8
+
+#############################################
+## SPORT
+#############################################
+
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 1
+https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 2
+https://live3.cdn.dejacast.com/digisport2/digisport2_0.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 3
+https://live3.cdn.dejacast.com/digisport3/digisport3_0.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 4
+https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
+
+#EXTINF:-1 tvg-id="EurosportRO.ro" tvg-name="Eurosport 1 Romania" tvg-logo="" group-title="Sport",Eurosport 1 Romania
+https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2RO.ro" tvg-name="Eurosport 2 Romania" tvg-logo="" group-title="Sport",Eurosport 2 Romania
+https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="" group-title="Sport",TVR Sport
+https://mn-nl.mncdn.com/tvrsport/tvrsport_mwvx/index.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sport",Realitatea Sportiva
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/PThJPu2.png" group-title="Sport",Antena Sport [Not 24/7]
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightBox.ro" tvg-name="FightBox HD" tvg-logo="" group-title="Sport",FightBox HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fightbox/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ExtremeSport.ro" tvg-name="Extreme Sport" tvg-logo="" group-title="Sport",Extreme Sport
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/extreme-sport/manifest.m3u8
+
+#############################################
+## FILME
+#############################################
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="" group-title="Filme",Film Now
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/film-now/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox.ro" tvg-name="FilmBox" tvg-logo="" group-title="Filme",FilmBox
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxExtra.ro" tvg-name="FilmBox Extra HD" tvg-logo="" group-title="Filme",FilmBox Extra HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox-extra/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxFamily.ro" tvg-name="FilmBox Family" tvg-logo="" group-title="Filme",FilmBox Family
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox-family/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxStars.ro" tvg-name="FilmBox Stars" tvg-logo="" group-title="Filme",FilmBox Stars
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox-stars/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmBoxPremium.ro" tvg-name="FilmBox Premium" tvg-logo="" group-title="Filme",FilmBox Premium
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox-premium/manifest.m3u8
+
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="" group-title="Filme",Happy Channel
+https://live7digi.antenaplay.ro/happy/happy_3000k.m3u8
+
+#EXTINF:-1 tvg-id="EpicDrama.ro" tvg-name="Epic Drama" tvg-logo="" group-title="Filme",Epic Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-drama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmZone.ro" tvg-name="FilmZone" tvg-logo="" group-title="Filme",FilmZone
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmzone/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Filme",Bollywood Classic
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Filme",Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyEst.ro" tvg-name="ComedyEst" tvg-logo="" group-title="Filme",ComedyEst
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/comedyest/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Filme",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Diva.ro" tvg-name="Diva" tvg-logo="" group-title="Filme",Diva
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/diva/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TimelessDrama.ro" tvg-name="Timeless Drama Channel" tvg-logo="" group-title="Filme",Timeless Drama Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/timeless-drama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FilmCafe.ro" tvg-name="Film Cafe" tvg-logo="" group-title="Filme",Film Cafe
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/film-cafe/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV1000.ro" tvg-name="TV1000" tvg-logo="" group-title="Filme",TV1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv1000/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="AMC Romania" tvg-logo="" group-title="Filme",AMC Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amc-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="" group-title="Filme",Pro Cinema
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegaAction.ro" tvg-name="Mega Action+" tvg-logo="" group-title="Filme",Mega Action+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-action/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MegaComedy.ro" tvg-name="Mega Comedy" tvg-logo="" group-title="Filme",Mega Comedy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-comedy/manifest.m3u8
+
+#EXTINF:-1 tvg-id="HDNetRo.ro" tvg-name="HDNet RO 4K" tvg-logo="" group-title="Filme",HDNet RO 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hdnetro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CinemaClassicTV.ro" tvg-name="Cinema Classic TV" tvg-logo="" group-title="Filme",Cinema Classic TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-classic/manifest.m3u8
+
+#############################################
+## DOCUMENTARE
+#############################################
+
+#EXTINF:-1 tvg-id="DigiAnimalWorld.ro" tvg-name="Digi Animal World" tvg-logo="" group-title="Documentare",Digi Animal World
+https://live3.cdn.dejacast.com/digianimalworld/digianimalworld_0.m3u8
+
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World" tvg-logo="" group-title="Documentare",Digi World
+https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
+
+#EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="Digi Life" tvg-logo="" group-title="Documentare",Digi Life
+https://live3.cdn.dejacast.com/digilife/digilife_0.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.ro" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentare",Discovery Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/discovery-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.ro" tvg-name="National Geographic" tvg-logo="" group-title="Documentare",National Geographic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nat-geo-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.ro" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Documentare",Nat Geo Wild
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nat-geo-wild-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ro" tvg-name="Animal Planet" tvg-logo="" group-title="Documentare",Animal Planet
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/animal-planet-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="History.ro" tvg-name="History Romania" tvg-logo="" group-title="Documentare",History Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/history-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="Viasat History" tvg-logo="" group-title="Documentare",Viasat History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-history-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplorer.ro" tvg-name="Viasat Explorer" tvg-logo="" group-title="Documentare",Viasat Explorer
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-explorer-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="Viasat Nature" tvg-logo="" group-title="Documentare",Viasat Nature
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-nature-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.ro" tvg-name="Travel Channel" tvg-logo="" group-title="Documentare",Travel Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/travel-channel-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.ro" tvg-name="DocuBox" tvg-logo="" group-title="Documentare",DocuBox
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/docubox/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Documentare",Agro TV [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1 tvg-id="ArcadiaTelevision.ro" tvg-name="Arcadia Television" tvg-logo="https://i.imgur.com/lA4GYwJ.png" group-title="Documentare",Arcadia Television
+https://office.softer.ro/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://i.imgur.com/TYUXPbU.png" group-title="Documentare",MediCOOL TV
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://i.imgur.com/o0VJYrn.png" group-title="Documentare",Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
+#############################################
+## MUZICA
+#############################################
+
+#EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="Taraf TV" tvg-logo="" group-title="Muzica",Taraf TV
+https://live3.cdn.dejacast.com/taraf/taraf_0.m3u8
+
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Muzica",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="HitMusicChannel.ro" tvg-name="Hit Music Channel" tvg-logo="" group-title="Muzica",Hit Music Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hit-music/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ZuTV.ro" tvg-name="Zu TV" tvg-logo="" group-title="Muzica",Zu TV
+https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
+
+#EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="" group-title="Muzica",Noroc TV
+https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
+
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" tvg-logo="https://i.imgur.com/EvIDGyR.png" group-title="Muzica",Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="Muzica",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Muzica",Mooz Dance
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Muzica",Mooz Hits
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Muzica",Mooz Ro!
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Muzica",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Muzica",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="HoraTv.ro" tvg-name="Hora TV" tvg-logo="" group-title="Muzica",Hora TV
+https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
+
+#EXTINF:-1 tvg-id="BalkanTV.ro" tvg-name="Balkan TV" tvg-logo="" group-title="Muzica",Balkan TV
+https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
+
+#EXTINF:-1 tvg-id="MTVEurope.uk" tvg-name="MTV Europe" tvg-logo="" group-title="Muzica",MTV Europe
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mtv-europe/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicRO.ro" tvg-name="1 Music Channel" tvg-logo="" group-title="Muzica",1 Music Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/1music/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TezaurTV.ro" tvg-name="Tezaur TV" tvg-logo="https://i.imgur.com/t5eDZxU.png" group-title="Muzica",Tezaur TV
+https://testcam.go.ro:8080/hls/tezaurtv.m3u8
+
+#EXTINF:-1 tvg-id="DibiTV.ro" tvg-name="Dibi TV" tvg-logo="" group-title="Muzica",Dibi TV
+https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
+
+#############################################
+## DESENE / KIDS
+#############################################
+
+#EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-name="Cartoon Network Romania" tvg-logo="" group-title="Kids",Cartoon Network Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cartoon-network-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon Romania" tvg-logo="" group-title="Kids",Nickelodeon Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nick-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ro" tvg-name="Nick Jr Romania" tvg-logo="" group-title="Kids",Nick Jr Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nick-jr-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax Romania" tvg-logo="" group-title="Kids",Minimax Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/minimax-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.ro" tvg-name="Boomerang Romania" tvg-logo="" group-title="Kids",Boomerang Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boomerang-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel Romania" tvg-logo="" group-title="Kids",Disney Channel Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/disney-channel-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior Romania" tvg-logo="" group-title="Kids",Disney Junior Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/disney-junior-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="MegaKids.ro" tvg-name="Mega Kids" tvg-logo="" group-title="Kids",Mega Kids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-kids/manifest.m3u8
+
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam Romania" tvg-logo="" group-title="Kids",JimJam Romania
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jimjam-ro/manifest.m3u8
+
+
+#############################################
+## RADIO (cu stream video)
+#############################################
+
+#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="" group-title="Radio",Pro FM
+https://live3.cdn.dejacast.com/profm/profm_0.m3u8
+
+#EXTINF:-1 tvg-id="KissFM.ro" tvg-name="Kiss FM" tvg-logo="" group-title="Radio",Kiss FM
+https://live3.cdn.dejacast.com/kissfm/kissfm_0.m3u8
+
+#EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" tvg-logo="" group-title="Radio",Radio ZU
+https://live3.cdn.dejacast.com/radiozu/radiozu_0.m3u8
+
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="" group-title="Radio",Europa FM
+https://live3.cdn.dejacast.com/europafm/europafm_0.m3u8
+
+#EXTINF:-1 tvg-id="MagicFM.ro" tvg-name="Magic FM" tvg-logo="" group-title="Radio",Magic FM
+https://live3.cdn.dejacast.com/magicfm/magicfm_0.m3u8
+
+#EXTINF:-1 tvg-id="RockFM.ro" tvg-name="Rock FM" tvg-logo="" group-title="Radio",Rock FM
+https://live3.cdn.dejacast.com/rockfm/rockfm_0.m3u8
+
+#EXTINF:-1 tvg-id="DanceFM.ro" tvg-name="Dance FM" tvg-logo="" group-title="Radio",Dance FM
+https://live3.cdn.dejacast.com/dancefm/dancefm_0.m3u8
+
+#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio Romania" tvg-logo="" group-title="Radio",Virgin Radio Romania
+https://live3.cdn.dejacast.com/virginradio/virginradio_0.m3u8
