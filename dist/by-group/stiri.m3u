@@ -1,20 +1,17 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:54 UTC  |  Canale: 9
+## Generat automat: 2026-07-21 15:00 UTC  |  Canale: 8
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Stiri
 #############################################
-#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-name="Romania TV (1080p)" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Stiri",Romania TV (1080p)
+#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-name="Romania TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE5XzE3MTI4MTlf/MTUyeDUwX1JvbWFuaWEtVFYtSEQucG5n/Jmhhc2g9YzA1ZTBiYTU3OWY5NWQ5NjZhMDlhZjJlNzNlMDA2NmY=.png" group-title="Stiri",Romania TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/romaniatv/index.m3u8
 
-#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-name="Realitatea Plus (720p)" tvg-logo="https://i.imgur.com/kHvAhfj.png" group-title="Stiri",Realitatea Plus (720p)
-https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-
-#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title="Stiri",Digi 24
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzU4XzE1NTMzNThf/RGlnaV8yNF9IRC5wbmcmaGFzaD0wZTQ0/NTcwNDg1YzkwMTIwMTBjM2I0N2YyM2UwMDZhMg==.png" group-title="Stiri",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
 #EXTINF:-1 tvg-id="AlephBusiness.ro@SD" tvg-name="Aleph Business (1280p)" tvg-logo="https://alephbusiness.ro/favicon.ico" group-title="Stiri",Aleph Business (1280p)
@@ -29,7 +26,7 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 #EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Stiri",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Stiri",Euronews România Ⓨ
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU2XzE1NTM2NTZf/RXVyb05ld3NfUm9tYW5pYV9IRC5wbmcm/aGFzaD1jYzE3ZWM1NDVmN2NjYjUxNDc3MjY2MzE1M2ZhODZjMg==.png" group-title="Stiri",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
 
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-name="Prima News (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE3XzE3MTI4MTdf/MTUyeDUwX1ByaW1hLU5ld3MtSEQucG5n/Jmhhc2g9NGI3NzViMDM0ZWRkOGQ2ZDdmYzdkZDc4MjRjYTVmZDM=.png" group-title="Stiri",Prima News (576p)

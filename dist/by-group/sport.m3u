@@ -1,31 +1,28 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:54 UTC  |  Canale: 10
+## Generat automat: 2026-07-21 15:00 UTC  |  Canale: 9
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Sport
 #############################################
-#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-name="Digi Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 1 HD
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-name="Digi Sport 1 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png" group-title="Sport",Digi Sport 1 HD
 http://91.201.172.14:35005
 
-#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-name="Digi Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 2 HD
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-name="Digi Sport 2 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY3XzE1NTMzNjdf/RGlnaV9TcG9ydF8yX0hELnBuZyZoYXNo/PWZmNzViZTk0YmY5ODgxNGE3MTUyOGNjZmE4MjYxNzE3.png" group-title="Sport",Digi Sport 2 HD
 http://91.201.172.14:35006
 
-#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-name="Digi Sport 3 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 3 (720p)
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-name="Digi Sport 3 (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY5XzE1NTMzNjlf/RGlnaV9TcG9ydF8zX0hELnBuZyZoYXNo/PTE4ODAwMGM3OTU4NTAzMzMwMDcwNGRjMDRiZWIxMGNj.png" group-title="Sport",Digi Sport 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
 
-#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-name="Digi Sport 4 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 4 (720p)
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-name="Digi Sport 4 (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzcxXzE1NTMzNzFf/RGlnaV9TcG9ydF80X0hELnBuZyZoYXNo/PWFmNjc2N2U1Y2FiMjllMzQ5Y2Y4MmI2ZjNlNDVkZWVi.png" group-title="Sport",Digi Sport 4 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwNzIzXzE5OTA3MjNf/VFZSLVNwb3J0LUhELS5wbmcmaGFzaD00/OWY2YTA4NjQ5NjYxNDAyMDU4OGM3N2YxMzA2MWE0OQ==.png" group-title="Sport",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-name="Realitatea Sportiva (720p)" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sport",Realitatea Sportiva (720p)
-https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/PThJPu2.png" group-title="Sport",Antena Sport [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8

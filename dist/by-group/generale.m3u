@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:54 UTC  |  Canale: 30
+## Generat automat: 2026-07-21 15:00 UTC  |  Canale: 30
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -10,7 +10,7 @@
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Generale",Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV (1080p)" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Generale",Prima TV (1080p)
+#EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Generale",Prima TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/primatv/index.m3u8
 
@@ -53,13 +53,13 @@ https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-name="Traditional TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDg0XzE1NTM0ODRf/VHJhZGl0aW9uYWxfVFYucG5nJmhhc2g9/ZWM1YzQwNWUzYTFlM2E1MmQxZWExYzJhMDljNGYzNzM=.png" group-title="Generale",Traditional TV (1080p)
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 
-#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="Generale",TVR 1
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTk0XzE3Nzk1OTRf/MTUyeDUwcHhfVFZSLTFfbGFuZHNjYXBl/SEQucG5nJmhhc2g9YjM1MmM2NzcwOWMyYTExOTA4YWZhNjI3ODVhODY3NmU=.png" group-title="Generale",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="Generale",TVR 2
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTkzXzE3Nzk1OTNf/MTUyeDUwcHhfVFZSLTJfbGFuZHNjYXBl/SEQucG5nJmhhc2g9OTBjYzRiMmVlNmY5ZjY0MmViNDkzNmYxMDM3NDE5M2E=.png" group-title="Generale",TVR 2
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-name="TVR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png" group-title="Generale",TVR 3
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-name="TVR 3" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTc2XzE3Nzk1NzZf/MTUyeDUwcHhfVFZSLTNfbGFuZHNjYXBl/LnBuZyZoYXNoPWM2MGQyNzFkNzAyNWM4YWI1Zjk4OWRiNDY4NjJkMGRl.png" group-title="Generale",TVR 3
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="Generale",TVR Cluj
@@ -77,7 +77,7 @@ https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Generale",TVR Iasi (1080p) [Not 24/7]
 http://82.208.141.70:8778/1.m3u8
 
-#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-name="TVR Info" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Generale",TVR Info
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-name="TVR Info" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTgyXzE3Nzk1ODJf/MTUyeDUwcHhfVFZSLUluZm9fbGFuZHNj/YXBlLnBuZyZoYXNoPTVlMzVlYWUyODJiZTUyOGQzOGFjOTkzYzUzOWI2ZjNi.png" group-title="Generale",TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-name="TVR International" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="Generale",TVR International
