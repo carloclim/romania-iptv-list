@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 12:51 UTC  |  Canale: 9
+## Generat automat: 2026-07-21 13:08 UTC  |  Canale: 9
 ## Surse: curated, free-tv-ro, iptv-org-ro
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Documentare
 #############################################
-#EXTINF:-1 tvg-id="DigiAnimalWorld.ro@SD" tvg-name="Digi Animal World (720p)" tvg-logo="" group-title="Documentare",Digi Animal World (720p)
+#EXTINF:-1 tvg-id="DigiAnimalWorld.ro@SD" tvg-name="Digi Animal World (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzYwXzE1NTMzNjBf/RGlnaV9BbmltYWxfV29ybGRfSEQucG5n/Jmhhc2g9YzdkNzY2MGY3YTZmYjBkNDJhMjRmZTBiYTE2MGEyMWI=.png" group-title="Documentare",Digi Animal World (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8
 
-#EXTINF:-1 tvg-id="DigiWorld.ro@SD" tvg-name="Digi World (720p)" tvg-logo="" group-title="Documentare",Digi World (720p)
+#EXTINF:-1 tvg-id="DigiWorld.ro@SD" tvg-name="Digi World (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzczXzE1NTMzNzNf/RGlnaV9Xb3JsZF9IRC5wbmcmaGFzaD1m/NmRjZTliMDVlYWJlNzdkZjVhNjdkNzU1ZjFlODYzNg==.png" group-title="Documentare",Digi World (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digiworld/index.m3u8
 
-#EXTINF:-1 tvg-id="DigiLife.ro@SD" tvg-name="Digi Life (720p)" tvg-logo="" group-title="Documentare",Digi Life (720p)
+#EXTINF:-1 tvg-id="DigiLife.ro@SD" tvg-name="Digi Life (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzYzXzE1NTMzNjNf/RGlnaV9MaWZlX0hELnBuZyZoYXNoPTZm/NWViOTRhYjI5ODZhNDQ3N2UxMTcxOGZmYmZlODg5.png" group-title="Documentare",Digi Life (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digilife/index.m3u8
 
@@ -32,10 +32,10 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://i.imgur.com/o0VJYrn.png" group-title="Documentare",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-name="National Geographic (576p)" tvg-logo="" group-title="Documentare",National Geographic (576p)
+#EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-name="National Geographic (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM3XzE1NTM0Mzdf/TmF0aW9uYWxfR2VvZ3JhcGhpY19IRC5w/bmcmaGFzaD02NDkzYzhlNjU1MTFiNTM0M2YyN2NjYjAwZjYxNGNkMw==.png" group-title="Documentare",National Geographic (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.ro@SD" tvg-name="National Geographic Wild (1080p)" tvg-logo="" group-title="Documentare",National Geographic Wild (1080p)
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro@SD" tvg-name="National Geographic Wild (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4OTk0XzE1OTg5OTRf/TmF0aW9uYWwtR2VvLVdpbGQtSEQucG5n/Jmhhc2g9ZWQ0OTdhZWMyMmI5MmRjMzQwZGYxMGFhMDBjNDBmOWM=.png" group-title="Documentare",National Geographic Wild (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8

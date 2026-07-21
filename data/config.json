@@ -2,6 +2,7 @@
   "title": "Lista IPTV Romania - agregata automat",
   "output_root_file": "romania_iptv_preferate.m3u",
   "header_extra": "tvg-shift=\"0\" deinterlace=\"-1\"",
+  "digi_logo_url": "https://www.digi.ro/api-get-grila?action=servicesTvList&county=Bucuresti&tvType=All",
   "epg_urls": [
     "https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz"

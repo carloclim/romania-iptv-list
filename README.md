@@ -74,6 +74,9 @@ python -m venv .venv
 - **Remove a source/host:** add a URL substring to `data/blocklist.txt`.
 - **Change the guide or categories:** edit `data/config.json`.
 
+The build also queries Digi's public TV grid and fills empty `tvg-logo` fields with official
+Digi-hosted logo URLs. Existing curated or manually overridden logos are preserved.
+
 ## Automation
 
 `.github/workflows/build.yml` runs daily (and on demand via **Run workflow**), rebuilds the

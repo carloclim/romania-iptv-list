@@ -20,6 +20,7 @@ from pathlib import Path
 import fetch as fetcher
 import merge as merger
 import parse as m3u_parse
+from digi_logos import apply_digi_logos, fetch_digi_logos
 from epg import build_x_tvg_url
 from models import Channel
 from validate import validate_all
@@ -271,6 +272,9 @@ def main() -> int:
     chosen = apply_overrides(chosen, overrides)
     cat_cfg = _load_json(DATA_DIR / "categories.json", {})
     chosen = categorize(chosen, group_order, cat_cfg.get("rules", {}), cat_cfg.get("default", "Generale"))
+    digi_logos = fetch_digi_logos(config.get("digi_logo_url", ""))
+    applied_logos = apply_digi_logos(chosen, digi_logos)
+    print(f"  applied {applied_logos} Digi logos")
     print(f"  {len(chosen)} unique channels after dedupe/overrides")
 
     if args.no_validate:
