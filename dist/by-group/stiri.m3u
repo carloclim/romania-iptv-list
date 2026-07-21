@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 15:00 UTC  |  Canale: 8
+## Generat automat: 2026-07-21 15:10 UTC  |  Canale: 8
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -20,10 +20,10 @@ https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-name="Nasul TV (720p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMyXzE1NTM0MzJf/TmFzdWxfVFYucG5nJmhhc2g9MTZiZGZj/ZTNkNjA2NGJhODJhZjMyNmM4OTBkNWQ0ZjE=.png" group-title="Stiri",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="Pro TV News (1080p)" tvg-logo="https://stirileprotv.ro/favicon.ico" group-title="Stiri",Pro TV News (1080p)
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="Pro TV News (1080p)" tvg-logo="https://logo.clearbit.com/stirileprotv.ro" group-title="Stiri",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 
-#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Stiri",Realitatea Star (576i)
+#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://logo.clearbit.com/realitatea.net" group-title="Stiri",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU2XzE1NTM2NTZf/RXVyb05ld3NfUm9tYW5pYV9IRC5wbmcm/aGFzaD1jYzE3ZWM1NDVmN2NjYjUxNDc3MjY2MzE1M2ZhODZjMg==.png" group-title="Stiri",Euronews România Ⓨ

@@ -76,15 +76,15 @@ working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mob
 working,Documentare,Digi Animal World (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8
 working,Documentare,Digi Life (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digilife/index.m3u8
 working,Documentare,Digi World (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digiworld/index.m3u8
-working,Documentare,Hello Taste,curated,0,https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
-working,Documentare,MediCOOL TV,curated,0,https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+working,Documentare,Hello Taste,override,0,https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+working,Documentare,MediCOOL TV,override,0,https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 working,Documentare,National Geographic (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8
 working,Documentare,National Geographic Wild (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8
 working,Filme,Acasa (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/acasa/index.m3u8
 working,Filme,Acasa Gold (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/acasagold/index.m3u8
 working,Filme,CineMaraton (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8
 working,Filme,Comedy Central (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
-working,Filme,Comedy Play,curated,0,https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+working,Filme,Comedy Play,override,0,https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 working,Filme,Diva (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/diva/index.m3u8
 working,Filme,Film Now (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8
 working,Filme,Happy Channel (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/happy/index.m3u8
@@ -128,7 +128,6 @@ working,Muzica,Impact TV Manele,curated,0,https://online.tvimpact.live/hls/impac
 working,Muzica,Kiss TV,curated,0,https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 working,Muzica,Magic TV,curated,0,https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 working,Muzica,Music Channel (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
-working,Muzica,Rapsodia TV,curated,0,http://92.86.248.141:8080/ram/playlist.m3u8
 working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 working,Muzica,Tele7music,override,0,https://live.tele7music.ro/hls/stream/index.m3u8
 working,Muzica,UTV (1080p),override,1080,https://aes.m3u8simplu.workers.dev/utv/index.m3u8
@@ -142,7 +141,7 @@ working,Radio,Radio Fx Net (720p),override,720,https://streamlov.alsolnet.com/ra
 working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guerrilla.aac
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
-working,Sport,Antena Sport [Not 24/7],curated,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+working,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 working,Sport,Digi Sport 1 HD,iptv-org-ro,0,http://91.201.172.14:35005
 working,Sport,Digi Sport 2 HD,iptv-org-ro,0,http://91.201.172.14:35006
 working,Sport,Digi Sport 3 (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digi3/index.m3u8

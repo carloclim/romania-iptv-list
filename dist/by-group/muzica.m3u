@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 15:00 UTC  |  Canale: 12
+## Generat automat: 2026-07-21 15:10 UTC  |  Canale: 11
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -13,9 +13,6 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="ZUTV.ro@HD" tvg-name="ZU TV HD (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA3/JTJGMDIlMkYyODE4OTU4XzI4MTg5NThf/MTUyeDUwcHhfQ2hlZmlfSEQucG5nJmhh/c2g9MmMyMjYwMTk4NWEyMmFjZDIwZDQ3YTNiZmY1ZGNlODA=.png" group-title="Muzica",ZU TV HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/chefi/index.m3u8
-
-#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" tvg-logo="https://i.imgur.com/EvIDGyR.png" group-title="Muzica",Rapsodia TV
-http://92.86.248.141:8080/ram/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIwXzE1NTM0MjBf/TWFnaWNfVFYucG5nJmhhc2g9MzZlMGFj/OWY3NmVmNGQ0MmI3ZmFhMjNkNjk2MmY3MjE=.png" group-title="Muzica",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8

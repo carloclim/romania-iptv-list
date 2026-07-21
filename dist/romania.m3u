@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 15:00 UTC  |  Functionale: 87  |  De testat: 73
+## Generat automat: 2026-07-21 15:10 UTC  |  Functionale: 86  |  De testat: 73
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -117,10 +117,10 @@ https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-name="Nasul TV (720p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMyXzE1NTM0MzJf/TmFzdWxfVFYucG5nJmhhc2g9MTZiZGZj/ZTNkNjA2NGJhODJhZjMyNmM4OTBkNWQ0ZjE=.png" group-title="Stiri",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="Pro TV News (1080p)" tvg-logo="https://stirileprotv.ro/favicon.ico" group-title="Stiri",Pro TV News (1080p)
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="Pro TV News (1080p)" tvg-logo="https://logo.clearbit.com/stirileprotv.ro" group-title="Stiri",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 
-#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Stiri",Realitatea Star (576i)
+#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://logo.clearbit.com/realitatea.net" group-title="Stiri",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU2XzE1NTM2NTZf/RXVyb05ld3NfUm9tYW5pYV9IRC5wbmcm/aGFzaD1jYzE3ZWM1NDVmN2NjYjUxNDc3MjY2MzE1M2ZhODZjMg==.png" group-title="Stiri",Euronews România Ⓨ
@@ -151,7 +151,7 @@ https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwNzIzXzE5OTA3MjNf/VFZSLVNwb3J0LUhELS5wbmcmaGFzaD00/OWY2YTA4NjQ5NjYxNDAyMDU4OGM3N2YxMzA2MWE0OQ==.png" group-title="Sport",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/PThJPu2.png" group-title="Sport",Antena Sport [Not 24/7]
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Sport",Antena Sport [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-name="Prima Sport 5 (1080p)" tvg-logo="https://www.primasport.ro/favicon.ico" group-title="Sport",Prima Sport 5 (1080p)
@@ -178,7 +178,7 @@ https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/happy/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Filme",Comedy Play
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png" group-title="Filme",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Diva.ro@SD" tvg-name="Diva (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA0/JTJGMjElMkYyNjkyODk0XzI2OTI4OTRf/MTUyeDUwcHhfRElWQUhELnBuZyZoYXNo/PWM1YzA2ZDE5MmEwYTVjODEwMDg5ODE0MDFjODY2ZmY3.png" group-title="Filme",Diva (576p)
@@ -228,10 +228,10 @@ https://aes.m3u8simplu.workers.dev/digilife/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzExXzE1NTMzMTFf/QWdyb19UVi5wbmcmaGFzaD03NGU2YWIw/NDg5ODgwMzM5NWQ1MzRhZjg5NGVlNjc4Zg==.png" group-title="Documentare",Agro TV [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
-#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://i.imgur.com/TYUXPbU.png" group-title="Documentare",MediCOOL TV
+#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Documentare",MediCOOL TV
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://i.imgur.com/o0VJYrn.png" group-title="Documentare",Hello Taste
+#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Documentare",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-name="National Geographic (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM3XzE1NTM0Mzdf/TmF0aW9uYWxfR2VvZ3JhcGhpY19IRC5w/bmcmaGFzaD02NDkzYzhlNjU1MTFiNTM0M2YyN2NjYjAwZjYxNGNkMw==.png" group-title="Documentare",National Geographic (576p)
@@ -252,9 +252,6 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="ZUTV.ro@HD" tvg-name="ZU TV HD (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA3/JTJGMDIlMkYyODE4OTU4XzI4MTg5NThf/MTUyeDUwcHhfQ2hlZmlfSEQucG5nJmhh/c2g9MmMyMjYwMTk4NWEyMmFjZDIwZDQ3YTNiZmY1ZGNlODA=.png" group-title="Muzica",ZU TV HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/chefi/index.m3u8
-
-#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" tvg-logo="https://i.imgur.com/EvIDGyR.png" group-title="Muzica",Rapsodia TV
-http://92.86.248.141:8080/ram/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIwXzE1NTM0MjBf/TWFnaWNfVFYucG5nJmhhc2g9MzZlMGFj/OWY3NmVmNGQ0MmI3ZmFhMjNkNjk2MmY3MjE=.png" group-title="Muzica",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
@@ -297,7 +294,7 @@ https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
 #############################################
 ## Radio
 #############################################
-#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://www.profm.ro/favicon.ico" group-title="Radio",Pro FM
+#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://logo.clearbit.com/profm.ro" group-title="Radio",Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 
 #EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://www.europafm.ro/favicon.ico" group-title="Radio",Europa FM
@@ -497,7 +494,7 @@ https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
 #EXTINF:-1 tvg-id="NickJr.ro" tvg-name="Nick Jr Romania" tvg-logo="https://www.nickjr.tv/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Nick Jr Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nick-jr-ro/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon Romania" tvg-logo="https://www.nick.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Nickelodeon Romania
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMTglMkYxNzg0MzI0XzE3ODQzMjRf/MTUyeDUwcHhfTmlja2Vsb2Rlb24ucG5n/Jmhhc2g9OTBhZDBkYTFhM2Y5MTZkZmI0MWU5ZTkwMDM2ZjcwMWU=.png" group-title="Posibil Geo-blocat (de testat)",Nickelodeon Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nick-ro/manifest.m3u8
 
 #EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="https://noratelevizyonu.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Noroc TV
