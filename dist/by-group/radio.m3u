@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 15:10 UTC  |  Canale: 9
+## Generat automat: 2026-07-21 15:16 UTC  |  Canale: 9
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -10,10 +10,10 @@
 #EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://logo.clearbit.com/profm.ro" group-title="Radio",Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 
-#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://www.europafm.ro/favicon.ico" group-title="Radio",Europa FM
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Radio",Europa FM
 https://astreaming.edi.ro:8443/EuropaFM_aac
 
-#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://www.virginradio.ro/favicon.ico" group-title="Radio",Virgin Radio
+#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://logo.clearbit.com/virginradio.ro" group-title="Radio",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 
 #EXTINF:-1 tvg-id="KissFM.ro" tvg-name="Kiss FM" tvg-logo="https://www.kissfm.ro/favicon.ico" group-title="Radio",Kiss FM
