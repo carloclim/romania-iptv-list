@@ -51,6 +51,14 @@ def _load_blocklist(path: Path) -> list[str]:
     return [ln.strip() for ln in lines if ln.strip() and not ln.strip().startswith("#")]
 
 
+def _load_excludes(path: Path) -> set[str]:
+    try:
+        lines = path.read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        return set()
+    return {ln.strip().lower() for ln in lines if ln.strip() and not ln.strip().startswith("#")}
+
+
 def _write(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(text.encode("utf-8"))
@@ -259,6 +267,7 @@ def main() -> int:
     remotes = _load_json(SOURCES_DIR / "remotes.json", {}).get("sources", [])
     overrides = _load_json(DATA_DIR / "overrides.json", {}).get("overrides", [])
     blocklist = _load_blocklist(DATA_DIR / "blocklist.txt")
+    excludes = _load_excludes(DATA_DIR / "excludes.txt")
     group_order = config.get("group_order", [])
     vcfg = config.get("validate", {})
     out_dir = Path(args.out)
@@ -268,6 +277,7 @@ def main() -> int:
     print(f"  parsed {len(channels)} entries from: {', '.join(sources_used)}")
 
     channels = merger.apply_blocklist(channels, blocklist)
+    channels = [channel for channel in channels if channel.key not in excludes]
     chosen, cand_map = merger.dedupe(channels)
     chosen = apply_overrides(chosen, overrides)
     cat_cfg = _load_json(DATA_DIR / "categories.json", {})

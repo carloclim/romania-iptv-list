@@ -42,6 +42,7 @@ remotes.json sources ─┼─▶ parse ─▶ blocklist ─▶ dedupe/rank ─�
 - **`sources/remotes.json`** — public M3U sources to pull from, each with a `priority` (lower = more trusted).
 - **`data/overrides.json`** — force a specific URL/headers for a channel; always wins.
 - **`data/blocklist.txt`** — substrings of URLs to always exclude (dead hosts, takedowns).
+- **`data/excludes.txt`** — canonical channel IDs to remove from every source (for example, a non-working channel).
 - **`data/config.json`** — title, EPG guide URL(s), group order, validation timeout/concurrency.
 
 De-duplication matches channels by canonical `tvg-id` (e.g. `PROTV.ro@SD` == `ProTV.ro`),

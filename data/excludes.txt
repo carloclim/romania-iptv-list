@@ -1,0 +1,5 @@
+# Exclude channels by canonical tvg-id or normalized channel key.
+# These are removed before deduplication and cannot return from remote sources.
+bollywoodclassic.ro
+bollywoodhd.ro
+alephnews.ro
