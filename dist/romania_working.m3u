@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 13:18 UTC  |  Canale: 109
+## Generat automat: 2026-07-21 14:10 UTC  |  Canale: 99
 ## Surse: curated, free-tv-ro, iptv-org-ro
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -35,29 +35,11 @@ https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-name="Alfa Omega TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE0XzE1NTMzMTRf/QWxmYV9zaV9PbWVnYV9UVi5wbmcmaGFz/aD1kNDgwODQzMjBlNGU0ZmFmZmUyNGQ2ZjFhNTM3NDQyYQ==.png" group-title="Generale",Alfa Omega TV (1080p) [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 
-#EXTINF:-1 tvg-id="BanatTV.ro@SD" tvg-name="Banat TV (720p)" tvg-logo="" group-title="Generale",Banat TV (720p)
-https://www.btv.ro/hls/banat-tv.m3u8
-
-#EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-name="Bucovina TV (576i)" tvg-logo="" group-title="Generale",Bucovina TV (576i)
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-name="Columna TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUwXzE1NTMzNTBf/Q29sdW1uYV90di5wbmcmaGFzaD1hNjcy/MDIyOTdkZTY5MWJkNjY2ZGZmNzMyZjFkODdjNw==.png" group-title="Generale",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CredoTV.ro@SD" tvg-name="Credo TV (720p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUyXzE1NTMzNTJf/Q3JlZG9fVFYucG5nJmhhc2g9YTA4Yjg5/ODIxMzM0MjBjMmZmYjk0Y2E5NmY1Yzg5YTE=.png" group-title="Generale",Credo TV (720p) [Not 24/7]
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-name="Dotto TV (1080p)" tvg-logo="" group-title="Generale",Dotto TV (1080p)
-https://live.dottotv.ro/index.m3u8
-
-#EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-name="Exploris (576p) [Not 24/7]" tvg-logo="" group-title="Generale",Exploris (576p) [Not 24/7]
-http://89.38.8.130:39419
-
-#EXTINF:-1 tvg-id="Hunedoara1.ro@SD" tvg-name="Hunedoara 1 (480p) [Not 24/7]" tvg-logo="" group-title="Generale",Hunedoara 1 (480p) [Not 24/7]
-https://netstreaming.eu/hd1.m3u8
-
-#EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-name="Informatia TV" tvg-logo="" group-title="Generale",Informatia TV
-https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 
 #EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-name="JOB TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDEzXzE1NTM0MTNf/Sm9iX1RWLnBuZyZoYXNoPTliMTI5OTQxMjE5OTA5ZDM0MDA4ZjQ5ZWQxOGJkZTYz.png" group-title="Generale",JOB TV (1080p)
 https://jobtvserver.eu/hls/stream.m3u8
@@ -65,44 +47,20 @@ https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-name="Kanal D2 (1080i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODEyXzE3MTI4MTJf/MTUyeDUwX0thbmFsLUQyLUhELnBuZyZo/YXNoPTkxNTE4ZWNmMjgyMmE3YWM0OTE3ZjQ2MDMwNTVlNjJh.png" group-title="Generale",Kanal D2 (1080i)
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 
-#EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-name="Light Channel (480p) [Not 24/7]" tvg-logo="" group-title="Generale",Light Channel (480p) [Not 24/7]
-http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-name="LiraTV (720p)" tvg-logo="" group-title="Generale",LiraTV (720p)
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Generale",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="" group-title="Generale",Mireasa (720p)
+#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Mireasa+%28720p%29" group-title="Generale",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV" tvg-logo="" group-title="Generale",MISA TV
+#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=MISA+TV" group-title="Generale",MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="" group-title="Generale",Muscel TV (720p)
+#EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Muscel+TV+%28720p%29" group-title="Generale",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-name="Nova TV Brasov (576p) [Not 24/7]" tvg-logo="" group-title="Generale",Nova TV Brasov (576p) [Not 24/7]
-http://novapress.ro:2022/live/nova/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-name="ROTV Valencia (720p)" tvg-logo="" group-title="Generale",ROTV Valencia (720p)
-https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-name="SperantaTV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc0XzE1NTM0NzRf/U3BlcmFudGFfVFYucG5nJmhhc2g9ZTFh/Njk2NDA2Y2Q4MjI1YWYwYzdiYzY4Y2FjOThjNGU=.png" group-title="Generale",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-
-#EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-name="Super TV (576p)" tvg-logo="" group-title="Generale",Super TV (576p)
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-name="Tele7ABC HD (720p)" tvg-logo="" group-title="Generale",Tele7ABC HD (720p)
-https://live.tele7abc.ro/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-name="TeleM Botosani (540p) [Not 24/7]" tvg-logo="" group-title="Generale",TeleM Botosani (540p) [Not 24/7]
-http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-name="TeleMoldova + [Geo-blocked]" tvg-logo="" group-title="Generale",TeleMoldova + [Geo-blocked]
-https://vdo.ssl-stream.com:3247/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="Generale",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
@@ -110,11 +68,8 @@ https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-name="Traditional TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDg0XzE1NTM0ODRf/VHJhZGl0aW9uYWxfVFYucG5nJmhhc2g9/ZWM1YzQwNWUzYTFlM2E1MmQxZWExYzJhMDljNGYzNzM=.png" group-title="Generale",Traditional TV (1080p)
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 
-#EXTINF:-1 tvg-id="TVBuzau.ro@SD" tvg-name="TV Buzau (576p)" tvg-logo="" group-title="Generale",TV Buzau (576p)
-http://78.96.33.89:8080
-
-#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-name="TVPlus Suceava (576p)" tvg-logo="" group-title="Generale",TVPlus Suceava (576p)
-http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSUD.ro@SD" tvg-name="TV SUD (1080p) [Geo-blocked]" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=TV+SUD+%281080p%29+%5BGeo-blocked%5D" group-title="Generale",TV SUD (1080p) [Geo-blocked]
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 
 #EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="Generale",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
@@ -134,7 +89,7 @@ https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-name="TVR Cultural" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTc5XzE3Nzk1Nzlf/MTUyeDUwcHhfVFZSLUN1bHR1cmFsX2xh/bmRzY2FwZS5wbmcmaGFzaD0yOGI2NzE0/MmM2Y2FhZjUzNGY1OWRmMTFiMzkzOGNkOQ==.png" group-title="Generale",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRFolclor.ro@SD" tvg-name="TVR Folclor" tvg-logo="" group-title="Generale",TVR Folclor
+#EXTINF:-1 tvg-id="TVRFolclor.ro@SD" tvg-name="TVR Folclor" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=TVR+Folclor" group-title="Generale",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Generale",TVR Iasi (1080p) [Not 24/7]
@@ -152,22 +107,11 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-name="TVR Timisoara" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="Generale",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-name="TVSat (576p) [Not 24/7]" tvg-logo="" group-title="Generale",TVSat (576p) [Not 24/7]
-http://89.38.8.130:39443
-
 #EXTINF:-1 tvg-id="PROTVInternational.ro@SD" tvg-name="PRO TV International (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxNiUyRjEzMDE0MDZfMTMwMTQwNl9Q/Uk8tVFYtSU5URVJOQVRJT05BTC5wbmcm/aGFzaD05MDc0MDIyZTA3OGVlM2Y1YzQ3NDg1NTQ4NTdlYWFjYw==.png" group-title="Generale",PRO TV International (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/protvint/index.m3u8
 
-#EXTINF:-1 tvg-id="AntenaInternational.ro@SD" tvg-name="Antena International (720p)" tvg-logo="" group-title="Generale",Antena International (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/antenaint/index.m3u8
-
-#EXTINF:-1 tvg-id="B1.ro@SD" tvg-name="B1 (1080p)" tvg-logo="" group-title="Generale",B1 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/b1/index.m3u8
-
-#EXTINF:-1 tvg-id="Prima4K.ro@SD" tvg-name="Prima 4K (720p)" tvg-logo="" group-title="Generale",Prima 4K (720p)
+#EXTINF:-1 tvg-id="Prima4K.ro@SD" tvg-name="Prima 4K (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Prima+4K+%28720p%29" group-title="Generale",Prima 4K (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
 
@@ -188,16 +132,16 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="https://i.imgur.com/2z4F1UT.png" group-title="Stiri",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
-#EXTINF:-1 tvg-id="AlephBusiness.ro@SD" tvg-name="Aleph Business (1280p)" tvg-logo="" group-title="Stiri",Aleph Business (1280p)
+#EXTINF:-1 tvg-id="AlephBusiness.ro@SD" tvg-name="Aleph Business (1280p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Aleph+Business+%281280p%29" group-title="Stiri",Aleph Business (1280p)
 https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-name="Nasul TV (720p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMyXzE1NTM0MzJf/TmFzdWxfVFYucG5nJmhhc2g9MTZiZGZj/ZTNkNjA2NGJhODJhZjMyNmM4OTBkNWQ0ZjE=.png" group-title="Stiri",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="Pro TV News (1080p)" tvg-logo="" group-title="Stiri",Pro TV News (1080p)
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-name="Pro TV News (1080p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Pro+TV+News+%281080p%29" group-title="Stiri",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 
-#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="" group-title="Stiri",Realitatea Star (576i)
+#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Realitatea+Star+%28576i%29" group-title="Stiri",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Stiri",Euronews România Ⓨ
@@ -228,7 +172,7 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/PThJPu2.png" group-title="Sport",Antena Sport [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-name="Prima Sport 5 (1080p)" tvg-logo="" group-title="Sport",Prima Sport 5 (1080p)
+#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-name="Prima Sport 5 (1080p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Prima+Sport+5+%281080p%29" group-title="Sport",Prima Sport 5 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 
@@ -259,7 +203,7 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/diva/index.m3u8
 
-#EXTINF:-1 tvg-id="TV1000.ro@SD" tvg-name="TV1000 (720p)" tvg-logo="" group-title="Filme",TV1000 (720p)
+#EXTINF:-1 tvg-id="TV1000.ro@SD" tvg-name="TV1000 (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=TV1000" group-title="Filme",TV1000 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
 
@@ -267,7 +211,7 @@ https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 
-#EXTINF:-1 tvg-id="TimelessDiziChannel.ro@SD" tvg-name="Timeless Dizi Channel (576p)" tvg-logo="" group-title="Filme",Timeless Dizi Channel (576p)
+#EXTINF:-1 tvg-id="TimelessDiziChannel.ro@SD" tvg-name="Timeless Dizi Channel (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Timeless+Dizi+Channel+%28576p%29" group-title="Filme",Timeless Dizi Channel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/dizi/index.m3u8
 
@@ -303,7 +247,7 @@ https://aes.m3u8simplu.workers.dev/digiworld/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digilife/index.m3u8
 
-#EXTINF:-1 tvg-id="History.ro@SD" tvg-name="History (576p)" tvg-logo="" group-title="Documentare",History (576p)
+#EXTINF:-1 tvg-id="History.ro@SD" tvg-name="History (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=History+Romania" group-title="Documentare",History (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/history/index.m3u8
 
@@ -356,14 +300,14 @@ https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
-#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music" tvg-logo="" group-title="Muzica",Tele7music
+#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Tele7music" group-title="Muzica",Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMxXzE1NTM0MzFf/TXVzaWNfQ2hhbm5lbC5wbmcmaGFzaD04/NTgxZjRmMGVjMzc1ZWJiZmRkMWM5NTAzMzM1ZDk4Mw==.png" group-title="Muzica",Music Channel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="UTV.ro@SD" tvg-name="UTV (1080p)" tvg-logo="" group-title="Muzica",UTV (1080p)
+#EXTINF:-1 tvg-id="UTV.ro@SD" tvg-name="UTV (1080p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=UTV+%281080p%29" group-title="Muzica",UTV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/utv/index.m3u8
 
@@ -371,27 +315,27 @@ https://aes.m3u8simplu.workers.dev/utv/index.m3u8
 #############################################
 ## Kids
 #############################################
-#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-name="Nickelodeon (576p)" tvg-logo="" group-title="Kids",Nickelodeon (576p)
+#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-name="Nickelodeon (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Nickelodeon+Romania" group-title="Kids",Nickelodeon (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.ro@SD" tvg-name="Nick Jr. (576p)" tvg-logo="" group-title="Kids",Nick Jr. (576p)
+#EXTINF:-1 tvg-id="NickJr.ro@SD" tvg-name="Nick Jr. (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Nick+Jr+Romania" group-title="Kids",Nick Jr. (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-name="Disney Channel (576p)" tvg-logo="" group-title="Kids",Disney Channel (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-name="Disney Channel (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Disney+Channel+Romania" group-title="Kids",Disney Channel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.ro@SD" tvg-name="Disney Junior (576p)" tvg-logo="" group-title="Kids",Disney Junior (576p)
+#EXTINF:-1 tvg-id="DisneyJunior.ro@SD" tvg-name="Disney Junior (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Disney+Junior+Romania" group-title="Kids",Disney Junior (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-id="JimJam.ro@SD" tvg-name="JimJam (576p)" tvg-logo="" group-title="Kids",JimJam (576p)
+#EXTINF:-1 tvg-id="JimJam.ro@SD" tvg-name="JimJam (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=JimJam+Romania" group-title="Kids",JimJam (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.ro@SD" tvg-name="Nicktoons (576p)" tvg-logo="" group-title="Kids",Nicktoons (576p)
+#EXTINF:-1 tvg-id="Nicktoons.ro@SD" tvg-name="Nicktoons (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Nicktoons+%28576p%29" group-title="Kids",Nicktoons (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
 
@@ -399,5 +343,29 @@ https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
 #############################################
 ## Radio
 #############################################
-#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="" group-title="Radio",Radio Fx Net (720p)
+#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Pro+FM" group-title="Radio",Pro FM
+https://edge126.rcs-rds.ro/profm/profm.mp3
+
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Europa+FM" group-title="Radio",Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
+
+#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Virgin+Radio" group-title="Radio",Virgin Radio
+http://astreaming.virginradio.ro:8000/virgin_aacp_64k
+
+#EXTINF:-1 tvg-id="KissFM.ro" tvg-name="Kiss FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Kiss+FM" group-title="Radio",Kiss FM
+https://live.kissfm.ro/kissfm.aacp
+
+#EXTINF:-1 tvg-id="MagicFM.ro" tvg-name="Magic FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Magic+FM" group-title="Radio",Magic FM
+https://live.magicfm.ro/magicfm.aacp
+
+#EXTINF:-1 tvg-id="RockFM.ro" tvg-name="Rock FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Rock+FM" group-title="Radio",Rock FM
+https://live.rockfm.ro/rockfm.aacp
+
+#EXTINF:-1 tvg-id="DigiFM.ro" tvg-name="Digi FM" tvg-logo="https://www.digifm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=release-2022091104-v15" group-title="Radio",Digi FM
+http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+
+#EXTINF:-1 tvg-id="RadioGuerrilla.ro" tvg-name="Radio Guerrilla" tvg-logo="https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png" group-title="Radio",Radio Guerrilla
+https://live.guerrillaradio.ro:8443/guerrilla.aac
+
+#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Radio+Fx+Net+%28720p%29" group-title="Radio",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8

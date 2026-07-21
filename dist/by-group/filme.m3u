@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 13:18 UTC  |  Canale: 11
+## Generat automat: 2026-07-21 14:10 UTC  |  Canale: 11
 ## Surse: curated, free-tv-ro, iptv-org-ro
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -22,7 +22,7 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/diva/index.m3u8
 
-#EXTINF:-1 tvg-id="TV1000.ro@SD" tvg-name="TV1000 (720p)" tvg-logo="" group-title="Filme",TV1000 (720p)
+#EXTINF:-1 tvg-id="TV1000.ro@SD" tvg-name="TV1000 (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=TV1000" group-title="Filme",TV1000 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
 
@@ -30,7 +30,7 @@ https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 
-#EXTINF:-1 tvg-id="TimelessDiziChannel.ro@SD" tvg-name="Timeless Dizi Channel (576p)" tvg-logo="" group-title="Filme",Timeless Dizi Channel (576p)
+#EXTINF:-1 tvg-id="TimelessDiziChannel.ro@SD" tvg-name="Timeless Dizi Channel (576p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Timeless+Dizi+Channel+%28576p%29" group-title="Filme",Timeless Dizi Channel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/dizi/index.m3u8
 

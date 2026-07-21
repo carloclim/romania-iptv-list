@@ -337,26 +337,33 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 ## RADIO (cu stream video)
 #############################################
 
-#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="" group-title="Radio",Pro FM
-https://live3.cdn.dejacast.com/profm/profm_0.m3u8
+#EXTINF:-1 tvg-id="ProFM.ro" group-title="Radio",Pro FM
+https://edge126.rcs-rds.ro/profm/profm.mp3
 
-#EXTINF:-1 tvg-id="KissFM.ro" tvg-name="Kiss FM" tvg-logo="" group-title="Radio",Kiss FM
-https://live3.cdn.dejacast.com/kissfm/kissfm_0.m3u8
+#EXTINF:-1 tvg-id="EuropaFM.ro" group-title="Radio",Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
 
-#EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" tvg-logo="" group-title="Radio",Radio ZU
-https://live3.cdn.dejacast.com/radiozu/radiozu_0.m3u8
+#EXTINF:-1 tvg-id="DanceFM.ro" group-title="Radio",Dance FM
+https://astreaming.edi.ro:8443/dancefm_aac
 
-#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="" group-title="Radio",Europa FM
-https://live3.cdn.dejacast.com/europafm/europafm_0.m3u8
+#EXTINF:-1 tvg-id="VirginRadio.ro" group-title="Radio",Virgin Radio
+http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 
-#EXTINF:-1 tvg-id="MagicFM.ro" tvg-name="Magic FM" tvg-logo="" group-title="Radio",Magic FM
-https://live3.cdn.dejacast.com/magicfm/magicfm_0.m3u8
+#EXTINF:-1 tvg-id="KissFM.ro" group-title="Radio",Kiss FM
+https://live.kissfm.ro/kissfm.aacp
 
-#EXTINF:-1 tvg-id="RockFM.ro" tvg-name="Rock FM" tvg-logo="" group-title="Radio",Rock FM
-https://live3.cdn.dejacast.com/rockfm/rockfm_0.m3u8
+#EXTINF:-1 tvg-id="MagicFM.ro" group-title="Radio",Magic FM
+https://live.magicfm.ro/magicfm.aacp
 
-#EXTINF:-1 tvg-id="DanceFM.ro" tvg-name="Dance FM" tvg-logo="" group-title="Radio",Dance FM
-https://live3.cdn.dejacast.com/dancefm/dancefm_0.m3u8
+#EXTINF:-1 tvg-id="RockFM.ro" group-title="Radio",Rock FM
+https://live.rockfm.ro/rockfm.aacp
 
-#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio Romania" tvg-logo="" group-title="Radio",Virgin Radio Romania
-https://live3.cdn.dejacast.com/virginradio/virginradio_0.m3u8
+#EXTINF:-1 tvg-id="RadioZU.ro" group-title="Radio",Radio ZU
+https://live.radiozu.ro/radiozu.aacp
+
+#EXTINF:-1 tvg-id="DigiFM.ro" tvg-name="Digi FM" tvg-logo="https://www.digifm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=release-2022091104-v15" group-title="Radio",Digi FM
+http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+
+#EXTINF:-1 tvg-id="RadioGuerrilla.ro" tvg-name="Radio Guerrilla" tvg-logo="https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png" group-title="Radio",Radio Guerrilla
+https://live.guerrillaradio.ro:8443/guerrilla.aac
+

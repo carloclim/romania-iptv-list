@@ -4,6 +4,7 @@ from __future__ import annotations
 import re
 import unicodedata
 from html.parser import HTMLParser
+from urllib.parse import quote_plus
 
 import httpx
 
@@ -94,4 +95,12 @@ def apply_digi_logos(channels: list[Channel], logos: dict[str, str]) -> int:
         if logo:
             channel.tvg_logo = logo
             applied += 1
+            continue
+
+        # Last-resort fallback: generate a simple text logo so every channel has artwork.
+        label = (channel.tvg_name or channel.name or channel.tvg_id or "TV").strip()
+        channel.tvg_logo = (
+            "https://dummyimage.com/320x180/1c1f24/ffffff.png&text=" + quote_plus(label)
+        )
+        applied += 1
     return applied
