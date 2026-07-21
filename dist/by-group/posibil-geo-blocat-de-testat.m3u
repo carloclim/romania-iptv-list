@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:23 UTC  |  Canale: 68
+## Generat automat: 2026-07-21 14:24 UTC  |  Canale: 69
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -201,6 +201,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="TravelChannel.ro" tvg-name="Travel Channel" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Travel Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/travel-channel-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVSUD.ro@SD" tvg-name="TV SUD (1080p) [Geo-blocked]" tvg-logo="https://www.tvsud.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",TV SUD (1080p) [Geo-blocked]
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 
 #EXTINF:-1 tvg-id="TV1000.ro" tvg-name="TV1000" tvg-logo="https://www.viasatworld.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",TV1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv1000/manifest.m3u8

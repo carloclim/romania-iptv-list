@@ -66,6 +66,7 @@ dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
 geo,Generale,PRO 2,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
 geo,Generale,PRO GOLD,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
 geo,Generale,PRO X,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
+geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 working,Documentare,Digi Animal World (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8
@@ -107,7 +108,6 @@ working,Generale,PRO TV International (1080p),iptv-org-ro,1080,https://aes.m3u8s
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,iptv-org-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 working,Generale,Traditional TV (1080p),iptv-org-ro,1080,http://83.103.149.75:8085/udp/239.30.0.9:4000
-working,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 working,Generale,TVR 1,iptv-org-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 working,Generale,TVR 2,iptv-org-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 working,Generale,TVR 3,iptv-org-ro,0,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
