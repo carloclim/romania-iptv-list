@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:24 UTC  |  Canale: 34
+## Generat automat: 2026-07-21 14:42 UTC  |  Canale: 32
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -11,16 +11,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/antena1/index.m3u8
 
-#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://i.imgur.com/iMoHkdO.png" group-title="Generale",Antena Monden
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Generale",Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AntenaStars.ro@SD" tvg-name="Antena Stars (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Antena_Stars_logo.png/200px-Antena_Stars_logo.png" group-title="Generale",Antena Stars (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8
-
-#EXTINF:-1 tvg-id="PROTV.ro@SD" tvg-name="PRO TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PRO_TV_logo.svg/200px-PRO_TV_logo.svg.png" group-title="Generale",PRO TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/protv/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV (1080p)" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Generale",Prima TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

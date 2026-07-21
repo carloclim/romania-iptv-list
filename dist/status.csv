@@ -4,15 +4,15 @@ dead,Documentare,Arcadia Television,curated,0,https://office.softer.ro/hls/strea
 dead,Documentare,Discovery Channel,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/discovery-ro/manifest.m3u8
 dead,Documentare,DocuBox,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/docubox/manifest.m3u8
 dead,Documentare,History Romania,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/history-ro/manifest.m3u8
-dead,Documentare,Nat Geo Wild,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nat-geo-wild-ro/manifest.m3u8
+dead,Documentare,Nat Geo Wild,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nat-geo-wild-ro/manifest.m3u8
 dead,Documentare,National Geographic,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nat-geo-ro/manifest.m3u8
 dead,Documentare,Travel Channel,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/travel-channel-ro/manifest.m3u8
-dead,Documentare,Viasat Explorer,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-explorer-ro/manifest.m3u8
+dead,Documentare,Viasat Explorer,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-explorer-ro/manifest.m3u8
 dead,Documentare,Viasat History,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-history-ro/manifest.m3u8
 dead,Documentare,Viasat Nature,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-nature-ro/manifest.m3u8
 dead,Filme,AMC Romania,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amc-ro/manifest.m3u8
-dead,Filme,Cinema Classic TV,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-classic/manifest.m3u8
-dead,Filme,ComedyEst,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/comedyest/manifest.m3u8
+dead,Filme,Cinema Classic TV,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-classic/manifest.m3u8
+dead,Filme,ComedyEst,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/comedyest/manifest.m3u8
 dead,Filme,Epic Drama,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-drama/manifest.m3u8
 dead,Filme,Film Cafe,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/film-cafe/manifest.m3u8
 dead,Filme,FilmBox,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox/manifest.m3u8
@@ -21,14 +21,15 @@ dead,Filme,FilmBox Family,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/mas
 dead,Filme,FilmBox Premium,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox-premium/manifest.m3u8
 dead,Filme,FilmBox Stars,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmbox-stars/manifest.m3u8
 dead,Filme,FilmZone,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/filmzone/manifest.m3u8
-dead,Filme,HDNet RO 4K,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hdnetro/manifest.m3u8
-dead,Filme,Mega Action+,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-action/manifest.m3u8
-dead,Filme,Mega Comedy,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-comedy/manifest.m3u8
-dead,Filme,Timeless Drama Channel,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/timeless-drama/manifest.m3u8
+dead,Filme,HDNet RO 4K,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hdnetro/manifest.m3u8
+dead,Filme,Mega Action+,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-action/manifest.m3u8
+dead,Filme,Mega Comedy,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-comedy/manifest.m3u8
+dead,Filme,Timeless Drama Channel,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/timeless-drama/manifest.m3u8
 dead,Filme,TV1000,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv1000/manifest.m3u8
 dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls/angelustv.m3u8
-dead,Generale,Antena Comedy,curated,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
-dead,Generale,Antena Cook & Play,curated,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
+dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
+dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
+dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
 dead,Generale,Arges TV (720p),iptv-org-ro,720,https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,National TV,curated,0,https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
@@ -38,34 +39,33 @@ dead,Kids,Cartoon Network Romania,curated,0,https://d35j504z0x2vu2.cloudfront.ne
 dead,Kids,Disney Channel Romania,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/disney-channel-ro/manifest.m3u8
 dead,Kids,Disney Junior Romania,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/disney-junior-ro/manifest.m3u8
 dead,Kids,JimJam Romania,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jimjam-ro/manifest.m3u8
-dead,Kids,Mega Kids,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-kids/manifest.m3u8
+dead,Kids,Mega Kids,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-kids/manifest.m3u8
 dead,Kids,Minimax Romania,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/minimax-ro/manifest.m3u8
 dead,Kids,Nick Jr Romania,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nick-jr-ro/manifest.m3u8
 dead,Kids,Nickelodeon Romania,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nick-ro/manifest.m3u8
 dead,Muzica,1 Music Channel,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/1music/manifest.m3u8
 dead,Muzica,Balkan TV,curated,0,https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
-dead,Muzica,Dibi TV,curated,0,https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
-dead,Muzica,Hit Music Channel,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hit-music/manifest.m3u8
+dead,Muzica,Dibi TV,override,0,https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
+dead,Muzica,Hit Music Channel,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hit-music/manifest.m3u8
 dead,Muzica,Hora TV,curated,0,https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
 dead,Muzica,Mooz Dance,curated,0,https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 dead,Muzica,Mooz Hits,curated,0,https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-dead,Muzica,MTV Europe,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mtv-europe/manifest.m3u8
+dead,Muzica,MTV Europe,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mtv-europe/manifest.m3u8
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
 dead,Muzica,Taraf TV,curated,0,https://live3.cdn.dejacast.com/taraf/taraf_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
-dead,Radio,Radio ZU,curated,0,https://live.radiozu.ro/radiozu.aacp
-dead,Sport,Digi Sport 1,curated,0,https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
-dead,Sport,Digi Sport 2,curated,0,https://live3.cdn.dejacast.com/digisport2/digisport2_0.m3u8
+dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
 dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
 dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
-dead,Sport,Extreme Sport,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/extreme-sport/manifest.m3u8
+dead,Sport,Extreme Sport,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/extreme-sport/manifest.m3u8
 dead,Sport,FightBox HD,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fightbox/manifest.m3u8
 dead,Stiri,Antena 3 CNN,curated,0,https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8
 dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
-geo,Generale,PRO 2,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
-geo,Generale,PRO GOLD,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
-geo,Generale,PRO X,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
+geo,Generale,PRO 2,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
+geo,Generale,PRO GOLD,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
+geo,Generale,PRO TV,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist.m3u8
+geo,Generale,PRO X,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
 geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -89,8 +89,7 @@ working,Filme,Timeless Dizi Channel (576p),override,576,https://aes.m3u8simplu.w
 working,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 working,Generale,Alfa Omega TV (1080p) [Not 24/7],iptv-org-ro,1080,https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 working,Generale,Antena 1 (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/antena1/index.m3u8
-working,Generale,Antena Monden,curated,0,https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-working,Generale,Antena Stars (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8
+working,Generale,Antena Monden,override,0,https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 working,Generale,EMI TV,iptv-org-ro,0,https://astra.emitv.ro/hls/emi/index.m3u8
@@ -103,7 +102,6 @@ working,Generale,MISA TV,override,0,https://vidl.misatv.ro:5050/MSTV/romanian_72
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 working,Generale,Prima 4K (720p),override,720,https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
 working,Generale,Prima TV (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/primatv/index.m3u8
-working,Generale,PRO TV (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/protv/index.m3u8
 working,Generale,PRO TV International (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/protvint/index.m3u8
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,iptv-org-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
@@ -143,6 +141,8 @@ working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guer
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Sport,Antena Sport [Not 24/7],curated,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+working,Sport,Digi Sport 1 HD,iptv-org-ro,0,http://91.201.172.14:35005
+working,Sport,Digi Sport 2 HD,iptv-org-ro,0,http://91.201.172.14:35006
 working,Sport,Digi Sport 3 (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
 working,Sport,Digi Sport 4 (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
 working,Sport,Prima Sport 5 (1080p),override,1080,https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8

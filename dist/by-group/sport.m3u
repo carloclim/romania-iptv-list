@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:24 UTC  |  Canale: 8
+## Generat automat: 2026-07-21 14:42 UTC  |  Canale: 10
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Sport
 #############################################
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-name="Digi Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 1 HD
+http://91.201.172.14:35005
+
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-name="Digi Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 2 HD
+http://91.201.172.14:35006
+
 #EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-name="Digi Sport 3 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
