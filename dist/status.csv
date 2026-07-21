@@ -28,6 +28,7 @@ dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls
 dead,Generale,Antena Comedy,curated,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,curated,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Arges TV (720p),iptv-org-ro,720,https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+dead,Generale,Bucovina TV (576i),iptv-org-ro,576,https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,National TV,curated,0,https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
 dead,Generale,Observator News,curated,0,https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
@@ -65,6 +66,7 @@ dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
 geo,Generale,PRO 2,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
 geo,Generale,PRO GOLD,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
 geo,Generale,PRO X,curated,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
+geo,Generale,TV SUD (1080p) [Geo-blocked],iptv-org-ro,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 working,Documentare,Digi Animal World (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8
@@ -96,7 +98,6 @@ working,Generale,Antena Monden,curated,0,https://stream1.antenaplay.ro/live/Ante
 working,Generale,Antena Stars (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8
 working,Generale,B1 (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/b1/index.m3u8
 working,Generale,Banat TV (720p),iptv-org-ro,720,https://www.btv.ro/hls/banat-tv.m3u8
-working,Generale,Bucovina TV (576i),iptv-org-ro,576,https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 working,Generale,Dotto TV (1080p),iptv-org-ro,1080,https://live.dottotv.ro/index.m3u8
@@ -127,7 +128,6 @@ working,Generale,TeleMoldova + [Geo-blocked],iptv-org-ro,0,https://vdo.ssl-strea
 working,Generale,Telestar1,iptv-org-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 working,Generale,Traditional TV (1080p),iptv-org-ro,1080,http://83.103.149.75:8085/udp/239.30.0.9:4000
 working,Generale,TV Buzau (576p),iptv-org-ro,576,http://78.96.33.89:8080
-working,Generale,TV SUD (1080p) [Geo-blocked],iptv-org-ro,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 working,Generale,TVPlus Suceava (576p),iptv-org-ro,576,http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 working,Generale,TVR 1,iptv-org-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 working,Generale,TVR 2,iptv-org-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
