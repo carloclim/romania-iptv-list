@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:10 UTC  |  Canale: 61
+## Generat automat: 2026-07-21 14:11 UTC  |  Canale: 62
 ## Surse: curated, free-tv-ro, iptv-org-ro
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -183,6 +183,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="TravelChannel.ro" tvg-name="Travel Channel" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Travel+Channel" group-title="Posibil Geo-blocat (de testat)",Travel Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/travel-channel-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVSUD.ro@SD" tvg-name="TV SUD (1080p) [Geo-blocked]" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=TV+SUD+%281080p%29+%5BGeo-blocked%5D" group-title="Posibil Geo-blocat (de testat)",TV SUD (1080p) [Geo-blocked]
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 
 #EXTINF:-1 tvg-id="ViasatExplorer.ro" tvg-name="Viasat Explorer" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Viasat+Explorer" group-title="Posibil Geo-blocat (de testat)",Viasat Explorer
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-explorer-ro/manifest.m3u8
