@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
+## Lista IPTV Romania - agregata automat
+## Generat automat: 2026-07-21 12:51 UTC  |  Canale: 8
+## Surse: curated, free-tv-ro, iptv-org-ro
+## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
+
+#############################################
+## Sport
+#############################################
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-name="Digi Sport 3 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-name="Digi Sport 4 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Digi_Sport.svg/200px-Digi_Sport.svg.png" group-title="Sport",Digi Sport 4 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="" group-title="Sport",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-name="Realitatea Sportiva (720p)" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sport",Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://i.imgur.com/PThJPu2.png" group-title="Sport",Antena Sport [Not 24/7]
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-name="Prima Sport 5 (1080p)" tvg-logo="" group-title="Sport",Prima Sport 5 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
+
+#EXTINF:-1 tvg-id="ProArena.ro@SD" tvg-name="Pro Arena (1080p)" tvg-logo="" group-title="Sport",Pro Arena (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/proarena/index.m3u8
+
+#EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-name="Sport Extra (1080p)" tvg-logo="" group-title="Sport",Sport Extra (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8

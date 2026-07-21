@@ -1,0 +1,32 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
+## Lista IPTV Romania - agregata automat
+## Generat automat: 2026-07-21 12:51 UTC  |  Canale: 6
+## Surse: curated, free-tv-ro, iptv-org-ro
+## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
+
+#############################################
+## Kids
+#############################################
+#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-name="Nickelodeon (576p)" tvg-logo="" group-title="Kids",Nickelodeon (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ro@SD" tvg-name="Nick Jr. (576p)" tvg-logo="" group-title="Kids",Nick Jr. (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-name="Disney Channel (576p)" tvg-logo="" group-title="Kids",Disney Channel (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ro@SD" tvg-name="Disney Junior (576p)" tvg-logo="" group-title="Kids",Disney Junior (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJam.ro@SD" tvg-name="JimJam (576p)" tvg-logo="" group-title="Kids",JimJam (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.ro@SD" tvg-name="Nicktoons (576p)" tvg-logo="" group-title="Kids",Nicktoons (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8

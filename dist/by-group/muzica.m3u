@@ -1,0 +1,47 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
+## Lista IPTV Romania - agregata automat
+## Generat automat: 2026-07-21 12:51 UTC  |  Canale: 12
+## Surse: curated, free-tv-ro, iptv-org-ro
+## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
+
+#############################################
+## Muzica
+#############################################
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Muzica",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="ZUTV.ro@HD" tvg-name="ZU TV HD (720p)" tvg-logo="" group-title="Muzica",ZU TV HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/chefi/index.m3u8
+
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" tvg-logo="https://i.imgur.com/EvIDGyR.png" group-title="Muzica",Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="Muzica",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Muzica",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Muzica",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music" tvg-logo="" group-title="Muzica",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel (576p)" tvg-logo="" group-title="Muzica",Music Channel (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="UTV.ro@SD" tvg-name="UTV (1080p)" tvg-logo="" group-title="Muzica",UTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/utv/index.m3u8

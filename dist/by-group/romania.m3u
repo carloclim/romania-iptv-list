@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
+## Lista IPTV Romania - agregata automat
+## Generat automat: 2026-07-21 12:45 UTC  |  Canale: 12
+## Surse: curated, free-tv-ro, iptv-org-ro
+## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
+
+#############################################
+## Romania
+#############################################
+#EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="Romania",Telestar1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+
+#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="Romania",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="Romania",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-name="TVR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png" group-title="Romania",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="Romania",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Romania",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Romania",TVR Iasi (1080p) [Not 24/7]
+http://82.208.141.70:8778/1.m3u8
+
+#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-name="TVR Info" tvg-logo="https://i.imgur.com/7oE7ThR.png" group-title="Romania",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-name="TVR International" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="Romania",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRTarguMures.ro@SD" tvg-name="TVR Targu-Mures" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Romania",TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-name="TVR Timisoara" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="Romania",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="Romania",Euronews România Ⓨ
+https://www.youtube.com/euronewsro/live

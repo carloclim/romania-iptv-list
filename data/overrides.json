@@ -1,0 +1,13 @@
+{
+  "_comment": "Manual per-channel URL overrides. These always win over any source. Match by 'key' (canonical tvg-id, e.g. 'protv.ro', or canonical name if no tvg-id). Optional: name, tvg_logo, group, headers.",
+  "overrides": [
+    {
+      "key": "example.ro",
+      "name": "Example Channel",
+      "group": "Generale",
+      "url": "",
+      "headers": { "Referer": "", "User-Agent": "" },
+      "enabled": false
+    }
+  ]
+}

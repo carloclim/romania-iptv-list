@@ -1,0 +1,3 @@
+# Blocklist: any stream URL that CONTAINS one of these substrings is excluded.
+# One pattern per line. Lines starting with '#' are comments.
+# Use this for dead hosts or to honor DMCA / takedown requests.

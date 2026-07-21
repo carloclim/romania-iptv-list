@@ -1,0 +1,13 @@
+{
+  "_comment": "Keyword-based categorization for channels whose source group is not already one of config.group_order. First matching category wins (evaluated in this order). Match is a lowercase substring test against 'name + tvg-id'. Edit freely.",
+  "default": "Generale",
+  "rules": {
+    "Stiri": ["stiri", "news", "digi 24", "digi24", "realitatea", "antena 3", "antena3", "b1 tv", "b1tv", "romania tv", "romaniatv", "euronews", "cnn", "aleph", "prima news", "primanews", "national 24", "nasul", "deutsche welle", " dw", "bbc world"],
+    "Sport": ["sport", "eurosport", "arena", "fightbox", "fight box", "extreme sport", "look plus", "look sport", "prima sport", "digi sport"],
+    "Kids": ["kids", "junior", "cartoon", "nickelodeon", "nick jr", "nicktoons", "disney", "minimax", "boomerang", "jimjam", "jim jam", "duck tv", "tralala", "mega kids", "da vinci", "cartoonito"],
+    "Documentare": ["discovery", "nat geo", "geographic", "natgeo", "history", "animal", "viasat", "travel", "docu", "digi world", "digiworld", "digi life", "digilife", "bbc earth", "tlc", "food network", "hgtv", "paprika", "fishing", "hunting", "agro"],
+    "Radio": ["radio", "profm", "pro fm", "kiss fm", "europa fm", "magic fm", "rock fm", "dance fm", "virgin radio", "digi fm"],
+    "Muzica": ["music", "muzica", "hit music", "manele", "etno", "taraf", "kiss tv", "kisstv", "zu tv", "zutv", "mtv", "party mix", "mooz", "magic tv", "magictv", "rock tv", "rocktv", "atomic", "dance", "mezzo", " utv", "balkan", "hora tv", "rapsodia", "impact tv", "dibi", "noroc", "tezaur"],
+    "Filme": ["film", "cinema", "cinemax", "hbo", "axn", "amc", "movie", "warner", "bollywood", "diva", "epic drama", "comedy", "megamax", "happy channel", "acasa", "filmbox", "tv1000", "hdnet", "timeless", "comedyest", "viasatkino"]
+  }
+}

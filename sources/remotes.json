@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "id": "iptv-org-ro",
+      "name": "iptv-org Romania",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ro.m3u",
+      "priority": 20,
+      "enabled": true,
+      "note": "Community-maintained, updated daily. Main auto-heal source for fresh URLs."
+    },
+    {
+      "id": "free-tv-ro",
+      "name": "Free-TV/IPTV Romania",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_romania.m3u8",
+      "priority": 15,
+      "enabled": true,
+      "note": "Curated free-to-air RO channels with official-CDN URLs (TVR family, Pro TV, Prima, Romania TV)."
+    },
+    {
+      "id": "roiptv",
+      "name": "robert-sz-76/RoIptv",
+      "url": "",
+      "priority": 30,
+      "enabled": false,
+      "note": "Fill in the raw .m3u URL for this repo and set enabled=true to include it."
+    },
+    {
+      "id": "extra",
+      "name": "Your extra source",
+      "url": "",
+      "priority": 40,
+      "enabled": false,
+      "note": "Template entry. Add any additional public RO m3u source here."
+    }
+  ]
+}
