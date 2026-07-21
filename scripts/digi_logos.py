@@ -1,9 +1,12 @@
 """Fetch and apply official channel logos from Digi's public grid endpoint."""
 from __future__ import annotations
 
+import csv
+import io
 import re
 import unicodedata
 from html.parser import HTMLParser
+from urllib.parse import quote
 
 import httpx
 
@@ -12,6 +15,10 @@ from models import Channel
 _QUALITY_RE = re.compile(r"\b(?:hd|sd|4k|1080p|720p|576p|480p|360p|1080i|576i|540p)\b", re.IGNORECASE)
 _NON_ALNUM = re.compile(r"[^a-z0-9]+")
 _IPTV_ORG_CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
+_IPTV_ORG_CHANNELS_CSV_URL = "https://raw.githubusercontent.com/iptv-org/database/master/data/channels.csv"
+_ANTENAPLAY_LIVE_URL = "https://antenaplay.ro/live"
+_ALIAS_STOPWORDS = {"ro", "romania", "tv", "channel", "live"}
+
 
 
 def _key(value: str) -> str:
@@ -20,6 +27,47 @@ def _key(value: str) -> str:
     value = re.sub(r"\([^)]*\)|\[[^]]*\]", " ", value)
     value = _QUALITY_RE.sub(" ", value)
     return _NON_ALNUM.sub("", value)
+
+
+def _key_aliases(value: str) -> list[str]:
+    """Return normalized key aliases for fuzzy matching official logo maps."""
+    raw = unicodedata.normalize("NFKD", value or "")
+    raw = raw.encode("ascii", "ignore").decode("ascii").lower()
+    raw = re.sub(r"\([^)]*\)|\[[^]]*\]", " ", raw)
+    raw = _QUALITY_RE.sub(" ", raw)
+
+    aliases: list[str] = []
+
+    def add(candidate: str) -> None:
+        candidate = _NON_ALNUM.sub("", candidate or "")
+        if candidate and candidate not in aliases:
+            aliases.append(candidate)
+
+    compact = _NON_ALNUM.sub("", raw)
+    add(compact)
+
+    for suffix in ("romania", "channel", "tv"):
+        if compact.endswith(suffix) and len(compact) > len(suffix) + 2:
+            add(compact[: -len(suffix)])
+
+    # Many tvg-ids are country-suffixed (e.g. amcro, eurosportroro).
+    trimmed = compact
+    for _ in range(2):
+        if trimmed.endswith("ro") and len(trimmed) > 4:
+            trimmed = trimmed[:-2]
+            add(trimmed)
+
+    tokens = re.findall(r"[a-z0-9]+", raw)
+    if tokens:
+        add("".join(tokens))
+        filtered = [t for t in tokens if t not in _ALIAS_STOPWORDS]
+        if filtered:
+            add("".join(filtered))
+            no_single_digits = [t for t in filtered if not (len(t) == 1 and t.isdigit())]
+            if no_single_digits:
+                add("".join(no_single_digits))
+
+    return aliases
 
 
 class _DigiLogoParser(HTMLParser):
@@ -56,6 +104,21 @@ class _DigiLogoParser(HTMLParser):
                     self.rows.append(self._row)
                 self._row = None
                 self._div_depth = 0
+
+
+class _ImageLogoParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.items: list[tuple[str, str]] = []
+
+    def handle_starttag(self, tag: str, attrs_list: list[tuple[str, str | None]]) -> None:
+        if tag != "img":
+            return
+        attrs = dict(attrs_list)
+        alt = (attrs.get("alt") or "").strip()
+        src = (attrs.get("src") or "").strip()
+        if alt and src:
+            self.items.append((alt, src))
 
 
 def fetch_digi_logos(url: str, timeout: int = 20) -> dict[str, str]:
@@ -116,14 +179,98 @@ def fetch_iptv_org_logos(url: str = "", timeout: int = 20) -> dict[str, str]:
     return logos
 
 
+def fetch_antenaplay_logos(url: str = "", timeout: int = 20) -> dict[str, str]:
+    """Return normalized channel name -> official logo URL from AntenaPlay's live page."""
+    source = url or _ANTENAPLAY_LIVE_URL
+    try:
+        with httpx.Client(headers={"User-Agent": "romania-iptv-list/1.0"}) as client:
+            response = client.get(source, timeout=timeout, follow_redirects=True)
+            response.raise_for_status()
+    except httpx.HTTPError as exc:
+        print(f"[logos] AntenaPlay request failed: {exc}")
+        return {}
+
+    parser = _ImageLogoParser()
+    parser.feed(response.text)
+
+    logos: dict[str, str] = {}
+    for alt, src in parser.items:
+        # Keep channel-like assets only.
+        if "assets.antenaplay.ro" not in src:
+            continue
+        key = _key(alt)
+        if not key:
+            continue
+        logos.setdefault(key, src)
+
+    print(f"[logos] AntenaPlay: parsed {len(logos)} official logos")
+    return logos
+
+
+def fetch_iptv_org_websites(url: str = "", timeout: int = 20) -> dict[str, str]:
+    """Return normalized id/name -> official channel website URL from IPTV-org CSV."""
+    source = url or _IPTV_ORG_CHANNELS_CSV_URL
+    try:
+        with httpx.Client(headers={"User-Agent": "romania-iptv-list/1.0"}) as client:
+            response = client.get(source, timeout=timeout, follow_redirects=True)
+            response.raise_for_status()
+            text = response.text
+    except httpx.HTTPError as exc:
+        print(f"[logos] IPTV-org websites request failed: {exc}")
+        return {}
+
+    websites: dict[str, str] = {}
+    for row in csv.DictReader(io.StringIO(text)):
+        website = (row.get("website") or "").strip()
+        if not website:
+            continue
+        for candidate in ((row.get("id") or "").strip(), (row.get("name") or "").strip()):
+            key = _key(candidate)
+            if key and key not in websites:
+                websites[key] = website
+
+    print(f"[logos] IPTV-org websites: parsed {len(websites)} channels")
+    return websites
+
+
+def apply_website_fallback_logos(channels: list[Channel], websites: dict[str, str]) -> int:
+    """Fallback: for empty logos, use website favicon derived from matched channel website."""
+    applied = 0
+    for channel in channels:
+        if channel.tvg_logo:
+            continue
+
+        website = ""
+        for value in (channel.tvg_id, channel.name, channel.tvg_name):
+            for alias in _key_aliases(value):
+                website = websites.get(alias, "")
+                if website:
+                    break
+            if website:
+                break
+
+        if website:
+            channel.tvg_logo = (
+                "https://www.google.com/s2/favicons?sz=256&domain_url=" + quote(website, safe="")
+            )
+            applied += 1
+    return applied
+
+
 def apply_digi_logos(channels: list[Channel], logos: dict[str, str]) -> int:
     """Fill empty channel logos from normalized official logo maps."""
     applied = 0
     for channel in channels:
         if channel.tvg_logo:
             continue
-        candidates = [channel.name, channel.tvg_name, channel.tvg_id]
-        logo = next((logos.get(_key(value), "") for value in candidates if _key(value)), "")
+        logo = ""
+        for value in (channel.name, channel.tvg_name, channel.tvg_id):
+            for alias in _key_aliases(value):
+                logo = logos.get(alias, "")
+                if logo:
+                    break
+            if logo:
+                break
         if logo:
             channel.tvg_logo = logo
             applied += 1

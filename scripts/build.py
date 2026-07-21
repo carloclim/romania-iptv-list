@@ -20,7 +20,14 @@ from pathlib import Path
 import fetch as fetcher
 import merge as merger
 import parse as m3u_parse
-from digi_logos import apply_digi_logos, fetch_digi_logos, fetch_iptv_org_logos
+from digi_logos import (
+    apply_digi_logos,
+    apply_website_fallback_logos,
+    fetch_antenaplay_logos,
+    fetch_digi_logos,
+    fetch_iptv_org_logos,
+    fetch_iptv_org_websites,
+)
 from epg import build_x_tvg_url
 from models import Channel
 from validate import validate_all
@@ -288,9 +295,13 @@ def main() -> int:
     chosen = categorize(chosen, group_order, cat_cfg.get("rules", {}), cat_cfg.get("default", "Generale"))
     digi_logos = fetch_digi_logos(config.get("digi_logo_url", ""))
     iptv_org_logos = fetch_iptv_org_logos(config.get("iptv_org_logo_url", ""))
-    official_logos = {**iptv_org_logos, **digi_logos}
+    antenaplay_logos = fetch_antenaplay_logos(config.get("antenaplay_logo_url", ""))
+    official_logos = {**iptv_org_logos, **antenaplay_logos, **digi_logos}
     applied_logos = apply_digi_logos(chosen, official_logos)
+    website_map = fetch_iptv_org_websites(config.get("iptv_org_channels_csv_url", ""))
+    applied_fallback = apply_website_fallback_logos(chosen, website_map)
     print(f"  applied {applied_logos} official logos")
+    print(f"  applied {applied_fallback} website fallback logos")
     print(f"  {len(chosen)} unique channels after dedupe/overrides")
 
     if args.no_validate:
