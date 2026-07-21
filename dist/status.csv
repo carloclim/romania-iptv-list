@@ -28,7 +28,6 @@ dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls
 dead,Generale,Antena Comedy,curated,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,curated,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Arges TV (720p),iptv-org-ro,720,https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
-dead,Generale,Bucovina TV (576i),iptv-org-ro,576,https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,National TV,curated,0,https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
 dead,Generale,Observator News,curated,0,https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
@@ -98,6 +97,7 @@ working,Generale,Antena Monden,curated,0,https://stream1.antenaplay.ro/live/Ante
 working,Generale,Antena Stars (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8
 working,Generale,B1 (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/b1/index.m3u8
 working,Generale,Banat TV (720p),iptv-org-ro,720,https://www.btv.ro/hls/banat-tv.m3u8
+working,Generale,Bucovina TV (576i),iptv-org-ro,576,https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 working,Generale,Dotto TV (1080p),iptv-org-ro,1080,https://live.dottotv.ro/index.m3u8

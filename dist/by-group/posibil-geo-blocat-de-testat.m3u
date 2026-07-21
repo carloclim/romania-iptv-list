@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 13:08 UTC  |  Canale: 67
+## Generat automat: 2026-07-21 13:10 UTC  |  Canale: 68
 ## Surse: curated, free-tv-ro, iptv-org-ro
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -42,9 +42,6 @@ https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.ro" tvg-name="Boomerang Romania" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Boomerang Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boomerang-ro/manifest.m3u8
-
-#EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-name="Bucovina TV (576i)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Bucovina TV (576i)
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-name="Cartoon Network Romania" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Cartoon Network Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cartoon-network-ro/manifest.m3u8
