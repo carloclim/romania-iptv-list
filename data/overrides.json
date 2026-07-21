@@ -17,6 +17,11 @@
       "enabled": true
     },
     {
+      "key": "digi24.ro",
+      "tvg_logo": "https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzU4XzE1NTMzNThf/RGlnaV8yNF9IRC5wbmcmaGFzaD0wZTQ0/NTcwNDg1YzkwMTIwMTBjM2I0N2YyM2UwMDZhMg==.png",
+      "enabled": true
+    },
+    {
       "key": "kanald.ro",
       "tvg_logo": "https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE2XzE1NTM0MTZf/S2FuYWxfRF9IRC5wbmcmaGFzaD1jZWFj/MjZhM2M0MjFkZTVhMjA4MzY3M2IyMzNjOThiYw==.png",
       "enabled": true
@@ -68,6 +73,16 @@
     },
     {
       "key": "realitateastar.ro",
+      "tvg_logo": "https://www.realitatea.net/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "realitateaplus.ro",
+      "tvg_logo": "https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjYwXzE1NTM2NjBf/UmVhbGl0YXRlYV9QbHVzX0hELnBuZyZo/YXNoPTZhMzJhYzFjZDk0MjlhZjdiOTgzNTBmMzIwZDllMzc4.png",
+      "enabled": true
+    },
+    {
+      "key": "realitateasportiva.ro",
       "tvg_logo": "https://www.realitatea.net/favicon.ico",
       "enabled": true
     },
@@ -168,82 +183,82 @@
     },
     {
       "key": "antenacom.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fantenaplay.ro",
+      "tvg_logo": "https://antenaplay.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "antenacook.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fantenaplay.ro",
+      "tvg_logo": "https://antenaplay.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "cinemaclassictv.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fcinemaclassic.ro",
+      "tvg_logo": "https://cinemaclassic.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "comedyest.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fcomedyest.ro",
+      "tvg_logo": "https://comedyest.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "dibitv.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fdibitv.ro",
+      "tvg_logo": "https://dibitv.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "extremesport.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.extreme.com",
+      "tvg_logo": "https://www.extreme.com/favicon.ico",
       "enabled": true
     },
     {
       "key": "hdnetro.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fhdnet.ro",
+      "tvg_logo": "https://hdnet.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "hitmusicchannel.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fhitmusic.ro",
+      "tvg_logo": "https://hitmusic.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "megaaction.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.mega.com",
+      "tvg_logo": "https://www.mega.com/favicon.ico",
       "enabled": true
     },
     {
       "key": "megacomedy.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.mega.com",
+      "tvg_logo": "https://www.mega.com/favicon.ico",
       "enabled": true
     },
     {
       "key": "megakids.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.mega.com",
+      "tvg_logo": "https://www.mega.com/favicon.ico",
       "enabled": true
     },
     {
       "key": "mtveurope.uk",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.mtv.ro",
+      "tvg_logo": "https://www.mtv.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "natgeowild.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.natgeotv.com",
+      "tvg_logo": "https://www.natgeotv.com/favicon.ico",
       "enabled": true
     },
     {
       "key": "pro2.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.protv.ro",
+      "tvg_logo": "https://www.protv.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "progold.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.protv.ro",
+      "tvg_logo": "https://www.protv.ro/favicon.ico",
       "enabled": true
     },
     {
       "key": "prox.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.protv.ro",
+      "tvg_logo": "https://www.protv.ro/favicon.ico",
       "enabled": true
     },
     {
@@ -253,12 +268,12 @@
     },
     {
       "key": "timelessdrama.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Ftimelessdizi.com",
+      "tvg_logo": "https://timelessdizi.com/favicon.ico",
       "enabled": true
     },
     {
       "key": "viasatexplorer.ro",
-      "tvg_logo": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.viasatworld.com",
+      "tvg_logo": "https://www.viasatworld.com/favicon.ico",
       "enabled": true
     },
     {

@@ -6,7 +6,7 @@ import io
 import re
 import unicodedata
 from html.parser import HTMLParser
-from urllib.parse import quote
+from urllib.parse import urlparse
 
 import httpx
 
@@ -18,6 +18,7 @@ _IPTV_ORG_CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
 _IPTV_ORG_CHANNELS_CSV_URL = "https://raw.githubusercontent.com/iptv-org/database/master/data/channels.csv"
 _ANTENAPLAY_LIVE_URL = "https://antenaplay.ro/live"
 _ALIAS_STOPWORDS = {"ro", "romania", "tv", "channel", "live"}
+_WEAK_LOGO_HOSTS = ("imgur.com", "wikipedia.org", "wikimedia.org")
 
 
 
@@ -250,18 +251,25 @@ def apply_website_fallback_logos(channels: list[Channel], websites: dict[str, st
                 break
 
         if website:
-            channel.tvg_logo = (
-                "https://www.google.com/s2/favicons?sz=256&domain_url=" + quote(website, safe="")
-            )
+            parsed = urlparse(website)
+            host = parsed.netloc or parsed.path
+            host = host.strip("/")
+            if host:
+                channel.tvg_logo = f"https://{host}/favicon.ico"
+                applied += 1
+                continue
+            channel.tvg_logo = website.rstrip("/") + "/favicon.ico"
             applied += 1
     return applied
 
 
 def apply_digi_logos(channels: list[Channel], logos: dict[str, str]) -> int:
-    """Fill empty channel logos from normalized official logo maps."""
+    """Fill or improve channel logos from normalized official logo maps."""
     applied = 0
     for channel in channels:
-        if channel.tvg_logo:
+        current_logo = (channel.tvg_logo or "").lower()
+        should_replace = (not channel.tvg_logo) or any(host in current_logo for host in _WEAK_LOGO_HOSTS)
+        if not should_replace:
             continue
         logo = ""
         for value in (channel.name, channel.tvg_name, channel.tvg_id):

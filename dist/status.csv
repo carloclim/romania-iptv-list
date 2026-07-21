@@ -62,13 +62,14 @@ dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurospor
 dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 dead,Sport,Extreme Sport,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/extreme-sport/manifest.m3u8
 dead,Sport,FightBox HD,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fightbox/manifest.m3u8
+dead,Sport,Realitatea Sportiva,override,0,https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 dead,Stiri,Antena 3 CNN,curated,0,https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8
 dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
+dead,Stiri,Realitatea Plus,override,0,https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 geo,Generale,PRO 2,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
 geo,Generale,PRO GOLD,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
 geo,Generale,PRO TV,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist.m3u8
 geo,Generale,PRO X,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
-geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 timeout,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -107,6 +108,7 @@ working,Generale,PRO TV International (1080p),iptv-org-ro,1080,https://aes.m3u8s
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,iptv-org-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 working,Generale,Traditional TV (1080p),iptv-org-ro,1080,http://83.103.149.75:8085/udp/239.30.0.9:4000
+working,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 working,Generale,TVR 1,iptv-org-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 working,Generale,TVR 2,iptv-org-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 working,Generale,TVR 3,iptv-org-ro,0,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
@@ -147,15 +149,13 @@ working,Sport,Digi Sport 3 (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers
 working,Sport,Digi Sport 4 (720p),iptv-org-ro,720,https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
 working,Sport,Prima Sport 5 (1080p),override,1080,https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 working,Sport,Pro Arena (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/proarena/index.m3u8
-working,Sport,Realitatea Sportiva (720p),iptv-org-ro,720,https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 working,Sport,Sport Extra (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
 working,Sport,TVR Sport,iptv-org-ro,0,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 working,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
-working,Stiri,Digi 24,curated,0,https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+working,Stiri,Digi 24,override,0,https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 working,Stiri,Euronews România Ⓨ,free-tv-ro,0,https://www.youtube.com/euronewsro/live
 working,Stiri,Nasul TV (720p) [Not 24/7],iptv-org-ro,720,https://live.nasul.tv/live/stream.m3u8
 working,Stiri,Prima News (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/primanews/index.m3u8
 working,Stiri,Pro TV News (1080p),override,1080,https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-working,Stiri,Realitatea Plus (720p),iptv-org-ro,720,https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 working,Stiri,Realitatea Star (576i),override,576,https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 working,Stiri,Romania TV (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/romaniatv/index.m3u8
