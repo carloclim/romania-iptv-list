@@ -20,7 +20,7 @@ from pathlib import Path
 import fetch as fetcher
 import merge as merger
 import parse as m3u_parse
-from digi_logos import apply_digi_logos, fetch_digi_logos
+from digi_logos import apply_digi_logos, fetch_digi_logos, fetch_iptv_org_logos
 from epg import build_x_tvg_url
 from models import Channel
 from validate import validate_all
@@ -94,12 +94,13 @@ def apply_overrides(chosen: list[Channel], overrides: list[dict]) -> list[Channe
             continue
         key = (ov.get("key") or "").strip().lower()
         url = (ov.get("url") or "").strip()
-        if not key or not url:
+        if not key:
             continue
         headers = {k: v for k, v in (ov.get("headers") or {}).items() if v}
         if key in by_key:
             ch = by_key[key]
-            ch.url = url
+            if url:
+                ch.url = url
             if headers:
                 ch.headers = headers
             if ov.get("name"):
@@ -109,6 +110,9 @@ def apply_overrides(chosen: list[Channel], overrides: list[dict]) -> list[Channe
             if ov.get("group"):
                 ch.group = ov["group"]
         else:
+            # Creating a new channel still requires an explicit URL.
+            if not url:
+                continue
             ch = Channel(
                 name=ov.get("name", key),
                 url=url,
@@ -283,8 +287,10 @@ def main() -> int:
     cat_cfg = _load_json(DATA_DIR / "categories.json", {})
     chosen = categorize(chosen, group_order, cat_cfg.get("rules", {}), cat_cfg.get("default", "Generale"))
     digi_logos = fetch_digi_logos(config.get("digi_logo_url", ""))
-    applied_logos = apply_digi_logos(chosen, digi_logos)
-    print(f"  applied {applied_logos} Digi logos")
+    iptv_org_logos = fetch_iptv_org_logos(config.get("iptv_org_logo_url", ""))
+    official_logos = {**iptv_org_logos, **digi_logos}
+    applied_logos = apply_digi_logos(chosen, official_logos)
+    print(f"  applied {applied_logos} official logos")
     print(f"  {len(chosen)} unique channels after dedupe/overrides")
 
     if args.no_validate:

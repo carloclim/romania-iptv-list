@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-21 14:11 UTC  |  Canale: 9
-## Surse: curated, free-tv-ro, iptv-org-ro
+## Generat automat: 2026-07-21 14:23 UTC  |  Canale: 9
+## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Radio
 #############################################
-#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Pro+FM" group-title="Radio",Pro FM
+#EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://www.profm.ro/favicon.ico" group-title="Radio",Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 
-#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Europa+FM" group-title="Radio",Europa FM
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://www.europafm.ro/favicon.ico" group-title="Radio",Europa FM
 https://astreaming.edi.ro:8443/EuropaFM_aac
 
-#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Virgin+Radio" group-title="Radio",Virgin Radio
+#EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://www.virginradio.ro/favicon.ico" group-title="Radio",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 
-#EXTINF:-1 tvg-id="KissFM.ro" tvg-name="Kiss FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Kiss+FM" group-title="Radio",Kiss FM
+#EXTINF:-1 tvg-id="KissFM.ro" tvg-name="Kiss FM" tvg-logo="https://www.kissfm.ro/favicon.ico" group-title="Radio",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 
-#EXTINF:-1 tvg-id="MagicFM.ro" tvg-name="Magic FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Magic+FM" group-title="Radio",Magic FM
+#EXTINF:-1 tvg-id="MagicFM.ro" tvg-name="Magic FM" tvg-logo="https://www.magicfm.ro/favicon.ico" group-title="Radio",Magic FM
 https://live.magicfm.ro/magicfm.aacp
 
-#EXTINF:-1 tvg-id="RockFM.ro" tvg-name="Rock FM" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Rock+FM" group-title="Radio",Rock FM
+#EXTINF:-1 tvg-id="RockFM.ro" tvg-name="Rock FM" tvg-logo="https://www.rockfm.ro/favicon.ico" group-title="Radio",Rock FM
 https://live.rockfm.ro/rockfm.aacp
 
 #EXTINF:-1 tvg-id="DigiFM.ro" tvg-name="Digi FM" tvg-logo="https://www.digifm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=release-2022091104-v15" group-title="Radio",Digi FM
@@ -31,5 +31,5 @@ http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 #EXTINF:-1 tvg-id="RadioGuerrilla.ro" tvg-name="Radio Guerrilla" tvg-logo="https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png" group-title="Radio",Radio Guerrilla
 https://live.guerrillaradio.ro:8443/guerrilla.aac
 
-#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://dummyimage.com/320x180/1c1f24/ffffff.png&text=Radio+Fx+Net+%28720p%29" group-title="Radio",Radio Fx Net (720p)
+#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://radiofxnet.ro/favicon.ico" group-title="Radio",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8

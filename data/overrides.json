@@ -2,6 +2,146 @@
   "_comment": "Manual per-channel URL overrides. These always win over any source. Match by 'key' (canonical tvg-id, e.g. 'protv.ro', or canonical name if no tvg-id). Optional: name, tvg_logo, group, headers.",
   "overrides": [
     {
+      "key": "mireasa.ro",
+      "tvg_logo": "https://a1.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "misatv.ro",
+      "tvg_logo": "https://misatv.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "musceltv.ro",
+      "tvg_logo": "https://www.musceltv.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "tvsud.ro",
+      "tvg_logo": "https://www.tvsud.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "tvrfolclor.ro",
+      "tvg_logo": "https://www.tvr.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "prima4k.ro",
+      "tvg_logo": "https://www.primatv.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "alephbusiness.ro",
+      "tvg_logo": "https://alephbusiness.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "protvnews.ro",
+      "tvg_logo": "https://stirileprotv.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "realitateastar.ro",
+      "tvg_logo": "https://www.realitatea.net/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "tv1000.ro",
+      "tvg_logo": "https://www.viasatworld.com/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "timelessdizichannel.ro",
+      "tvg_logo": "https://timelessdizi.com/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "history.ro",
+      "tvg_logo": "https://www.historytv.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "tele7music.ro",
+      "tvg_logo": "https://tele7music.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "utv.ro",
+      "tvg_logo": "https://utv.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "nickelodeon.ro",
+      "tvg_logo": "https://www.nick.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "nickjr.ro",
+      "tvg_logo": "https://www.nickjr.tv/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "disneychannel.ro",
+      "tvg_logo": "https://tv.disney.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "disneyjunior.ro",
+      "tvg_logo": "https://tv.disney.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "jimjam.ro",
+      "tvg_logo": "https://www.jimjam.tv/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "nicktoons.ro",
+      "tvg_logo": "https://www.nicktoons.co.uk/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "profm.ro",
+      "tvg_logo": "https://www.profm.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "europafm.ro",
+      "tvg_logo": "https://www.europafm.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "virginradio.ro",
+      "tvg_logo": "https://www.virginradio.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "kissfm.ro",
+      "tvg_logo": "https://www.kissfm.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "magicfm.ro",
+      "tvg_logo": "https://www.magicfm.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "rockfm.ro",
+      "tvg_logo": "https://www.rockfm.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "radiofxnet.ro",
+      "tvg_logo": "https://radiofxnet.ro/favicon.ico",
+      "enabled": true
+    },
+    {
+      "key": "primasport5.ro",
+      "tvg_logo": "https://www.primasport.ro/favicon.ico",
+      "enabled": true
+    },
+    {
       "key": "example.ro",
       "name": "Example Channel",
       "group": "Generale",

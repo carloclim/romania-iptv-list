@@ -31,7 +31,23 @@ def _rank_key(ch: Channel) -> tuple[int, int]:
 
 def choose_best(candidates: list[Channel]) -> Channel:
     """Pick the single best candidate for a channel key."""
-    return sorted(candidates, key=_rank_key)[0]
+    ranked = sorted(candidates, key=_rank_key)
+    best = ranked[0]
+
+    # Keep curated/best URL choice, but inherit official metadata if available.
+    if not best.tvg_logo:
+        for alt in ranked:
+            if alt.tvg_logo:
+                best.tvg_logo = alt.tvg_logo
+                break
+
+    if not best.tvg_name:
+        for alt in ranked:
+            if alt.tvg_name:
+                best.tvg_name = alt.tvg_name
+                break
+
+    return best
 
 
 def dedupe(channels: list[Channel]) -> tuple[list[Channel], dict[str, list[Channel]]]:

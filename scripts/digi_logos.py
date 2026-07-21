@@ -4,7 +4,6 @@ from __future__ import annotations
 import re
 import unicodedata
 from html.parser import HTMLParser
-from urllib.parse import quote_plus
 
 import httpx
 
@@ -12,6 +11,7 @@ from models import Channel
 
 _QUALITY_RE = re.compile(r"\b(?:hd|sd|4k|1080p|720p|576p|480p|360p|1080i|576i|540p)\b", re.IGNORECASE)
 _NON_ALNUM = re.compile(r"[^a-z0-9]+")
+_IPTV_ORG_CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
 
 
 def _key(value: str) -> str:
@@ -84,8 +84,40 @@ def fetch_digi_logos(url: str, timeout: int = 20) -> dict[str, str]:
     return logos
 
 
+def fetch_iptv_org_logos(url: str = "", timeout: int = 20) -> dict[str, str]:
+    """Return normalized channel id/name -> official logo URL from IPTV-org metadata."""
+    source = url or _IPTV_ORG_CHANNELS_URL
+    try:
+        with httpx.Client(headers={"User-Agent": "romania-iptv-list/1.0"}) as client:
+            response = client.get(source, timeout=timeout, follow_redirects=True)
+            response.raise_for_status()
+            rows = response.json()
+    except (httpx.HTTPError, ValueError) as exc:
+        print(f"[logos] IPTV-org request failed: {exc}")
+        return {}
+
+    logos: dict[str, str] = {}
+    if not isinstance(rows, list):
+        return logos
+
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        logo = (row.get("logo") or "").strip()
+        if not logo:
+            continue
+
+        for candidate in (row.get("id") or "", row.get("name") or "", row.get("tvg_id") or ""):
+            key = _key(candidate)
+            if key and key not in logos:
+                logos[key] = logo
+
+    print(f"[logos] IPTV-org: parsed {len(logos)} official logos")
+    return logos
+
+
 def apply_digi_logos(channels: list[Channel], logos: dict[str, str]) -> int:
-    """Fill empty channel logos from Digi's normalized logo map."""
+    """Fill empty channel logos from normalized official logo maps."""
     applied = 0
     for channel in channels:
         if channel.tvg_logo:
@@ -95,12 +127,4 @@ def apply_digi_logos(channels: list[Channel], logos: dict[str, str]) -> int:
         if logo:
             channel.tvg_logo = logo
             applied += 1
-            continue
-
-        # Last-resort fallback: generate a simple text logo so every channel has artwork.
-        label = (channel.tvg_name or channel.name or channel.tvg_id or "TV").strip()
-        channel.tvg_logo = (
-            "https://dummyimage.com/320x180/1c1f24/ffffff.png&text=" + quote_plus(label)
-        )
-        applied += 1
     return applied
