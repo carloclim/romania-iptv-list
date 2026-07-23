@@ -154,6 +154,7 @@ working,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ng
 working,Stiri,Digi 24,override,0,https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 working,Stiri,Euronews România Ⓨ,free-tv-ro,0,https://www.youtube.com/euronewsro/live
 working,Stiri,Nasul TV (720p) [Not 24/7],iptv-org-ro,720,https://live.nasul.tv/live/stream.m3u8
+working,Stiri,National 24 Plus (1080p),iptv-org-ro,1080,https://aes.m3u8simplu.workers.dev/nationalplus/index.m3u8
 working,Stiri,Prima News (576p),iptv-org-ro,576,https://aes.m3u8simplu.workers.dev/primanews/index.m3u8
 working,Stiri,Pro TV News (1080p),override,1080,https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 working,Stiri,Realitatea Star (576i),override,576,https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
