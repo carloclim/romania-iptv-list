@@ -1,15 +1,12 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-24 06:16 UTC  |  Functionale: 88  |  De testat: 72
+## Generat automat: 2026-07-25 06:08 UTC  |  Functionale: 79  |  De testat: 81
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Generale
 #############################################
-#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Generale",Antena Monden
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Generale",Prima TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/primatv/index.m3u8
@@ -37,9 +34,6 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Generale",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
-https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
@@ -164,10 +158,6 @@ https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 
-#EXTINF:-1 tvg-id="ProArena.ro@SD" tvg-name="Pro Arena (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA0/JTJGMDclMkYxNDg4NDQyXzE0ODg0NDJf/cHJvLWFyZW5hLnBuZyZoYXNoPTJjNDc3/OWVhNGMzZjA2ZDBkN2MyZjUzYmVhMjVlZmMz.png" group-title="Sport",Pro Arena (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/proarena/index.m3u8
-
 #EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-name="Sport Extra (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png" group-title="Sport",Sport Extra (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
@@ -184,9 +174,6 @@ https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/happy/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png" group-title="Filme",Comedy Play
-https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Diva.ro@SD" tvg-name="Diva (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA0/JTJGMjElMkYyNjkyODk0XzI2OTI4OTRf/MTUyeDUwcHhfRElWQUhELnBuZyZoYXNo/PWM1YzA2ZDE5MmEwYTVjODEwMDg5ODE0MDFjODY2ZmY3.png" group-title="Filme",Diva (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/diva/index.m3u8
@@ -198,18 +185,6 @@ https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ro@SD" tvg-name="Timeless Dizi Channel (576p)" tvg-logo="https://timelessdizi.com/favicon.ico" group-title="Filme",Timeless Dizi Channel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/dizi/index.m3u8
-
-#EXTINF:-1 tvg-id="CineMaraton.ro@SD" tvg-name="CineMaraton (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzQ0XzE1NTMzNDRf/Q2luZV9NYXJhdG9uX0hELnBuZyZoYXNo/PWZmMDMxM2JlY2RmZTZhZmJmYzllMjUyMGMwOWFiZjJl.png" group-title="Filme",CineMaraton (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8
-
-#EXTINF:-1 tvg-id="Acasa.ro@SD" tvg-name="Acasa (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzEwXzE1NTMzMTBf/QWNhc2FfVFZfYi5wbmcmaGFzaD00NzIw/YTA5NzZkMWY5ZDM1NjJjODY4MGJhNWQ0OGZhOQ==.png" group-title="Filme",Acasa (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/acasa/index.m3u8
-
-#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyNzU2XzE3MTI3NTZf/MTUyeDUwX0FjYXNhLUdvbGQtSEQucG5n/Jmhhc2g9Zjk1ZjI0ODBhY2U3YTQwOGY0NDA0ZjU3NmZiOWIwMjE=.png" group-title="Filme",Acasa Gold (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/acasagold/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-name="Comedy Central (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUxXzE1NTMzNTFf/Q29tZWR5X0NlbnRyYWwucG5nJmhhc2g9/NzU4YmRmNjYwNmViMDg0NWY0MWZmZDRiN2M4MDkxZmI=.png" group-title="Filme",Comedy Central (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -233,12 +208,6 @@ https://aes.m3u8simplu.workers.dev/digilife/index.m3u8
 
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzExXzE1NTMzMTFf/QWdyb19UVi5wbmcmaGFzaD03NGU2YWIw/NDg5ODgwMzM5NWQ1MzRhZjg5NGVlNjc4Zg==.png" group-title="Documentare",Agro TV [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-
-#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Documentare",MediCOOL TV
-https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Documentare",Hello Taste
-https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-name="National Geographic (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM3XzE1NTM0Mzdf/TmF0aW9uYWxfR2VvZ3JhcGhpY19IRC5w/bmcmaGFzaD02NDkzYzhlNjU1MTFiNTM0M2YyN2NjYjAwZjYxNGNkMw==.png" group-title="Documentare",National Geographic (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -338,6 +307,14 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicRO.ro" tvg-name="1 Music Channel" tvg-logo="https://www.utrk.kg/favicon.ico" group-title="Posibil Geo-blocat (de testat)",1 Music Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/1music/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Acasa.ro@SD" tvg-name="Acasa (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzEwXzE1NTMzMTBf/QWNhc2FfVFZfYi5wbmcmaGFzaD00NzIw/YTA5NzZkMWY5ZDM1NjJjODY4MGJhNWQ0OGZhOQ==.png" group-title="Posibil Geo-blocat (de testat)",Acasa (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/acasa/index.m3u8
+
+#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyNzU2XzE3MTI3NTZf/MTUyeDUwX0FjYXNhLUdvbGQtSEQucG5n/Jmhhc2g9Zjk1ZjI0ODBhY2U3YTQwOGY0NDA0ZjU3NmZiOWIwMjE=.png" group-title="Posibil Geo-blocat (de testat)",Acasa Gold (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/acasagold/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC.ro" tvg-name="AMC Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE2XzE1NTMzMTZf/YW1jX0hELnBuZyZoYXNoPWU1N2M4OTYyNzQ0Y2U2ZmEwNDM3MTJiZTUyZGI4Zjkx.png" group-title="Posibil Geo-blocat (de testat)",AMC Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amc-ro/manifest.m3u8
 
@@ -359,6 +336,9 @@ https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaCook.ro" tvg-name="Antena Cook & Play" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Antena Cook & Play
 https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Posibil Geo-blocat (de testat)",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="https://assets.antenaplay.ro/2023/04/13/IWpDQmhS6PNCVf496ri5.png" group-title="Posibil Geo-blocat (de testat)",Antena Stars
 https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
 
@@ -379,6 +359,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="CinemaClassicTV.ro" tvg-name="Cinema Classic TV" tvg-logo="https://cinemaclassic.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Cinema Classic TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CineMaraton.ro@SD" tvg-name="CineMaraton (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzQ0XzE1NTMzNDRf/Q2luZV9NYXJhdG9uX0hELnBuZyZoYXNo/PWZmMDMxM2JlY2RmZTZhZmJmYzllMjUyMGMwOWFiZjJl.png" group-title="Posibil Geo-blocat (de testat)",CineMaraton (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png" group-title="Posibil Geo-blocat (de testat)",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyEst.ro" tvg-name="ComedyEst" tvg-logo="https://comedyest.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",ComedyEst
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/comedyest/manifest.m3u8
@@ -440,6 +427,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="HDNetRo.ro" tvg-name="HDNet RO 4K" tvg-logo="https://hdnet.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",HDNet RO 4K
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hdnetro/manifest.m3u8
 
+#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Posibil Geo-blocat (de testat)",Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
 #EXTINF:-1 tvg-id="History.ro" tvg-name="History Romania" tvg-logo="https://www.historytv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",History Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/history-ro/manifest.m3u8
 
@@ -458,6 +448,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE2XzE1NTM0MTZf/S2FuYWxfRF9IRC5wbmcmaGFzaD1jZWFj/MjZhM2M0MjFkZTVhMjA4MzY3M2IyMzNjOThiYw==.png" group-title="Posibil Geo-blocat (de testat)",Kanal D
 https://stream2.kanald.ro/iphone/knd-live.m3u8
 
+#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Posibil Geo-blocat (de testat)",MediCOOL TV
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="MegaAction.ro" tvg-name="Mega Action+" tvg-logo="https://www.mega.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mega Action+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-action/manifest.m3u8
 
@@ -469,6 +462,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzAwXzE1OTg3MDBf/TWluaW1heC0yLnBuZyZoYXNoPWI1MTUz/NTA1NTk2YmE2Mzk2M2M1MjcwYmNmMDhiYTlk.png" group-title="Posibil Geo-blocat (de testat)",Minimax Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/minimax-ro/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Posibil Geo-blocat (de testat)",Mooz Dance
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
@@ -508,6 +504,10 @@ https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
 #EXTINF:-1 tvg-id="Pro2.ro" tvg-name="PRO 2" tvg-logo="https://www.protv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PRO 2
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProArena.ro@SD" tvg-name="Pro Arena (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA0/JTJGMDclMkYxNDg4NDQyXzE0ODg0NDJf/cHJvLWFyZW5hLnBuZyZoYXNoPTJjNDc3/OWVhNGMzZjA2ZDBkN2MyZjUzYmVhMjVlZmMz.png" group-title="Posibil Geo-blocat (de testat)",Pro Arena (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://aes.m3u8simplu.workers.dev/proarena/index.m3u8
 
 #EXTINF:-1 tvg-id="ProGold.ro" tvg-name="PRO GOLD" tvg-logo="https://www.protv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PRO GOLD
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
