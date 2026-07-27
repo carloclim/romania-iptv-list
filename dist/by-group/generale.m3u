@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-26 06:27 UTC  |  Canale: 33
+## Generat automat: 2026-07-27 06:53 UTC  |  Canale: 29
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Generale
 #############################################
-#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Generale",Antena Monden
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Generale",Prima TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/primatv/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-name="National TV (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM4XzE1NTM0Mzhf/TmF0aW9uYWxfVFYucG5nJmhhc2g9YTI5/YTM2ZjM2NTZiMDgyYWE0N2FhNDNlZDg3NzIyY2Y=.png" group-title="Generale",National TV (576p)
-https://aes.m3u8simplu.workers.dev/nationaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Generale",A7TV (1080p)
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
@@ -40,9 +34,6 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Generale",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
-https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
@@ -105,6 +96,3 @@ https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
 
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgzXzE1NTMzODNf/ZW1pX1RWLnBuZyZoYXNoPWQ2NzZlNGE3OTE4ZTRiMDAyZjBhZDYwYzhhMmMwN2Q3.png" group-title="Generale",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
-
-#EXTINF:-1 tvg-id="FavoritTV.ro@SD" tvg-name="Favorit TV (1440p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk2XzE1NTMzOTZf/RmF2b3JpdC5wbmcmaGFzaD0zNzk0OTQy/M2I3MTBjMTdhODVjMTcyMGE4MjI0NDkyZA==.png" group-title="Generale",Favorit TV (1440p)
-https://aes.m3u8simplu.workers.dev/favorit/index.m3u8

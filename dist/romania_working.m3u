@@ -1,21 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-26 06:27 UTC  |  Canale: 87
+## Generat automat: 2026-07-27 06:53 UTC  |  Canale: 72
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Generale
 #############################################
-#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Generale",Antena Monden
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Generale",Prima TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/primatv/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-name="National TV (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM4XzE1NTM0Mzhf/TmF0aW9uYWxfVFYucG5nJmhhc2g9YTI5/YTM2ZjM2NTZiMDgyYWE0N2FhNDNlZDg3NzIyY2Y=.png" group-title="Generale",National TV (576p)
-https://aes.m3u8simplu.workers.dev/nationaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Generale",A7TV (1080p)
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
@@ -40,9 +34,6 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Generale",Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
-https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
@@ -106,9 +97,6 @@ https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgzXzE1NTMzODNf/ZW1pX1RWLnBuZyZoYXNoPWQ2NzZlNGE3OTE4ZTRiMDAyZjBhZDYwYzhhMmMwN2Q3.png" group-title="Generale",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
 
-#EXTINF:-1 tvg-id="FavoritTV.ro@SD" tvg-name="Favorit TV (1440p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk2XzE1NTMzOTZf/RmF2b3JpdC5wbmcmaGFzaD0zNzk0OTQy/M2I3MTBjMTdhODVjMTcyMGE4MjI0NDkyZA==.png" group-title="Generale",Favorit TV (1440p)
-https://aes.m3u8simplu.workers.dev/favorit/index.m3u8
-
 
 #############################################
 ## Stiri
@@ -146,14 +134,6 @@ https://aes.m3u8simplu.workers.dev/nationalplus/index.m3u8
 #############################################
 ## Sport
 #############################################
-#EXTINF:-1 tvg-id="DigiSport1.ro@SD" tvg-name="Digi Sport 1 (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png" group-title="Sport",Digi Sport 1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/digi1/index.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-name="Digi Sport 2 (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY3XzE1NTMzNjdf/RGlnaV9TcG9ydF8yX0hELnBuZyZoYXNo/PWZmNzViZTk0YmY5ODgxNGE3MTUyOGNjZmE4MjYxNzE3.png" group-title="Sport",Digi Sport 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/digi2/index.m3u8
-
 #EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-name="Digi Sport 3 (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY5XzE1NTMzNjlf/RGlnaV9TcG9ydF8zX0hELnBuZyZoYXNo/PTE4ODAwMGM3OTU4NTAzMzMwMDcwNGRjMDRiZWIxMGNj.png" group-title="Sport",Digi Sport 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
@@ -164,13 +144,6 @@ https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwNzIzXzE5OTA3MjNf/VFZSLVNwb3J0LUhELS5wbmcmaGFzaD00/OWY2YTA4NjQ5NjYxNDAyMDU4OGM3N2YxMzA2MWE0OQ==.png" group-title="Sport",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Sport",Antena Sport [Not 24/7]
-https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-name="Prima Sport 5 (1080p)" tvg-logo="https://www.primasport.ro/favicon.ico" group-title="Sport",Prima Sport 5 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 
 #EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-name="Sport Extra (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png" group-title="Sport",Sport Extra (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -183,17 +156,6 @@ https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro@SD" tvg-name="Film Now (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk5XzE1NTMzOTlf/RmlsbV9Ob3dfSEQucG5nJmhhc2g9ZTZh/YzMyMjc0YjA0N2UyZTBmMjNiMDNhZDQ2YjZjMjk=.png" group-title="Filme",Film Now (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8
-
-#EXTINF:-1 tvg-id="HappyChannel.ro@SD" tvg-name="Happy Channel (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Filme",Happy Channel (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/happy/index.m3u8
-
-#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png" group-title="Filme",Comedy Play
-https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Diva.ro@SD" tvg-name="Diva (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA0/JTJGMjElMkYyNjkyODk0XzI2OTI4OTRf/MTUyeDUwcHhfRElWQUhELnBuZyZoYXNo/PWM1YzA2ZDE5MmEwYTVjODEwMDg5ODE0MDFjODY2ZmY3.png" group-title="Filme",Diva (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/diva/index.m3u8
 
 #EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-name="Pro Cinema (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE4XzE3MTI4MThf/MTUyeDUwX1Byby1DaW5lbWEtSEQucG5n/Jmhhc2g9ZjRjYWMxNTZlNWE4ZTQ3NjQ1NzliYWMxNWVhMDdjMTY=.png" group-title="Filme",Pro Cinema (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -226,12 +188,6 @@ https://aes.m3u8simplu.workers.dev/digilife/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzExXzE1NTMzMTFf/QWdyb19UVi5wbmcmaGFzaD03NGU2YWIw/NDg5ODgwMzM5NWQ1MzRhZjg5NGVlNjc4Zg==.png" group-title="Documentare",Agro TV [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
-#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Documentare",MediCOOL TV
-https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Documentare",Hello Taste
-https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-name="National Geographic (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM3XzE1NTM0Mzdf/TmF0aW9uYWxfR2VvZ3JhcGhpY19IRC5w/bmcmaGFzaD02NDkzYzhlNjU1MTFiNTM0M2YyN2NjYjAwZjYxNGNkMw==.png" group-title="Documentare",National Geographic (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8
@@ -246,10 +202,6 @@ https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8
 #############################################
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE4XzE1NTM0MThf/S2lzc19UVi5wbmcmaGFzaD1lZjMyMmRl/N2E1ZjdkNjA3ODZhZDQ4MmQxY2Y3YTI4MQ==.png" group-title="Muzica",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-
-#EXTINF:-1 tvg-id="ZUTV.ro@HD" tvg-name="ZU TV HD (720p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA3/JTJGMDIlMkYyODE4OTU4XzI4MTg5NThf/MTUyeDUwcHhfQ2hlZmlfSEQucG5nJmhh/c2g9MmMyMjYwMTk4NWEyMmFjZDIwZDQ3YTNiZmY1ZGNlODA=.png" group-title="Muzica",ZU TV HD (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://aes.m3u8simplu.workers.dev/chefi/index.m3u8
 
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIwXzE1NTM0MjBf/TWFnaWNfVFYucG5nJmhhc2g9MzZlMGFj/OWY3NmVmNGQ0MmI3ZmFhMjNkNjk2MmY3MjE=.png" group-title="Muzica",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
@@ -279,9 +231,6 @@ https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 #EXTINF:-1 tvg-id="UTV.ro@SD" tvg-name="UTV (1080p)" tvg-logo="https://utv.ro/favicon.ico" group-title="Muzica",UTV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/utv/index.m3u8
-
-#EXTINF:-1 tvg-id="EtnoTV.ro@SD" tvg-name="Etno TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU1XzE1NTM2NTVf/RXRub19IRC5wbmcmaGFzaD1mZWI1NGRm/MGJhM2FlOTAwZDQzZDA2ZTRkYTNlMTZhOA==.png" group-title="Muzica",Etno TV (1080p)
-https://aes.m3u8simplu.workers.dev/etno/index.m3u8
 
 
 #############################################
