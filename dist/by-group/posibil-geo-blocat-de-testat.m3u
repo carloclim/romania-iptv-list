@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-07-29 06:22 UTC  |  Canale: 86
+## Generat automat: 2026-07-30 06:15 UTC  |  Canale: 88
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -153,6 +153,12 @@ https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
 
 #EXTINF:-1 tvg-id="IasiTVLife.ro@SD" tvg-name="IasiTV Life (1080p) [Not 24/7]" tvg-logo="https://iasitvlife.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",IasiTV Life (1080p) [Not 24/7]
 https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Posibil Geo-blocat (de testat)",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Posibil Geo-blocat (de testat)",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
 
 #EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam Romania" tvg-logo="https://www.jimjam.tv/favicon.ico" group-title="Posibil Geo-blocat (de testat)",JimJam Romania
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jimjam-ro/manifest.m3u8
