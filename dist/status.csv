@@ -56,8 +56,6 @@ dead,Muzica,Balkan TV,curated,0,https://live3.cdn.dejacast.com/balkantv/balkantv
 dead,Muzica,Dibi TV,override,0,https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
 dead,Muzica,Hit Music Channel,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hit-music/manifest.m3u8
 dead,Muzica,Hora TV,curated,0,https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
-dead,Muzica,Impact TV Dance,curated,0,https://online.tvimpact.live/hls/dancetv.m3u8
-dead,Muzica,Impact TV Manele,curated,0,https://online.tvimpact.live/hls/impact_tv.m3u8
 dead,Muzica,Mooz Dance,curated,0,https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 dead,Muzica,Mooz Hits,curated,0,https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
@@ -123,6 +121,8 @@ working,Generale,TVR Targu-Mures,iptv-org-ro,0,https://tvr-tgmures.lg.mncdn.com/
 working,Generale,TVR Timisoara,iptv-org-ro,0,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 working,Muzica,Atomic Academy TV,curated,0,https://atomic.streamnet.ro/academia.m3u8
 working,Muzica,Atomic TV,curated,0,https://atomic.streamnet.ro/atomictv.m3u8
+working,Muzica,Impact TV Dance,curated,0,https://online.tvimpact.live/hls/dancetv.m3u8
+working,Muzica,Impact TV Manele,curated,0,https://online.tvimpact.live/hls/impact_tv.m3u8
 working,Muzica,Kiss TV,curated,0,https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 working,Muzica,Magic TV,curated,0,https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
