@@ -40,7 +40,6 @@ dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/ast
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,National TV,curated,0,https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
-dead,Generale,Observator News,curated,0,https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 dead,Generale,Prima TV,curated,0,https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 dead,Kids,Boomerang Romania,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boomerang-ro/manifest.m3u8
 dead,Kids,Cartoon Network Romania,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cartoon-network-ro/manifest.m3u8
@@ -102,6 +101,7 @@ working,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.li
 working,Generale,Mireasa (720p),override,720,https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 working,Generale,MISA TV,override,0,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+working,Generale,Observator News (360p),iptv-org-ro,360,https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 working,Generale,PROFI 24 TV,iptv-org-ro,0,https://live.ro24tv.ro/hls/stream.m3u8
 working,Generale,Qub TV,iptv-org-ro,0,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
