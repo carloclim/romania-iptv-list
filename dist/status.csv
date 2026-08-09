@@ -62,7 +62,7 @@ dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3
 dead,Muzica,MTV Europe,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mtv-europe/manifest.m3u8
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
 dead,Muzica,Taraf TV,curated,0,https://live3.cdn.dejacast.com/taraf/taraf_0.m3u8
-dead,Muzica,Tele7music,override,0,https://live.tele7music.ro/hls/stream/index.m3u8
+dead,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
 dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
@@ -85,7 +85,6 @@ geo,Generale,PRO GOLD,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra
 geo,Generale,PRO TV,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist.m3u8
 geo,Generale,PRO X,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
 geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
-timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 working,Documentare,Hello Taste,override,0,https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 working,Documentare,MediCOOL TV,override,0,https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
@@ -128,6 +127,7 @@ working,Muzica,Impact TV Manele,curated,0,https://online.tvimpact.live/hls/impac
 working,Muzica,Kiss TV,curated,0,https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 working,Muzica,Magic TV,curated,0,https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+working,Muzica,Tele7music,override,0,https://live.tele7music.ro/hls/stream/index.m3u8
 working,Radio,Digi FM,curated,0,http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 working,Radio,Europa FM,override,0,https://astreaming.edi.ro:8443/EuropaFM_aac
 working,Radio,Kiss FM,override,0,https://live.kissfm.ro/kissfm.aacp
