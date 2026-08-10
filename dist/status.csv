@@ -66,7 +66,6 @@ dead,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
 dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
-dead,Sport,Digi Sport 1,curated,0,https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
 dead,Sport,Digi Sport 2,curated,0,https://live3.cdn.dejacast.com/digisport2/digisport2_0.m3u8
 dead,Sport,Digi Sport 3,curated,0,https://live3.cdn.dejacast.com/digisport3/digisport3_0.m3u8
 dead,Sport,Digi Sport 4,curated,0,https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
@@ -122,6 +121,7 @@ working,Generale,TVR Targu-Mures,iptv-org-ro,0,https://tvr-tgmures.lg.mncdn.com/
 working,Generale,TVR Timisoara,iptv-org-ro,0,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 working,Muzica,Atomic Academy TV,curated,0,https://atomic.streamnet.ro/academia.m3u8
 working,Muzica,Atomic TV,curated,0,https://atomic.streamnet.ro/atomictv.m3u8
+working,Muzica,Boom TV (1080p),iptv-org-ro,1080,https://tvboom.ro/live-tv/live.m3u8
 working,Muzica,Impact TV Dance,curated,0,https://online.tvimpact.live/hls/dancetv.m3u8
 working,Muzica,Impact TV Manele,curated,0,https://online.tvimpact.live/hls/impact_tv.m3u8
 working,Muzica,Kiss TV,curated,0,https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -138,6 +138,7 @@ working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guer
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+working,Sport,Digi Sport 1,iptv-org-ro,0,https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
 working,Sport,TVR Sport,iptv-org-ro,0,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 working,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 working,Stiri,Digi 24,override,0,https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
