@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-08-10 05:13 UTC  |  Canale: 62
+## Generat automat: 2026-08-11 04:56 UTC  |  Canale: 64
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -94,11 +94,15 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/favicon.ico" group-title="Generale",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-name="Qub TV" tvg-logo="https://www.qubtv.ro/favicon.ico" group-title="Generale",Qub TV
-https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
-
 #EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-name="HD365 TV" tvg-logo="https://www.hd365.tv/favicon.ico" group-title="Generale",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
+
+#EXTINF:-1 tvg-id="TVArad.ro@SD" tvg-name="TV Arad (720p)" tvg-logo="https://tvarad.ro/favicon.ico" group-title="Generale",TV Arad (720p)
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
+
+#EXTINF:-1 tvg-id="KapitalTV.ro@SD" tvg-name="Kapital TV (1080p)" tvg-logo="https://kapitaltv.ro/favicon.ico" group-title="Generale",Kapital TV (1080p)
+#EXTVLCOPT:http-referrer=https://kapitaltv.ro/
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 
 
 #############################################
@@ -187,6 +191,10 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="BoomTV.ro@HD" tvg-name="Boom TV (1080p)" tvg-logo="https://radioboom.ro/favicon.ico" group-title="Muzica",Boom TV (1080p)
 #EXTVLCOPT:http-referrer=https://tvboom.ro/
 https://tvboom.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-name="Impact TV (1080p)" tvg-logo="https://tvimpact.ro/favicon.ico" group-title="Muzica",Impact TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvimpact.ro/
+https://live.tvimpact.ro:8088/hevc/index.m3u8
 
 
 #############################################
