@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-08-11 04:56 UTC  |  Canale: 85
+## Generat automat: 2026-08-12 05:21 UTC  |  Canale: 84
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -219,9 +219,6 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist
 
 #EXTINF:-1 tvg-id="ProX.ro" tvg-name="PRO X" tvg-logo="https://www.protv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PRO X
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-name="Qub TV" tvg-logo="https://www.qubtv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Qub TV
-https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 
 #EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" tvg-logo="https://radiozu.ro/favicon-96x96.png" group-title="Posibil Geo-blocat (de testat)",Radio ZU
 https://live.radiozu.ro/radiozu.aacp
