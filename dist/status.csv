@@ -73,7 +73,6 @@ dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurospor
 dead,Sport,Extreme Sport,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/extreme-sport/manifest.m3u8
 dead,Sport,FightBox HD,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fightbox/manifest.m3u8
 dead,Sport,Realitatea Sportiva,override,0,https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
-dead,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 dead,Stiri,Antena 3 CNN,curated,0,https://live7digi.antenaplay.ro/a3/a3_3000k.m3u8
 dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
 dead,Stiri,Realitatea Plus,override,0,https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
@@ -142,6 +141,7 @@ working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virg
 working,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 working,Sport,Digi Sport 1,iptv-org-ro,0,https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
 working,Sport,TVR Sport,iptv-org-ro,0,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+working,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 working,Stiri,Digi 24,override,0,https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 working,Stiri,Euronews România Ⓨ,free-tv-ro,0,https://www.youtube.com/euronewsro/live
 working,Stiri,Nasul TV (720p) [Not 24/7],iptv-org-ro,720,https://live.nasul.tv/live/stream.m3u8
