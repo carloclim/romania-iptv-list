@@ -37,7 +37,6 @@ dead,Generale,Antena 1,override,0,https://live7digi.antenaplay.ro/a1/a1_3000k.m3
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
-dead,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,National TV,curated,0,https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
@@ -92,6 +91,7 @@ working,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/pla
 working,Generale,Alfa Omega TV (1080p) [Not 24/7],iptv-org-ro,1080,https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 working,Generale,Antena Monden,override,0,https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 working,Generale,EMI TV,iptv-org-ro,0,https://astra.emitv.ro/hls/emi/index.m3u8
 working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 working,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
@@ -105,20 +105,20 @@ working,Generale,Observator News (360p),iptv-org-ro,360,https://live77cdn2.anten
 working,Generale,PROFI 24 TV,iptv-org-ro,0,https://live.ro24tv.ro/hls/stream.m3u8
 working,Generale,Qub TV,iptv-org-ro,0,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-working,Generale,Telestar1,iptv-org-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+working,Generale,Telestar1,free-tv-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 working,Generale,Traditional TV (1080p),iptv-org-ro,1080,http://83.103.149.75:8085/udp/239.30.0.9:4000
-working,Generale,TVR 1,iptv-org-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
-working,Generale,TVR 2,iptv-org-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
-working,Generale,TVR 3,iptv-org-ro,0,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
-working,Generale,TVR Cluj,iptv-org-ro,0,https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
-working,Generale,TVR Craiova,iptv-org-ro,0,https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+working,Generale,TVR 1 Ⓖ,free-tv-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+working,Generale,TVR 2 Ⓖ,free-tv-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+working,Generale,TVR 3 Ⓖ,free-tv-ro,0,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+working,Generale,TVR Cluj Ⓖ,free-tv-ro,0,https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+working,Generale,TVR Craiova Ⓖ,free-tv-ro,0,https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 working,Generale,TVR Cultural,iptv-org-ro,0,https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 working,Generale,TVR Folclor,override,0,https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
-working,Generale,TVR Iasi (1080p) [Not 24/7],iptv-org-ro,1080,http://82.208.141.70:8778/1.m3u8
-working,Generale,TVR Info,iptv-org-ro,0,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
-working,Generale,TVR International,iptv-org-ro,0,https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
-working,Generale,TVR Targu-Mures,iptv-org-ro,0,https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-working,Generale,TVR Timisoara,iptv-org-ro,0,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+working,Generale,TVR Iași Ⓖ,free-tv-ro,0,http://82.208.141.70:8778/1.m3u8
+working,Generale,TVR Info Ⓖ,free-tv-ro,0,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+working,Generale,TVR International Ⓖ,free-tv-ro,0,https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+working,Generale,TVR Timișoara Ⓖ,free-tv-ro,0,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+working,Generale,TVR Tîrgu-Mureș Ⓖ,free-tv-ro,0,https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 working,Muzica,Atomic Academy TV,curated,0,https://atomic.streamnet.ro/academia.m3u8
 working,Muzica,Atomic TV,curated,0,https://atomic.streamnet.ro/atomictv.m3u8
 working,Muzica,Boom TV (1080p),iptv-org-ro,1080,https://tvboom.ro/live-tv/live.m3u8

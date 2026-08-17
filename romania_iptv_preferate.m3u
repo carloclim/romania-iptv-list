@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-08-16 04:23 UTC  |  Functionale: 63  |  De testat: 85
+## Generat automat: 2026-08-17 04:29 UTC  |  Functionale: 64  |  De testat: 84
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -21,6 +21,9 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 
 #EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-name="Columna TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUwXzE1NTMzNTBf/Q29sdW1uYV90di5wbmcmaGFzaD1hNjcy/MDIyOTdkZTY5MWJkNjY2ZGZmNzMyZjFkODdjNw==.png" group-title="Generale",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CredoTV.ro@SD" tvg-name="Credo TV (720p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUyXzE1NTMzNTJf/Q3JlZG9fVFYucG5nJmhhc2g9YTA4Yjg5/ODIxMzM0MjBjMmZmYjk0Y2E5NmY1Yzg5YTE=.png" group-title="Generale",Credo TV (720p) [Not 24/7]
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgzXzE1NTMzODNf/ZW1pX1RWLnBuZyZoYXNoPWQ2NzZlNGE3OTE4ZTRiMDAyZjBhZDYwYzhhMmMwN2Q3.png" group-title="Generale",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
@@ -59,25 +62,25 @@ https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-name="SperantaTV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc0XzE1NTM0NzRf/U3BlcmFudGFfVFYucG5nJmhhc2g9ZTFh/Njk2NDA2Y2Q4MjI1YWYwYzdiYzY4Y2FjOThjNGU=.png" group-title="Generale",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 
-#EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="Generale",Telestar1
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="Generale",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 
 #EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-name="Traditional TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDg0XzE1NTM0ODRf/VHJhZGl0aW9uYWxfVFYucG5nJmhhc2g9/ZWM1YzQwNWUzYTFlM2E1MmQxZWExYzJhMDljNGYzNzM=.png" group-title="Generale",Traditional TV (1080p)
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 
-#EXTINF:-1 tvg-id="TVR1.ro@SD" tvg-name="TVR 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTk0XzE3Nzk1OTRf/MTUyeDUwcHhfVFZSLTFfbGFuZHNjYXBl/SEQucG5nJmhhc2g9YjM1MmM2NzcwOWMyYTExOTA4YWZhNjI3ODVhODY3NmU=.png" group-title="Generale",TVR 1
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTk0XzE3Nzk1OTRf/MTUyeDUwcHhfVFZSLTFfbGFuZHNjYXBl/SEQucG5nJmhhc2g9YjM1MmM2NzcwOWMyYTExOTA4YWZhNjI3ODVhODY3NmU=.png" group-title="Generale",TVR 1 Ⓖ
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVR2.ro@SD" tvg-name="TVR 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTkzXzE3Nzk1OTNf/MTUyeDUwcHhfVFZSLTJfbGFuZHNjYXBl/SEQucG5nJmhhc2g9OTBjYzRiMmVlNmY5ZjY0MmViNDkzNmYxMDM3NDE5M2E=.png" group-title="Generale",TVR 2
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTkzXzE3Nzk1OTNf/MTUyeDUwcHhfVFZSLTJfbGFuZHNjYXBl/SEQucG5nJmhhc2g9OTBjYzRiMmVlNmY5ZjY0MmViNDkzNmYxMDM3NDE5M2E=.png" group-title="Generale",TVR 2 Ⓖ
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVR3.ro@SD" tvg-name="TVR 3" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTc2XzE3Nzk1NzZf/MTUyeDUwcHhfVFZSLTNfbGFuZHNjYXBl/LnBuZyZoYXNoPWM2MGQyNzFkNzAyNWM4YWI1Zjk4OWRiNDY4NjJkMGRl.png" group-title="Generale",TVR 3
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTc2XzE3Nzk1NzZf/MTUyeDUwcHhfVFZSLTNfbGFuZHNjYXBl/LnBuZyZoYXNoPWM2MGQyNzFkNzAyNWM4YWI1Zjk4OWRiNDY4NjJkMGRl.png" group-title="Generale",TVR 3 Ⓖ
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRCluj.ro@SD" tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="Generale",TVR Cluj
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/8DqsGHO.png" group-title="Generale",TVR Cluj Ⓖ
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRCraiova.ro@SD" tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Generale",TVR Craiova
+#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" group-title="Generale",TVR Craiova Ⓖ
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-name="TVR Cultural" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTc5XzE3Nzk1Nzlf/MTUyeDUwcHhfVFZSLUN1bHR1cmFsX2xh/bmRzY2FwZS5wbmcmaGFzaD0yOGI2NzE0/MmM2Y2FhZjUzNGY1OWRmMTFiMzkzOGNkOQ==.png" group-title="Generale",TVR Cultural
@@ -86,19 +89,19 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 #EXTINF:-1 tvg-id="TVRFolclor.ro@SD" tvg-name="TVR Folclor" tvg-logo="https://www.tvr.ro/favicon.ico" group-title="Generale",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRIasi.ro@SD" tvg-name="TVR Iasi (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Generale",TVR Iasi (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iași" tvg-logo="https://i.imgur.com/Kxkihds.png" group-title="Generale",TVR Iași Ⓖ
 http://82.208.141.70:8778/1.m3u8
 
-#EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-name="TVR Info" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTgyXzE3Nzk1ODJf/MTUyeDUwcHhfVFZSLUluZm9fbGFuZHNj/YXBlLnBuZyZoYXNoPTVlMzVlYWUyODJiZTUyOGQzOGFjOTkzYzUzOWI2ZjNi.png" group-title="Generale",TVR Info
+#EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTgyXzE3Nzk1ODJf/MTUyeDUwcHhfVFZSLUluZm9fbGFuZHNj/YXBlLnBuZyZoYXNoPTVlMzVlYWUyODJiZTUyOGQzOGFjOTkzYzUzOWI2ZjNi.png" group-title="Generale",TVR Info Ⓖ
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-name="TVR International" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="Generale",TVR International
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="Generale",TVR International Ⓖ
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRTarguMures.ro@SD" tvg-name="TVR Targu-Mures" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Generale",TVR Targu-Mures
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Tîrgu-Mureș" tvg-logo="https://i.imgur.com/9Hptdqj.png" group-title="Generale",TVR Tîrgu-Mureș Ⓖ
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD" tvg-name="TVR Timisoara" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="Generale",TVR Timisoara
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timișoara" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="Generale",TVR Timișoara Ⓖ
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 
 
@@ -120,7 +123,7 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 #EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star (576i)" tvg-logo="https://logo.clearbit.com/realitatea.net" group-title="Stiri",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România Ⓨ" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU2XzE1NTM2NTZf/RXVyb05ld3NfUm9tYW5pYV9IRC5wbmcm/aGFzaD1jYzE3ZWM1NDVmN2NjYjUxNDc3MjY2MzE1M2ZhODZjMg==.png" group-title="Stiri",Euronews România Ⓨ
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews România" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU2XzE1NTM2NTZf/RXVyb05ld3NfUm9tYW5pYV9IRC5wbmcm/aGFzaD1jYzE3ZWM1NDVmN2NjYjUxNDc3MjY2MzE1M2ZhODZjMg==.png" group-title="Stiri",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
 
 
@@ -279,9 +282,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="ComedyEst.ro" tvg-name="ComedyEst" tvg-logo="https://comedyest.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",ComedyEst
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/comedyest/manifest.m3u8
-
-#EXTINF:-1 tvg-id="CredoTV.ro@SD" tvg-name="Credo TV (720p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUyXzE1NTMzNTJf/Q3JlZG9fVFYucG5nJmhhc2g9YTA4Yjg5/ODIxMzM0MjBjMmZmYjk0Y2E5NmY1Yzg5YTE=.png" group-title="Posibil Geo-blocat (de testat)",Credo TV (720p) [Not 24/7]
-http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DanceFM.ro" tvg-name="Dance FM" tvg-logo="https://www.dancefm.cl/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Dance FM
 https://astreaming.edi.ro:8443/dancefm_aac
