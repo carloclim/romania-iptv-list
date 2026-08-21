@@ -34,6 +34,7 @@ dead,Filme,Mega Action+,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/mast
 dead,Filme,Mega Comedy,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mega-comedy/manifest.m3u8
 dead,Filme,Timeless Drama Channel,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/timeless-drama/manifest.m3u8
 dead,Filme,TV1000,override,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv1000/manifest.m3u8
+dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls/angelustv.m3u8
 dead,Generale,Antena 1,override,0,https://live7digi.antenaplay.ro/a1/a1_3000k.m3u8
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
@@ -84,7 +85,6 @@ geo,Generale,PRO GOLD,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra
 geo,Generale,PRO TV,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist.m3u8
 geo,Generale,PRO X,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
 geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
-timeout,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls/angelustv.m3u8
 timeout,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 working,Filme,Comedy Play,override,0,https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
