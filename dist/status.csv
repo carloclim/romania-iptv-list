@@ -41,6 +41,7 @@ dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acoo
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
+dead,Generale,Kapital TV (1080p),iptv-org-ro,1080,https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 dead,Generale,National TV,curated,0,https://live3.cdn.dejacast.com/nationaltv/nationaltv_0.m3u8
 dead,Generale,Prima TV,curated,0,https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 dead,Kids,Boomerang Romania,curated,0,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boomerang-ro/manifest.m3u8
@@ -97,7 +98,6 @@ working,Generale,EMI TV,iptv-org-ro,0,https://astra.emitv.ro/hls/emi/index.m3u8
 working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 working,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
 working,Generale,Kanal D2 (1080i),iptv-org-ro,1080,https://stream2.kanald.ro/iphone/knd2-live.m3u8
-working,Generale,Kapital TV (1080p),iptv-org-ro,1080,https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 working,Generale,Mireasa (720p),override,720,https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 working,Generale,MISA TV,override,0,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
