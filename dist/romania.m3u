@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-08-25 04:26 UTC  |  Functionale: 71  |  De testat: 84
+## Generat automat: 2026-08-26 04:27 UTC  |  Functionale: 71  |  De testat: 86
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -101,6 +101,9 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timișoara" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="Generale",TVR Timișoara Ⓖ
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-name="Arges TV (720p)" tvg-logo="https://argestv.ro/favicon.ico" group-title="Generale",Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+
 
 #############################################
 ## Stiri
@@ -139,9 +142,6 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwNzIzXzE5OTA3MjNf/VFZSLVNwb3J0LUhELS5wbmcmaGFzaD00/OWY2YTA4NjQ5NjYxNDAyMDU4OGM3N2YxMzA2MWE0OQ==.png" group-title="Sport",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Sport",Antena Sport [Not 24/7]
-https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-
 
 #############################################
 ## Filme
@@ -168,6 +168,16 @@ https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 #############################################
 ## Documentare
 #############################################
+#EXTINF:-1 tvg-id="ViasatHistory.ro@SD" tvg-name="Viasat History" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA1/JTJGMjAlMkYyNzM5NjEyXzI3Mzk2MTJf/MTI1eDUwX0hpc3RvcnktMS5wbmcmaGFz/aD0zZmE5ODIwYTBiNDMyOTUwNDhlY2YyNDQzNGZiZDJlNQ==.png" group-title="Documentare",Viasat History
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.ro@SD" tvg-name="Viasat Nature" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA1/JTJGMjAlMkYyNzM5NjEzXzI3Mzk2MTNf/MTI1eDUwX05hdHVyZS0xLnBuZyZoYXNo/PWY4MDQ4NGRmZDExNmE0M2RlZDZhZDhiNGE4ZmRjY2M3.png" group-title="Documentare",Viasat Nature
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzExXzE1NTMzMTFf/QWdyb19UVi5wbmcmaGFzaD03NGU2YWIw/NDg5ODgwMzM5NWQ1MzRhZjg5NGVlNjc4Zg==.png" group-title="Documentare",Agro TV [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
@@ -186,16 +196,15 @@ https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 
+#EXTINF:-1 tvg-id="ViasatExplore.ro@SD" tvg-name="Viasat Explore" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA1/JTJGMjAlMkYyNzM5NjExXzI3Mzk2MTFf/MTI1eDUwX0V4cGxvcmUucG5nJmhhc2g9/OWM1ZDY1MGI2NzkyNDczYTMyNGU5MmI2ODUyNGE2ZDM=.png" group-title="Documentare",Viasat Explore
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+
 
 #############################################
 ## Muzica
 #############################################
-#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE4XzE1NTM0MThf/S2lzc19UVi5wbmcmaGFzaD1lZjMyMmRl/N2E1ZjdkNjA3ODZhZDQ4MmQxY2Y3YTI4MQ==.png" group-title="Muzica",Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-
-#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIwXzE1NTM0MjBf/TWFnaWNfVFYucG5nJmhhc2g9MzZlMGFj/OWY3NmVmNGQ0MmI3ZmFhMjNkNjk2MmY3MjE=.png" group-title="Muzica",Magic TV
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-
 #EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
 
@@ -207,9 +216,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Muzica",Atomic Academy TV
 https://atomic.streamnet.ro/academia.m3u8
-
-#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="BoomTV.ro@HD" tvg-name="Boom TV (1080p)" tvg-logo="https://radioboom.ro/favicon.ico" group-title="Muzica",Boom TV (1080p)
 #EXTVLCOPT:http-referrer=https://tvboom.ro/
@@ -296,6 +302,9 @@ https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 
 #EXTINF:-1 tvg-id="AntenaCook.ro" tvg-name="Antena Cook & Play" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Antena Cook & Play
 https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
+
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="Antena Sport" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Antena Sport [Not 24/7]
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="https://assets.antenaplay.ro/2023/04/13/IWpDQmhS6PNCVf496ri5.png" group-title="Posibil Geo-blocat (de testat)",Antena Stars
 https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
@@ -417,6 +426,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE2XzE1NTM0MTZf/S2FuYWxfRF9IRC5wbmcmaGFzaD1jZWFj/MjZhM2M0MjFkZTVhMjA4MzY3M2IyMzNjOThiYw==.png" group-title="Posibil Geo-blocat (de testat)",Kanal D
 https://stream2.kanald.ro/iphone/knd-live.m3u8
 
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE4XzE1NTM0MThf/S2lzc19UVi5wbmcmaGFzaD1lZjMyMmRl/N2E1ZjdkNjA3ODZhZDQ4MmQxY2Y3YTI4MQ==.png" group-title="Posibil Geo-blocat (de testat)",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIwXzE1NTM0MjBf/TWFnaWNfVFYucG5nJmhhc2g9MzZlMGFj/OWY3NmVmNGQ0MmI3ZmFhMjNkNjk2MmY3MjE=.png" group-title="Posibil Geo-blocat (de testat)",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Posibil Geo-blocat (de testat)",MediCOOL TV
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 
@@ -495,6 +510,9 @@ https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Realitatea Sportiva
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Posibil Geo-blocat (de testat)",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
 #EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE5XzE3MTI4MTlf/MTUyeDUwX1JvbWFuaWEtVFYtSEQucG5n/Jmhhc2g9YzA1ZTBiYTU3OWY5NWQ5NjZhMDlhZjJlNzNlMDA2NmY=.png" group-title="Posibil Geo-blocat (de testat)",Romania TV
 #EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
@@ -519,12 +537,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="ViasatExplorer.ro" tvg-name="Viasat Explorer" tvg-logo="https://www.viasatworld.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Viasat Explorer
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-explorer-ro/manifest.m3u8
-
-#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="Viasat History" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA1/JTJGMjAlMkYyNzM5NjEyXzI3Mzk2MTJf/MTI1eDUwX0hpc3RvcnktMS5wbmcmaGFz/aD0zZmE5ODIwYTBiNDMyOTUwNDhlY2YyNDQzNGZiZDJlNQ==.png" group-title="Posibil Geo-blocat (de testat)",Viasat History
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-history-ro/manifest.m3u8
-
-#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="Viasat Nature" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA1/JTJGMjAlMkYyNzM5NjEzXzI3Mzk2MTNf/MTI1eDUwX05hdHVyZS0xLnBuZyZoYXNo/PWY4MDQ4NGRmZDExNmE0M2RlZDZhZDhiNGE4ZmRjY2M3.png" group-title="Posibil Geo-blocat (de testat)",Viasat Nature
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/viasat-nature-ro/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ZuTV.ro" tvg-name="Zu TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA3/JTJGMDIlMkYyODE4OTU4XzI4MTg5NThf/MTUyeDUwcHhfQ2hlZmlfSEQucG5nJmhh/c2g9MmMyMjYwMTk4NWEyMmFjZDIwZDQ3YTNiZmY1ZGNlODA=.png" group-title="Posibil Geo-blocat (de testat)",Zu TV
 https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
