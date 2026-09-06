@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-05 07:53 UTC  |  Canale: 30
+## Generat automat: 2026-09-06 08:09 UTC  |  Canale: 30
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -13,9 +13,6 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-name="Observator News (360p)" tvg-logo="https://i.imgur.com/sarnn0Y.png" group-title="Generale",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
-#EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-name="Alfa Omega TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE0XzE1NTMzMTRf/QWxmYV9zaV9PbWVnYV9UVi5wbmcmaGFz/aD1kNDgwODQzMjBlNGU0ZmFmZmUyNGQ2ZjFhNTM3NDQyYQ==.png" group-title="Generale",Alfa Omega TV (1080p) [Not 24/7]
-https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-
 #EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-name="Columna TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUwXzE1NTMzNTBf/Q29sdW1uYV90di5wbmcmaGFzaD1hNjcy/MDIyOTdkZTY5MWJkNjY2ZGZmNzMyZjFkODdjNw==.png" group-title="Generale",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 
@@ -24,6 +21,9 @@ http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-name="EMI TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgzXzE1NTMzODNf/ZW1pX1RWLnBuZyZoYXNoPWQ2NzZlNGE3OTE4ZTRiMDAyZjBhZDYwYzhhMmMwN2Q3.png" group-title="Generale",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
+
+#EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-name="HD365 TV" tvg-logo="https://www.hd365.tv/favicon.ico" group-title="Generale",HD365 TV
+https://s2.netstreaming.eu/hd365.m3u8
 
 #EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-name="JOB TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDEzXzE1NTM0MTNf/Sm9iX1RWLnBuZyZoYXNoPTliMTI5OTQxMjE5OTA5ZDM0MDA4ZjQ5ZWQxOGJkZTYz.png" group-title="Generale",JOB TV (1080p)
 https://jobtvserver.eu/hls/stream.m3u8
