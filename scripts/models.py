@@ -53,7 +53,8 @@ class Channel:
     priority: int = 100
     status: str = "unknown"  # working | dead | geo | timeout | unknown
     resolution: int = 0
+    alias_key: str = ""  # optional override for dedupe/auto-heal grouping; tvg_id is untouched
 
     @property
     def key(self) -> str:
-        return canonical_id(self.tvg_id) or canonical_name(self.name)
+        return self.alias_key or canonical_id(self.tvg_id) or canonical_name(self.name)

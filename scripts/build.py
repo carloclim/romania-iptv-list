@@ -288,6 +288,8 @@ def main() -> int:
     print(f"  parsed {len(channels)} entries from: {', '.join(sources_used)}")
 
     channels = merger.apply_blocklist(channels, blocklist)
+    tvg_id_aliases = _load_json(DATA_DIR / "tvg_id_aliases.json", {}).get("groups", [])
+    channels = merger.apply_tvg_id_aliases(channels, tvg_id_aliases)
     channels = [channel for channel in channels if channel.key not in excludes]
     chosen, cand_map = merger.dedupe(channels)
     chosen = apply_overrides(chosen, overrides)

@@ -1,0 +1,13 @@
+{
+  "_comment": "Groups of tvg-id values that refer to the same real-world channel but are named differently across sources (e.g. curated.m3u vs iptv-org). Channels whose canonical tvg-id appears in the same group share one dedupe/auto-heal key, without altering the tvg-id actually rendered in the playlist (used for EPG/logo matching).",
+  "groups": [
+    {
+      "key": "natgeo.ro",
+      "ids": ["NatGeo.ro", "NationalGeographic.ro"]
+    },
+    {
+      "key": "natgeowild.ro",
+      "ids": ["NatGeoWild.ro", "NationalGeographicWild.ro"]
+    }
+  ]
+}
