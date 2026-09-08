@@ -1,3 +1,9 @@
 # Blocklist: any stream URL that CONTAINS one of these substrings is excluded.
 # One pattern per line. Lines starting with '#' are comments.
 # Use this for dead hosts or to honor DMCA / takedown requests.
+
+# CloudFront distribution token used by ~38 curated Documentare/Filme/Kids/Muzica
+# entries; all consistently return dead/404 (likely an expired/rotated session
+# token). Blocked so they stop cluttering the "Posibil Geo-blocat (de testat)"
+# bucket; auto-heal or a manually-sourced override can fill each channel's slot.
+0bc8e8376bd8417a1b6761138aa41c26c7309312

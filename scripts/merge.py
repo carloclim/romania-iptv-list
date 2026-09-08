@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from collections import defaultdict
 
-from models import Channel
+from models import Channel, canonical_id
 
 
 def apply_blocklist(channels: list[Channel], patterns: list[str]) -> list[Channel]:
@@ -12,6 +12,31 @@ def apply_blocklist(channels: list[Channel], patterns: list[str]) -> list[Channe
     if not active:
         return channels
     return [ch for ch in channels if not any(p in ch.url for p in active)]
+
+
+def apply_tvg_id_aliases(channels: list[Channel], alias_groups: list[dict]) -> list[Channel]:
+    """Map known tvg-id variants (e.g. curated 'NatGeo.ro' vs iptv-org
+    'NationalGeographic.ro') onto one shared dedupe key, so remote alternates
+    are considered during auto-heal even when their tvg-id differs from the
+    curated one. The channel's own tvg_id is left untouched (still used for
+    EPG/logo matching); only Channel.key (via alias_key) is affected.
+    """
+    id_to_group_key: dict[str, str] = {}
+    for group in alias_groups:
+        group_key = (group.get("key") or "").strip().lower()
+        if not group_key:
+            continue
+        for raw_id in group.get("ids", []):
+            cid = canonical_id(raw_id)
+            if cid:
+                id_to_group_key[cid] = group_key
+    if not id_to_group_key:
+        return channels
+    for ch in channels:
+        group_key = id_to_group_key.get(canonical_id(ch.tvg_id))
+        if group_key:
+            ch.alias_key = group_key
+    return channels
 
 
 def group_candidates(channels: list[Channel]) -> dict[str, list[Channel]]:
