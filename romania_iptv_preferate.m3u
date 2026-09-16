@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-15 09:00 UTC  |  Functionale: 76  |  De testat: 52
+## Generat automat: 2026-09-16 08:52 UTC  |  Functionale: 76  |  De testat: 52
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -18,9 +18,6 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-name="National TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM4XzE1NTM0Mzhf/TmF0aW9uYWxfVFYucG5nJmhhc2g9YTI5/YTM2ZjM2NTZiMDgyYWE0N2FhNDNlZDg3NzIyY2Y=.png" group-title="Generale",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Generale",A7TV (1080p)
-https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-name="Alfa Omega TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE0XzE1NTMzMTRf/QWxmYV9zaV9PbWVnYV9UVi5wbmcmaGFz/aD1kNDgwODQzMjBlNGU0ZmFmZmUyNGQ2ZjFhNTM3NDQyYQ==.png" group-title="Generale",Alfa Omega TV (1080p) [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
@@ -277,6 +274,9 @@ http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 #EXTINF:-1 tvg-id="RadioGuerrilla.ro" tvg-name="Radio Guerrilla" tvg-logo="https://guerrillaradio.b-cdn.net/wp-content/themes/guerrilla/library/images/favicon/apple-icon-120x120.png" group-title="Radio",Radio Guerrilla
 https://live.guerrillaradio.ro:8443/guerrilla.aac
 
+#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://radiofxnet.ro/favicon.ico" group-title="Radio",Radio Fx Net (720p)
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Radio",Radio Romania Antena Satelor (720p) [Not 24/7]
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
@@ -288,6 +288,9 @@ https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #############################################
 ## Posibil Geo-blocat (de testat)
 #############################################
+#EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Posibil Geo-blocat (de testat)",A7TV (1080p)
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AngelusTV.ro@SD" tvg-name="Angelus TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE3XzE1NTMzMTdf/QW5nZWx1c19UVi5wbmcmaGFzaD03N2Ni/NDVjZTdkYThkODdkMjE3NTZjOGY0ZmIxNDU2Ng==.png" group-title="Posibil Geo-blocat (de testat)",Angelus TV (1080p)
 https://video.angelustv.ro/hls/angelustv.m3u8
 
@@ -409,9 +412,6 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist
 
 #EXTINF:-1 tvg-id="ProX.ro" tvg-name="PRO X" tvg-logo="https://www.protv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PRO X
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://radiofxnet.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Fx Net (720p)
-https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-name="Radio Romania 3Net (480p)" tvg-logo="https://www.radio3net.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania 3Net (480p)
 https://media.3netmedia.ro/hls/stream.m3u8
