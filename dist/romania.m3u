@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-17 08:57 UTC  |  Functionale: 77  |  De testat: 51
+## Generat automat: 2026-09-18 08:32 UTC  |  Functionale: 85  |  De testat: 48
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -109,6 +109,9 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 #EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-name="Arges TV (720p)" tvg-logo="https://argestv.ro/favicon.ico" group-title="Generale",Arges TV (720p)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 
+#EXTINF:-1 tvg-id="IneditTV.ro@SD" tvg-name="Inedit TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDExXzE1NTM0MTFf/SW5lZGl0X1RWLnBuZyZoYXNoPTU3YjRk/ZWY1ZmE2MTBlMWMzYzNmZDk2ODQ1YjUyNTdm.png" group-title="Generale",Inedit TV
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+
 
 #############################################
 ## Stiri
@@ -151,6 +154,9 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
 #############################################
 ## Filme
 #############################################
+#EXTINF:-1 tvg-id="HappyChannel.ro@SD" tvg-name="Happy Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Filme",Happy Channel
+https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
+
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png" group-title="Filme",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 
@@ -172,6 +178,9 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
 
 #EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyNzU2XzE3MTI3NTZf/MTUyeDUwX0FjYXNhLUdvbGQtSEQucG5n/Jmhhc2g9Zjk1ZjI0ODBhY2U3YTQwOGY0NDA0ZjU3NmZiOWIwMjE=.png" group-title="Filme",Acasa Gold
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodFilm.ro@SD" tvg-name="Bollywood Film" tvg-logo="https://www.bollywoodtv.ro/favicon.ico" group-title="Filme",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 
 
 #############################################
@@ -200,6 +209,15 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIwXzE1NTM0MjBf/TWFnaWNfVFYucG5nJmhhc2g9MzZlMGFj/OWY3NmVmNGQ0MmI3ZmFhMjNkNjk2MmY3MjE=.png" group-title="Muzica",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
+#EXTINF:-1 tvg-id="MoozDance.ro@SD" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Muzica",Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-id="MoozHits.ro@SD" tvg-name="Mooz Hits" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Muzica",Mooz Hits
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-id="MoozRo.ro@SD" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Muzica",Mooz Ro!
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+
 #EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
 
@@ -226,6 +244,9 @@ https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music (576i)" tvg-logo="https://tele7music.ro/favicon.ico" group-title="Muzica",Tele7music (576i)
 https://live.tele7music.ro/hls/stream/index.m3u8
 
+#EXTINF:-1 tvg-id="EtnoTV.ro@SD" tvg-name="Etno TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU1XzE1NTM2NTVf/RXRub19IRC5wbmcmaGFzaD1mZWI1NGRm/MGJhM2FlOTAwZDQzZDA2ZTRkYTNlMTZhOA==.png" group-title="Muzica",Etno TV
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+
 
 #############################################
 ## Kids
@@ -248,6 +269,9 @@ https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1 tvg-id="Minimax.ro@SD" tvg-name="Minimax" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzAwXzE1OTg3MDBf/TWluaW1heC0yLnBuZyZoYXNoPWI1MTUz/NTA1NTk2YmE2Mzk2M2M1MjcwYmNmMDhiYTlk.png" group-title="Kids",Minimax
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="TraLaLaTV.ro@SD" tvg-name="TraLaLa TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDg1XzE1NTM0ODVf/VHJhTGFMYS5wbmcmaGFzaD04MjlhYTE0/MTYzNzQ3N2MxMmU1YzIxOGM5OGQ5ZmEwYw==.png" group-title="Kids",TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 
 
 #############################################
@@ -364,9 +388,6 @@ https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
 #EXTINF:-1 tvg-id="Eurosport2RO.ro" tvg-name="Eurosport 2 Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkzXzE1NTMzOTNf/RXVyb1Nwb3J0XzJfSEQucG5nJmhhc2g9/NTJiZmFmMjc1NjVmODY1NzQ5NTM4OTBhZjkzMmU4ZTg=.png" group-title="Posibil Geo-blocat (de testat)",Eurosport 2 Romania
 https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 
-#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Posibil Geo-blocat (de testat)",Happy Channel
-https://live7digi.antenaplay.ro/happy/happy_3000k.m3u8
-
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Posibil Geo-blocat (de testat)",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
@@ -386,17 +407,8 @@ https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Posibil Geo-blocat (de testat)",MediCOOL TV
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Posibil Geo-blocat (de testat)",Mooz Dance
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Posibil Geo-blocat (de testat)",Mooz Hits
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Posibil Geo-blocat (de testat)",Mooz Ro!
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="MireasaExtra.ro@SD" tvg-name="Mireasa Extra" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mireasa Extra
+rtmp://stream1.antenaplay.ro/live/MireasaExtra
 
 #EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="https://noratelevizyonu.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Noroc TV
 https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8

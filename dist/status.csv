@@ -5,7 +5,6 @@ dead,Documentare,Digi Life,curated,0,https://live3.cdn.dejacast.com/digilife/dig
 dead,Documentare,Digi World,curated,0,https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
 dead,Documentare,Hello Taste,override,0,https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 dead,Documentare,MediCOOL TV,override,0,https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-dead,Filme,Happy Channel,curated,0,https://live7digi.antenaplay.ro/happy/happy_3000k.m3u8
 dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls/angelustv.m3u8
 dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
@@ -14,12 +13,10 @@ dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/ast
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Kapital TV (1080p),iptv-org-ro,1080,https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
 dead,Muzica,Balkan TV,curated,0,https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
 dead,Muzica,Dibi TV,override,0,https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
 dead,Muzica,Hora TV,curated,0,https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
-dead,Muzica,Mooz Dance,curated,0,https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-dead,Muzica,Mooz Hits,curated,0,https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
 dead,Muzica,Taraf TV,curated,0,https://live3.cdn.dejacast.com/taraf/taraf_0.m3u8
 dead,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
@@ -55,8 +52,10 @@ working,Documentare,National Geographic,iptv-org-ro,0,https://onyx1.mofta1.cfd/n
 working,Documentare,National Geographic Wild,override,0,https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 working,Filme,Acasa Gold,iptv-org-ro,0,http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
 working,Filme,Acasa HD,iptv-org-ro,0,http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+working,Filme,Bollywood Film,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 working,Filme,Comedy Play,override,0,https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 working,Filme,Film Now,iptv-org-ro,0,https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+working,Filme,Happy Channel,iptv-org-ro,0,https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
 working,Filme,Pro Cinema,iptv-org-ro,0,http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 working,Filme,Timeless Dizi Channel,override,0,https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 working,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
@@ -67,6 +66,7 @@ working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/li
 working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 working,Generale,EMI TV,iptv-org-ro,0,https://astra.emitv.ro/hls/emi/index.m3u8
 working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
+working,Generale,Inedit TV,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 working,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
 working,Generale,Kanal D2 (1080i),iptv-org-ro,1080,https://stream2.kanald.ro/iphone/knd2-live.m3u8
 working,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -97,14 +97,19 @@ working,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/userge
 working,Kids,Minimax,iptv-org-ro,0,https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 working,Kids,Nickelodeon,override,0,https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 working,Kids,Nicktoons,override,0,https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+working,Kids,TraLaLa TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 working,Muzica,Atomic Academy TV,curated,0,https://atomic.streamnet.ro/academia.m3u8
 working,Muzica,Atomic TV,curated,0,https://atomic.streamnet.ro/atomictv.m3u8
 working,Muzica,Boom TV (1080p),iptv-org-ro,1080,https://tvboom.ro/live-tv/live.m3u8
+working,Muzica,Etno TV,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 working,Muzica,Impact TV (1080p),iptv-org-ro,1080,https://live.tvimpact.ro:8088/hevc/index.m3u8
 working,Muzica,Impact TV Dance,curated,0,https://online.tvimpact.live/hls/dancetv.m3u8
 working,Muzica,Impact TV Manele,curated,0,https://online.tvimpact.live/hls/impact_tv.m3u8
 working,Muzica,Kiss TV,curated,0,https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 working,Muzica,Magic TV,curated,0,https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+working,Muzica,Mooz Dance,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+working,Muzica,Mooz Hits,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+working,Muzica,Mooz Ro!,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 working,Muzica,Tele7music (576i),override,576,https://live.tele7music.ro/hls/stream/index.m3u8
 working,Radio,Digi FM,curated,0,http://edge76.rdsnet.ro:84/digifm/digifm.mp3

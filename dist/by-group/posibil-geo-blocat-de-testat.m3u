@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-17 08:57 UTC  |  Canale: 51
+## Generat automat: 2026-09-18 08:32 UTC  |  Canale: 48
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -80,9 +80,6 @@ https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
 #EXTINF:-1 tvg-id="Eurosport2RO.ro" tvg-name="Eurosport 2 Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkzXzE1NTMzOTNf/RXVyb1Nwb3J0XzJfSEQucG5nJmhhc2g9/NTJiZmFmMjc1NjVmODY1NzQ5NTM4OTBhZjkzMmU4ZTg=.png" group-title="Posibil Geo-blocat (de testat)",Eurosport 2 Romania
 https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 
-#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Posibil Geo-blocat (de testat)",Happy Channel
-https://live7digi.antenaplay.ro/happy/happy_3000k.m3u8
-
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Posibil Geo-blocat (de testat)",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
@@ -102,17 +99,8 @@ https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Posibil Geo-blocat (de testat)",MediCOOL TV
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Posibil Geo-blocat (de testat)",Mooz Dance
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Posibil Geo-blocat (de testat)",Mooz Hits
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Posibil Geo-blocat (de testat)",Mooz Ro!
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="MireasaExtra.ro@SD" tvg-name="Mireasa Extra" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mireasa Extra
+rtmp://stream1.antenaplay.ro/live/MireasaExtra
 
 #EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="https://noratelevizyonu.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Noroc TV
 https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
