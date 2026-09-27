@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-26 08:51 UTC  |  Canale: 14
+## Generat automat: 2026-09-27 09:34 UTC  |  Canale: 15
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -50,3 +50,6 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="EtnoTV.ro@SD" tvg-name="Etno TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU1XzE1NTM2NTVf/RXRub19IRC5wbmcmaGFzaD1mZWI1NGRm/MGJhM2FlOTAwZDQzZDA2ZTRkYTNlMTZhOA==.png" group-title="Muzica",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV2.ro@HD" tvg-name="Impact TV 2 (1080p)" tvg-logo="" group-title="Muzica",Impact TV 2 (1080p)
+https://online.tvimpact.live/hls/impact_tv2.m3u8
