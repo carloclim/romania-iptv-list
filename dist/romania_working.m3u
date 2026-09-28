@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-27 09:34 UTC  |  Canale: 88
+## Generat automat: 2026-09-28 10:13 UTC  |  Canale: 94
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -115,10 +115,17 @@ https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD" tvg-name="Insula non stop (576i)" tvg-logo="" group-title="Generale",Insula non stop (576i)
 https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 
+#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD" tvg-name="Asia Express NonStop (576i)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Asia Express NonStop (576i)
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+
 
 #############################################
 ## Stiri
 #############################################
+#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-name="Romania TV (576i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE5XzE3MTI4MTlf/MTUyeDUwX1JvbWFuaWEtVFYtSEQucG5n/Jmhhc2g9YzA1ZTBiYTU3OWY5NWQ5NjZhMDlhZjJlNzNlMDA2NmY=.png" group-title="Stiri",Romania TV (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
+https://dokagents.site/live/romaniatv/mono.m3u8
+
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzU4XzE1NTMzNThf/RGlnaV8yNF9IRC5wbmcmaGFzaD0wZTQ0/NTcwNDg1YzkwMTIwMTBjM2I0N2YyM2UwMDZhMg==.png" group-title="Stiri",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
@@ -147,6 +154,10 @@ https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #############################################
 ## Sport
 #############################################
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-name="Digi Sport 1 HD (576i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png" group-title="Sport",Digi Sport 1 HD (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dokagents.site/live/digisport1/mono.m3u8
+
 #EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-name="Digi Sport 2 (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY3XzE1NTMzNjdf/RGlnaV9TcG9ydF8yX0hELnBuZyZoYXNo/PWZmNzViZTk0YmY5ODgxNGE3MTUyOGNjZmE4MjYxNzE3.png" group-title="Sport",Digi Sport 2 (1080p)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
 
@@ -159,8 +170,13 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro@SD" tvg-name="TVR Sport" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwNzIzXzE5OTA3MjNf/VFZSLVNwb3J0LUhELS5wbmcmaGFzaD00/OWY2YTA4NjQ5NjYxNDAyMDU4OGM3N2YxMzA2MWE0OQ==.png" group-title="Sport",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-name="Pro Arena HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA0/JTJGMDclMkYxNDg4NDQyXzE0ODg0NDJf/cHJvLWFyZW5hLnBuZyZoYXNoPTJjNDc3/OWVhNGMzZjA2ZDBkN2MyZjUzYmVhMjVlZmMz.png" group-title="Sport",Pro Arena HD
-http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro@HD" tvg-name="Pro Arena HD (1080i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA0/JTJGMDclMkYxNDg4NDQyXzE0ODg0NDJf/cHJvLWFyZW5hLnBuZyZoYXNoPTJjNDc3/OWVhNGMzZjA2ZDBkN2MyZjUzYmVhMjVlZmMz.png" group-title="Sport",Pro Arena HD (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
+https://dokagents.site/live/proarena/mono.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro@SD" tvg-name="Prima Sport 5 (480p)" tvg-logo="https://www.primasport.ro/favicon.ico" group-title="Sport",Prima Sport 5 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
+https://dokagents.site/live/pr5/mono.m3u8
 
 
 #############################################
@@ -180,6 +196,9 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 
+#EXTINF:-1 tvg-id="FilmNow.ro@HD" tvg-name="Film Now HD (1080i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk5XzE1NTMzOTlf/RmlsbV9Ob3dfSEQucG5nJmhhc2g9ZTZh/YzMyMjc0YjA0N2UyZTBmMjNiMDNhZDQ2YjZjMjk=.png" group-title="Filme",Film Now HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-name="Acasa HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzEwXzE1NTMzMTBf/QWNhc2FfVFZfYi5wbmcmaGFzaD00NzIw/YTA5NzZkMWY5ZDM1NjJjODY4MGJhNWQ0OGZhOQ==.png" group-title="Filme",Acasa HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
 
@@ -196,6 +215,14 @@ https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #############################################
 ## Documentare
 #############################################
+#EXTINF:-1 tvg-id="DigiWorld.ro@SD" tvg-name="Digi World (576i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzczXzE1NTMzNzNf/RGlnaV9Xb3JsZF9IRC5wbmcmaGFzaD1m/NmRjZTliMDVlYWJlNzdkZjVhNjdkNzU1ZjFlODYzNg==.png" group-title="Documentare",Digi World (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
+https://dokagents.site/live/digiworld/mono.m3u8
+
+#EXTINF:-1 tvg-id="DigiLife.ro@SD" tvg-name="Digi Life (576i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzYzXzE1NTMzNjNf/RGlnaV9MaWZlX0hELnBuZyZoYXNoPTZm/NWViOTRhYjI5ODZhNDQ3N2UxMTcxOGZmYmZlODg5.png" group-title="Documentare",Digi Life (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
+https://dokagents.site/live/digilife/mono.m3u8
+
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzExXzE1NTMzMTFf/QWdyb19UVi5wbmcmaGFzaD03NGU2YWIw/NDg5ODgwMzM5NWQ1MzRhZjg5NGVlNjc4Zg==.png" group-title="Documentare",Agro TV [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
@@ -282,9 +309,6 @@ https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #############################################
 #EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://logo.clearbit.com/profm.ro" group-title="Radio",Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
-
-#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Radio",Europa FM
-https://astreaming.edi.ro:8443/EuropaFM_aac
 
 #EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://logo.clearbit.com/virginradio.ro" group-title="Radio",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k

@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-27 09:34 UTC  |  Canale: 36
+## Generat automat: 2026-09-28 10:13 UTC  |  Canale: 37
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -114,3 +114,6 @@ https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Insulanonstop.ro@SD" tvg-name="Insula non stop (576i)" tvg-logo="" group-title="Generale",Insula non stop (576i)
 https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
+
+#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD" tvg-name="Asia Express NonStop (576i)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Asia Express NonStop (576i)
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
