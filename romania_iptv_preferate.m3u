@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-09-28 10:13 UTC  |  Functionale: 94  |  De testat: 44
+## Generat automat: 2026-09-29 10:10 UTC  |  Functionale: 94  |  De testat: 44
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -310,6 +310,9 @@ https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://logo.clearbit.com/profm.ro" group-title="Radio",Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Radio",Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
+
 #EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://logo.clearbit.com/virginradio.ro" group-title="Radio",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 
@@ -330,9 +333,6 @@ https://live.guerrillaradio.ro:8443/guerrilla.aac
 
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net (720p)" tvg-logo="https://radiofxnet.ro/favicon.ico" group-title="Radio",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Radio",Radio Romania Antena Satelor (720p) [Not 24/7]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
 
 #############################################
@@ -391,9 +391,6 @@ https://live3.cdn.dejacast.com/digianimalworld/digianimalworld_0.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 
-#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Posibil Geo-blocat (de testat)",Europa FM
-https://astreaming.edi.ro:8443/EuropaFM_aac
-
 #EXTINF:-1 tvg-id="EurosportRO.ro" tvg-name="Eurosport 1 Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkxXzE1NTMzOTFf/RXVyb1Nwb3J0XzFfSEQucG5nJmhhc2g9/ZjUyZmRiMDg3ZjlmMDM3YWM4YjhmYjA4Njk4MjZjZjg=.png" group-title="Posibil Geo-blocat (de testat)",Eurosport 1 Romania
 https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
 
@@ -449,6 +446,9 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlis
 
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-name="Radio Romania 3Net (480p)" tvg-logo="https://www.radio3net.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania 3Net (480p)
 https://media.3netmedia.ro/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" tvg-logo="https://radiozu.ro/favicon-96x96.png" group-title="Posibil Geo-blocat (de testat)",Radio ZU
 https://live.radiozu.ro/radiozu.aacp
