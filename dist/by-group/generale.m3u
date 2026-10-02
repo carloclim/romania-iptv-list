@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-01 10:30 UTC  |  Canale: 35
+## Generat automat: 2026-10-02 10:05 UTC  |  Canale: 38
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -111,3 +111,12 @@ https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD" tvg-name="Asia Express NonStop (576i)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Asia Express NonStop (576i)
 https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+
+#EXTINF:-1 tvg-id="FavoritTV.ro@SD" tvg-name="Favorit TV (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk2XzE1NTMzOTZf/RmF2b3JpdC5wbmcmaGFzaD0zNzk0OTQy/M2I3MTBjMTdhODVjMTcyMGE4MjI0NDkyZA==.png" group-title="Generale",Favorit TV (576p)
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Chefiro.ro@SD" tvg-name="Chefi.ro (1080p)" tvg-logo="https://chefi.ro/favicon.ico" group-title="Generale",Chefi.ro (1080p)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+
+#EXTINF:-1 tvg-id="PROTVInternational.ro@SD" tvg-name="PRO TV International" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxNiUyRjEzMDE0MDZfMTMwMTQwNl9Q/Uk8tVFYtSU5URVJOQVRJT05BTC5wbmcm/aGFzaD05MDc0MDIyZTA3OGVlM2Y1YzQ3NDg1NTQ4NTdlYWFjYw==.png" group-title="Generale",PRO TV International
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
