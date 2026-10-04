@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-03 09:27 UTC  |  Canale: 12
+## Generat automat: 2026-10-04 10:15 UTC  |  Canale: 11
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -36,9 +36,6 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Radio",Radio Romania Antena Satelor (720p) [Not 24/7]
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-name="Radio Romania Targu Mures (576p)" tvg-logo="https://www.radiomures.ro/favicon.ico" group-title="Radio",Radio Romania Targu Mures (576p)
-https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-name="Radio Romania Oltenia-Craiova (576p) [Not 24/7]" tvg-logo="https://www.radiooltenia.ro/favicon.ico" group-title="Radio",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8

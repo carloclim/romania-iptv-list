@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-03 09:27 UTC  |  Canale: 101
+## Generat automat: 2026-10-04 10:15 UTC  |  Canale: 100
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -48,9 +48,6 @@ https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV
-https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://www.musceltv.ro/favicon.ico" group-title="Generale",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
@@ -205,11 +202,11 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 
-#EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-name="Acasa HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzEwXzE1NTMzMTBf/QWNhc2FfVFZfYi5wbmcmaGFzaD00NzIw/YTA5NzZkMWY5ZDM1NjJjODY4MGJhNWQ0OGZhOQ==.png" group-title="Filme",Acasa HD
-http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+#EXTINF:-1 tvg-id="Acasa.ro@SD" tvg-name="Acasa (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzEwXzE1NTMzMTBf/QWNhc2FfVFZfYi5wbmcmaGFzaD00NzIw/YTA5NzZkMWY5ZDM1NjJjODY4MGJhNWQ0OGZhOQ==.png" group-title="Filme",Acasa (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyNzU2XzE3MTI3NTZf/MTUyeDUwX0FjYXNhLUdvbGQtSEQucG5n/Jmhhc2g9Zjk1ZjI0ODBhY2U3YTQwOGY0NDA0ZjU3NmZiOWIwMjE=.png" group-title="Filme",Acasa Gold
-http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-name="Acasa Gold (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyNzU2XzE3MTI3NTZf/MTUyeDUwX0FjYXNhLUdvbGQtSEQucG5n/Jmhhc2g9Zjk1ZjI0ODBhY2U3YTQwOGY0NDA0ZjU3NmZiOWIwMjE=.png" group-title="Filme",Acasa Gold (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="BollywoodFilm.ro@SD" tvg-name="Bollywood Film" tvg-logo="https://www.bollywoodtv.ro/favicon.ico" group-title="Filme",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
@@ -282,10 +279,6 @@ https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
-#EXTINF:-1 tvg-id="BoomTV.ro@HD" tvg-name="Boom TV (1080p)" tvg-logo="https://radioboom.ro/favicon.ico" group-title="Muzica",Boom TV (1080p)
-#EXTVLCOPT:http-referrer=https://tvboom.ro/
-https://tvboom.ro/live-tv/live.m3u8
-
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-name="Impact TV (1080p)" tvg-logo="https://tvimpact.ro/favicon.ico" group-title="Muzica",Impact TV (1080p)
 #EXTVLCOPT:http-referrer=https://tvimpact.ro/
 https://live.tvimpact.ro:8088/hevc/index.m3u8
@@ -298,6 +291,12 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 
 #EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-name="Party Mix HD (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ2XzE1NTM0NDZf/UGFydHlfTWl4LnBuZyZoYXNoPTk2MmVk/Y2QxN2RlZGQ1ZTQyNjQxY2FhZDM0YzZlMGVl.png" group-title="Muzica",Party Mix HD (1080p)
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD" tvg-name="H!t Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDA3XzE1NTM0MDdf/SElUX011c2ljX0NoYW5uZWwucG5nJmhh/c2g9MjQ3YzIwN2IxZDkwNmFiYzg3NGU3NzIxODA0ODVlM2E=.png" group-title="Muzica",H!t Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMxXzE1NTM0MzFf/TXVzaWNfQ2hhbm5lbC5wbmcmaGFzaD04/NTgxZjRmMGVjMzc1ZWJiZmRkMWM5NTAzMzM1ZDk4Mw==.png" group-title="Muzica",Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
 
 
 #############################################
@@ -353,9 +352,6 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Radio",Radio Romania Antena Satelor (720p) [Not 24/7]
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-name="Radio Romania Targu Mures (576p)" tvg-logo="https://www.radiomures.ro/favicon.ico" group-title="Radio",Radio Romania Targu Mures (576p)
-https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-name="Radio Romania Oltenia-Craiova (576p) [Not 24/7]" tvg-logo="https://www.radiooltenia.ro/favicon.ico" group-title="Radio",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8

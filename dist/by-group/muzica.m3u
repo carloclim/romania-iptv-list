@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-03 09:27 UTC  |  Canale: 16
+## Generat automat: 2026-10-04 10:15 UTC  |  Canale: 17
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -40,10 +40,6 @@ https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
-#EXTINF:-1 tvg-id="BoomTV.ro@HD" tvg-name="Boom TV (1080p)" tvg-logo="https://radioboom.ro/favicon.ico" group-title="Muzica",Boom TV (1080p)
-#EXTVLCOPT:http-referrer=https://tvboom.ro/
-https://tvboom.ro/live-tv/live.m3u8
-
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-name="Impact TV (1080p)" tvg-logo="https://tvimpact.ro/favicon.ico" group-title="Muzica",Impact TV (1080p)
 #EXTVLCOPT:http-referrer=https://tvimpact.ro/
 https://live.tvimpact.ro:8088/hevc/index.m3u8
@@ -56,3 +52,9 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 
 #EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-name="Party Mix HD (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ2XzE1NTM0NDZf/UGFydHlfTWl4LnBuZyZoYXNoPTk2MmVk/Y2QxN2RlZGQ1ZTQyNjQxY2FhZDM0YzZlMGVl.png" group-title="Muzica",Party Mix HD (1080p)
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD" tvg-name="H!t Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDA3XzE1NTM0MDdf/SElUX011c2ljX0NoYW5uZWwucG5nJmhh/c2g9MjQ3YzIwN2IxZDkwNmFiYzg3NGU3NzIxODA0ODVlM2E=.png" group-title="Muzica",H!t Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMxXzE1NTM0MzFf/TXVzaWNfQ2hhbm5lbC5wbmcmaGFzaD04/NTgxZjRmMGVjMzc1ZWJiZmRkMWM5NTAzMzM1ZDk4Mw==.png" group-title="Muzica",Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
