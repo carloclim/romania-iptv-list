@@ -15,13 +15,13 @@ dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
-dead,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Kapital TV (1080p),iptv-org-ro,1080,https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
 dead,Generale,MISA TV,override,0,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 dead,Generale,Qub TV,iptv-org-ro,0,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+dead,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Minimax,iptv-org-ro,0,https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 dead,Kids,Nickelodeon,override,0,https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
@@ -35,6 +35,7 @@ dead,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
 dead,Radio,Radio Romania 3Net (480p),iptv-org-ro,480,https://media.3netmedia.ro/hls/stream.m3u8
+dead,Radio,Radio Romania Resita (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
 dead,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
@@ -71,8 +72,10 @@ working,Generale,Asia Express NonStop (576i),iptv-org-ro,576,https://live4dai.an
 working,Generale,Chefi.ro (1080p),iptv-org-ro,1080,https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+working,Generale,DeParinti.ro (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 working,Generale,EMI TV,iptv-org-ro,0,https://astra.emitv.ro/hls/emi/index.m3u8
 working,Generale,Favorit TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 working,Generale,Inedit TV,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 working,Generale,Insula non stop (576i),iptv-org-ro,576,https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 working,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
@@ -86,7 +89,6 @@ working,Generale,Observator News (360p),iptv-org-ro,360,https://live77cdn2.anten
 working,Generale,Prima TV HD,iptv-org-ro,0,http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
 working,Generale,PRO TV International,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 working,Generale,PROFI 24 TV,iptv-org-ro,0,https://live.ro24tv.ro/hls/stream.m3u8
-working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,free-tv-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 working,Generale,Traditional TV (1080p),iptv-org-ro,1080,http://83.103.149.75:8085/udp/239.30.0.9:4000
 working,Generale,TVR 1 Ⓖ,free-tv-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
