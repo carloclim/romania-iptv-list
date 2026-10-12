@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-11 10:21 UTC  |  Canale: 49
+## Generat automat: 2026-10-12 11:22 UTC  |  Canale: 50
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -153,3 +153,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay (576p) [Not 24/7]" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Formula 1 AntenaPlay (576p) [Not 24/7]
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
+#EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-name="Sangeorz TV (576p)" tvg-logo="" group-title="Generale",Sangeorz TV (576p)
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
