@@ -45,7 +45,6 @@ dead,Muzica,UTV (576p),override,576,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cm
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
 dead,Radio,Radio Romania 3Net (480p),iptv-org-ro,480,https://media.3netmedia.ro/hls/stream.m3u8
-dead,Radio,Radio Romania Oltenia-Craiova (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 dead,Radio,Radio Romania Resita (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
 dead,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
@@ -146,6 +145,7 @@ working,Muzica,Party Mix HD (1080p),iptv-org-ro,1080,https://hls02ns.antenaplay.
 working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 working,Muzica,Taraf TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 working,Muzica,Tele7music (576i),override,576,https://live.tele7music.ro/hls/stream/index.m3u8
+working,Muzica,Tequila Music TV,iptv-org-ro,0,https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 working,Radio,Digi FM,curated,0,http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 working,Radio,Europa FM,override,0,https://astreaming.edi.ro:8443/EuropaFM_aac
 working,Radio,Kiss FM,override,0,https://live.kissfm.ro/kissfm.aacp
@@ -154,14 +154,17 @@ working,Radio,Pro FM,override,0,https://edge126.rcs-rds.ro/profm/profm.mp3
 working,Radio,Radio Fx Net (720p),override,720,https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guerrilla.aac
 working,Radio,Radio Romania Antena Satelor (720p) [Not 24/7],iptv-org-ro,720,https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+working,Radio,Radio Romania Oltenia-Craiova (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 working,Radio,Radio Romania Targu Mures (576p),iptv-org-ro,576,https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
+working,Radio,Smart Radio (576p),iptv-org-ro,576,https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Sport,Prima Sport 1,iptv-org-ro,0,https://dokagents.site/live/pr1/mono.m3u8
 working,Sport,Prima Sport 2,iptv-org-ro,0,https://dokagents.site/live/pr2/mono.m3u8
 working,Sport,Prima Sport 3,iptv-org-ro,0,https://dokagents.site/live/pr3/mono.m3u8
 working,Sport,Prima Sport 4,iptv-org-ro,0,https://dokagents.site/live/pr4/mono.m3u8
 working,Sport,Pro Arena (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+working,Sport,Sport Extra,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 working,Sport,TVR Sport,iptv-org-ro,0,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 working,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 working,Stiri,Antena 3 CNN (576p),iptv-org-ro,576,https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8

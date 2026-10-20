@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-19 09:20 UTC  |  Canale: 19
+## Generat automat: 2026-10-20 08:54 UTC  |  Canale: 20
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -65,3 +65,6 @@ https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
 
 #EXTINF:-1 tvg-id="MoozRetro.ro@SD" tvg-name="Mooz Retro (576p)" tvg-logo="" group-title="Muzica",Mooz Retro (576p)
 https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+
+#EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD" tvg-name="Tequila Music TV" tvg-logo="https://tequilamusic.net/favicon.ico" group-title="Muzica",Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
