@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-21 08:55 UTC  |  Functionale: 99  |  De testat: 75
+## Generat automat: 2026-10-22 08:57 UTC  |  Functionale: 101  |  De testat: 73
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -57,9 +57,6 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/favicon.ico" group-title="Generale",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-name="Qub TV" tvg-logo="https://www.qubtv.ro/favicon.ico" group-title="Generale",Qub TV
-https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-name="SperantaTV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc0XzE1NTM0NzRf/U3BlcmFudGFfVFYucG5nJmhhc2g9ZTFh/Njk2NDA2Y2Q4MjI1YWYwYzdiYzY4Y2FjOThjNGU=.png" group-title="Generale",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
@@ -260,6 +257,12 @@ https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Muzica",Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzIzXzE1NTMzMjNf/QXRvbWljX1RWLnBuZyZoYXNoPWE5MjEy/MjgyNWM3OWVmMjQyMzdlMDVkNGYyNWQ2MzE1.png" group-title="Muzica",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Muzica",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/JoPywOp.png" group-title="Muzica",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
@@ -282,6 +285,9 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 
 #EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-name="Party Mix HD (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ2XzE1NTM0NDZf/UGFydHlfTWl4LnBuZyZoYXNoPTk2MmVk/Y2QxN2RlZGQ1ZTQyNjQxY2FhZDM0YzZlMGVl.png" group-title="Muzica",Party Mix HD (1080p)
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD" tvg-name="Tequila Music TV" tvg-logo="https://tequilamusic.net/favicon.ico" group-title="Muzica",Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 
 
 #############################################
@@ -364,12 +370,6 @@ https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
 
 #EXTINF:-1 tvg-id="ArcadiaTelevision.ro" tvg-name="Arcadia Television" tvg-logo="https://i.imgur.com/lA4GYwJ.png" group-title="Posibil Geo-blocat (de testat)",Arcadia Television
 https://office.softer.ro/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Posibil Geo-blocat (de testat)",Atomic Academy TV
-https://atomic.streamnet.ro/academia.m3u8
-
-#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzIzXzE1NTMzMjNf/QXRvbWljX1RWLnBuZyZoYXNoPWE5MjEy/MjgyNWM3OWVmMjQyMzdlMDVkNGYyNWQ2MzE1.png" group-title="Posibil Geo-blocat (de testat)",Atomic TV
-https://atomic.streamnet.ro/atomictv.m3u8
 
 #EXTINF:-1 tvg-id="B1TV.ro" tvg-name="B1 TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzMwXzE1NTMzMzBf/Ql8xX1RWX0hELnBuZyZoYXNoPTMxMjZm/ZDk5ODY1ZDVmZjUwNGQ3MjgzMWZjY2JmOTRi.png" group-title="Posibil Geo-blocat (de testat)",B1 TV
 https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
@@ -529,6 +529,9 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlis
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD" tvg-name="Quantum TV (576p)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Quantum TV (576p)
 https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
 
+#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-name="Qub TV" tvg-logo="https://www.qubtv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Qub TV
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-name="Radio Romania 3Net (480p)" tvg-logo="https://www.radio3net.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania 3Net (480p)
 https://media.3netmedia.ro/hls/stream.m3u8
 
@@ -546,9 +549,6 @@ https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-name="Sport Extra" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png" group-title="Posibil Geo-blocat (de testat)",Sport Extra
 https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
-
-#EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD" tvg-name="Tequila Music TV" tvg-logo="https://tequilamusic.net/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Tequila Music TV
-https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 
 #EXTINF:-1 tvg-id="TezaurTV.ro" tvg-name="Tezaur TV" tvg-logo="https://i.imgur.com/t5eDZxU.png" group-title="Posibil Geo-blocat (de testat)",Tezaur TV
 https://testcam.go.ro:8080/hls/tezaurtv.m3u8
