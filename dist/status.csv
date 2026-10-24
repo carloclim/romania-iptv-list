@@ -58,6 +58,7 @@ dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurospor
 dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 dead,Sport,Realitatea Sportiva,override,0,https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
+dead,Stiri,Realitatea Star (576i),override,576,https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 geo,Documentare,TV Paprika,iptv-org-ro,0,https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 geo,Filme,Bollywood Film,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 geo,Generale,PRO 2,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
@@ -170,5 +171,4 @@ working,Stiri,Nasul TV (720p) [Not 24/7],iptv-org-ro,720,https://live.nasul.tv/l
 working,Stiri,National 24 Plus,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 working,Stiri,Prima News,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 working,Stiri,Pro TV News (1080p),override,1080,https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-working,Stiri,Realitatea Star (576i),override,576,https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 working,Stiri,Romania TV (576p),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
