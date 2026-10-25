@@ -27,7 +27,6 @@ dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/Mire
 dead,Generale,National TV2,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0
 dead,Generale,Orizont TV (576p),iptv-org-ro,576,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0
 dead,Generale,Prima TV,curated,0,https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-dead,Generale,TV AS (576p),iptv-org-ro,576,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0
 dead,Generale,VP TV,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Minimax,iptv-org-ro,0,https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
@@ -42,7 +41,6 @@ dead,Muzica,Mooz Hits,curated,0,https://rtmp.digitalbroadcast.ro/moozhits/moozhi
 dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 dead,Muzica,Music Channel,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
-dead,Muzica,UTV (576p),override,576,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
 dead,Radio,Radio Romania 3Net (480p),iptv-org-ro,480,https://media.3netmedia.ro/hls/stream.m3u8
@@ -58,7 +56,6 @@ dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurospor
 dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 dead,Sport,Realitatea Sportiva,override,0,https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
-dead,Stiri,Realitatea Star (576i),override,576,https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 geo,Documentare,TV Paprika,iptv-org-ro,0,https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 geo,Filme,Bollywood Film,iptv-org-ro,0,https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 geo,Generale,PRO 2,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
@@ -96,6 +93,7 @@ working,Generale,DeParinti.ro (576p),iptv-org-ro,576,https://live77cdn2.antenapl
 working,Generale,EMI TV,iptv-org-ro,0,https://astra.emitv.ro/hls/emi/index.m3u8
 working,Generale,Favorit TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 working,Generale,Formula 1 AntenaPlay (576p) [Not 24/7],iptv-org-ro,576,https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+working,Generale,Halloween Non Stop (720p),iptv-org-ro,720,https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 working,Generale,In Puii Mei (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 working,Generale,Inedit TV,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
@@ -120,6 +118,8 @@ working,Generale,Sangeorz TV (576p),iptv-org-ro,576,https://live.sangeorztv.ro:8
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,free-tv-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 working,Generale,Traditional TV (1080p),iptv-org-ro,1080,http://83.103.149.75:8085/udp/239.30.0.9:4000
+working,Generale,TV Arad (576i),iptv-org-ro,576,https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
+working,Generale,TV AS,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 working,Generale,TVR 1 Ⓖ,free-tv-ro,0,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 working,Generale,TVR 2 Ⓖ,free-tv-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 working,Generale,TVR 3 Ⓖ,free-tv-ro,0,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
@@ -149,6 +149,7 @@ working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71
 working,Muzica,Taraf TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 working,Muzica,Tele7music (576i),override,576,https://live.tele7music.ro/hls/stream/index.m3u8
 working,Muzica,Tequila Music TV,iptv-org-ro,0,https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+working,Muzica,UTV HD (1080i),override,1080,https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 working,Radio,Digi FM,curated,0,http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 working,Radio,Europa FM,override,0,https://astreaming.edi.ro:8443/EuropaFM_aac
 working,Radio,Kiss FM,override,0,https://live.kissfm.ro/kissfm.aacp
@@ -156,6 +157,7 @@ working,Radio,Magic FM,override,0,https://live.magicfm.ro/magicfm.aacp
 working,Radio,Pro FM,override,0,https://edge126.rcs-rds.ro/profm/profm.mp3
 working,Radio,Radio Fx Net (720p),override,720,https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guerrilla.aac
+working,Radio,Radio Romania Iasi (576i) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 working,Radio,Radio Romania Oltenia-Craiova (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 working,Radio,Radio Romania Targu Mures (576p),iptv-org-ro,576,https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
@@ -171,4 +173,5 @@ working,Stiri,Nasul TV (720p) [Not 24/7],iptv-org-ro,720,https://live.nasul.tv/l
 working,Stiri,National 24 Plus,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 working,Stiri,Prima News,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 working,Stiri,Pro TV News (1080p),override,1080,https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+working,Stiri,Realitatea Star (576i),override,576,https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 working,Stiri,Romania TV (576p),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8

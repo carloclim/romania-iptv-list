@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-24 08:26 UTC  |  Canale: 15
+## Generat automat: 2026-10-25 08:45 UTC  |  Canale: 16
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -53,3 +53,6 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD" tvg-name="Tequila Music TV" tvg-logo="https://tequilamusic.net/favicon.ico" group-title="Muzica",Tequila Music TV
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+
+#EXTINF:-1 tvg-id="UTV.ro@HD" tvg-name="UTV HD (1080i)" tvg-logo="https://utv.ro/favicon.ico" group-title="Muzica",UTV HD (1080i)
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
