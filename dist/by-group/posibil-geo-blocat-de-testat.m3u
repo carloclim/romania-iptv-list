@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-10-25 08:45 UTC  |  Canale: 71
+## Generat automat: 2026-10-26 09:24 UTC  |  Canale: 67
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -72,9 +72,6 @@ https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
 #EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzczXzE1NTMzNzNf/RGlnaV9Xb3JsZF9IRC5wbmcmaGFzaD1m/NmRjZTliMDVlYWJlNzdkZjVhNjdkNzU1ZjFlODYzNg==.png" group-title="Posibil Geo-blocat (de testat)",Digi World
 https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
 
-#EXTINF:-1 tvg-id="DiscoMix.ro@SD" tvg-name="Disco Mix (576p)" tvg-logo="https://www.discomix.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Disco Mix (576p)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-name="Disney Channel" tvg-logo="https://tv.disney.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Disney Channel
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -84,6 +81,9 @@ https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Posibil Geo-blocat (de testat)",Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
 
 #EXTINF:-1 tvg-id="EurosportRO.ro" tvg-name="Eurosport 1 Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkxXzE1NTMzOTFf/RXVyb1Nwb3J0XzFfSEQucG5nJmhhc2g9/ZjUyZmRiMDg3ZjlmMDM3YWM4YjhmYjA4Njk4MjZjZjg=.png" group-title="Posibil Geo-blocat (de testat)",Eurosport 1 Romania
 https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
@@ -96,9 +96,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=
 
 #EXTINF:-1 tvg-id="FilmNow.ro@HD" tvg-name="Film Now HD (1080i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk5XzE1NTMzOTlf/RmlsbV9Ob3dfSEQucG5nJmhhc2g9ZTZh/YzMyMjc0YjA0N2UyZTBmMjNiMDNhZDQ2YjZjMjk=.png" group-title="Posibil Geo-blocat (de testat)",Film Now HD (1080i)
 https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD" tvg-name="H!t Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDA3XzE1NTM0MDdf/SElUX011c2ljX0NoYW5uZWwucG5nJmhh/c2g9MjQ3YzIwN2IxZDkwNmFiYzg3NGU3NzIxODA0ODVlM2E=.png" group-title="Posibil Geo-blocat (de testat)",H!t Music Channel
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Posibil Geo-blocat (de testat)",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
@@ -144,16 +141,10 @@ https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
-#EXTINF:-1 tvg-id="MusicChannel.ro@SD" tvg-name="Music Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMxXzE1NTM0MzFf/TXVzaWNfQ2hhbm5lbC5wbmcmaGFzaD04/NTgxZjRmMGVjMzc1ZWJiZmRkMWM5NTAzMzM1ZDk4Mw==.png" group-title="Posibil Geo-blocat (de testat)",Music Channel
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-name="National Geographic" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM3XzE1NTM0Mzdf/TmF0aW9uYWxfR2VvZ3JhcGhpY19IRC5w/bmcmaGFzaD02NDkzYzhlNjU1MTFiNTM0M2YyN2NjYjAwZjYxNGNkMw==.png" group-title="Posibil Geo-blocat (de testat)",National Geographic
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
-
-#EXTINF:-1 tvg-id="NationalTV2.ro@SD" tvg-name="National TV2" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",National TV2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-name="Nickelodeon" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMTglMkYxNzg0MzI0XzE3ODQzMjRf/MTUyeDUwcHhfTmlja2Vsb2Rlb24ucG5n/Jmhhc2g9OTBhZDBkYTFhM2Y5MTZkZmI0MWU5ZTkwMDM2ZjcwMWU=.png" group-title="Posibil Geo-blocat (de testat)",Nickelodeon
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -167,9 +158,6 @@ https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 
 #EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="https://noratelevizyonu.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Noroc TV
 https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
-
-#EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-name="Orizont TV (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ0XzE1NTM0NDRf/T3Jpem9udF9UVi5wbmcmaGFzaD0zNGRk/M2IyNDRkOTNlZWY1ZWIzZGY5MGEwYzlhMmM0Zg==.png" group-title="Posibil Geo-blocat (de testat)",Orizont TV (576p)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Posibil Geo-blocat (de testat)",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
