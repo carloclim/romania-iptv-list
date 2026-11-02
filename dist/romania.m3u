@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-01 10:50 UTC  |  Functionale: 111  |  De testat: 63
+## Generat automat: 2026-11-02 11:43 UTC  |  Functionale: 110  |  De testat: 63
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -48,9 +48,6 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://www.musceltv.ro/favicon.ico" group-title="Generale",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/favicon.ico" group-title="Generale",PROFI 24 TV
-https://live.ro24tv.ro/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-name="Qub TV" tvg-logo="https://www.qubtv.ro/favicon.ico" group-title="Generale",Qub TV
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
@@ -154,9 +151,6 @@ https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-id="HalloweenNonStop.ro@SD" tvg-name="Halloween Non Stop (720p)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Halloween Non Stop (720p)
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 
-#EXTINF:-1 tvg-id="TVArad.ro@SD" tvg-name="TV Arad (576i)" tvg-logo="https://tvarad.ro/favicon.ico" group-title="Generale",TV Arad (576i)
-https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
-
 #EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-name="Orizont TV (576i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ0XzE1NTM0NDRf/T3Jpem9udF9UVi5wbmcmaGFzaD0zNGRk/M2IyNDRkOTNlZWY1ZWIzZGY5MGEwYzlhMmM0Zg==.png" group-title="Generale",Orizont TV (576i)
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 
@@ -177,6 +171,9 @@ https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-name="AntenaPlay Events (576p) [Not 24/7]" tvg-logo="" group-title="Generale",AntenaPlay Events (576p) [Not 24/7]
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
+#EXTINF:-1 tvg-id="RomanticFM.ro@SD" tvg-name="Romantic FM (576i)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Romantic FM (576i)
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 
 
 #############################################
@@ -336,9 +333,6 @@ https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 #EXTINF:-1 tvg-id="ProFM.ro" tvg-name="Pro FM" tvg-logo="https://logo.clearbit.com/profm.ro" group-title="Radio",Pro FM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 
-#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Radio",Europa FM
-https://astreaming.edi.ro:8443/EuropaFM_aac
-
 #EXTINF:-1 tvg-id="VirginRadio.ro" tvg-name="Virgin Radio" tvg-logo="https://logo.clearbit.com/virginradio.ro" group-title="Radio",Virgin Radio
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 
@@ -368,6 +362,9 @@ https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 
 #EXTINF:-1 tvg-id="SmartRadio.ro@SD" tvg-name="Smart Radio (576p)" tvg-logo="https://www.smartradio.ro/favicon.ico" group-title="Radio",Smart Radio (576p)
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-name="Radio Romania Iasi (576i) [Not 24/7]" tvg-logo="https://www.radioiasi.ro/favicon.ico" group-title="Radio",Radio Romania Iasi (576i) [Not 24/7]
+https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Radio",Radio Romania Antena Satelor (720p) [Not 24/7]
 https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
@@ -406,9 +403,6 @@ https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
 
 #EXTINF:-1 tvg-id="BalkanTV.ro" tvg-name="Balkan TV" tvg-logo="https://www.balkantv.rs/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Balkan TV
 https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
-
-#EXTINF:-1 tvg-id="BollywoodFilm.ro@SD" tvg-name="Bollywood Film" tvg-logo="https://www.bollywoodtv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-name="Comedy Central" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUxXzE1NTMzNTFf/Q29tZWR5X0NlbnRyYWwucG5nJmhhc2g9/NzU4YmRmNjYwNmViMDg0NWY0MWZmZDRiN2M4MDkxZmI=.png" group-title="Posibil Geo-blocat (de testat)",Comedy Central
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -454,6 +448,9 @@ https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+
+#EXTINF:-1 tvg-id="EuropaFM.ro" tvg-name="Europa FM" tvg-logo="https://logo.clearbit.com/europafm.ro" group-title="Posibil Geo-blocat (de testat)",Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
 
 #EXTINF:-1 tvg-id="EurosportRO.ro" tvg-name="Eurosport 1 Romania" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkxXzE1NTMzOTFf/RXVyb1Nwb3J0XzFfSEQucG5nJmhhc2g9/ZjUyZmRiMDg3ZjlmMDM3YWM4YjhmYjA4Njk4MjZjZjg=.png" group-title="Posibil Geo-blocat (de testat)",Eurosport 1 Romania
 https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
@@ -536,14 +533,14 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist
 #EXTINF:-1 tvg-id="ProX.ro" tvg-name="PRO X" tvg-logo="https://www.protv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PRO X
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD" tvg-name="Quantum TV (576p)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Quantum TV (576p)
 https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-name="Radio Romania 3Net (480p)" tvg-logo="https://www.radio3net.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania 3Net (480p)
 https://media.3netmedia.ro/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-name="Radio Romania Iasi (576i) [Not 24/7]" tvg-logo="https://www.radioiasi.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Iasi (576i) [Not 24/7]
-https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaResita.ro@SD" tvg-name="Radio Romania Resita (576p) [Not 24/7]" tvg-logo="https://www.radioresita.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Resita (576p) [Not 24/7]
 https://stream3.srr.ro/RadioResita/live/playlist.m3u8
@@ -557,9 +554,6 @@ https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Realitatea Sportiva
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-name="Sport Extra" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png" group-title="Posibil Geo-blocat (de testat)",Sport Extra
-https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
-
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music (576i)" tvg-logo="https://tele7music.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Tele7music (576i)
 https://live.tele7music.ro/hls/stream/index.m3u8
 
@@ -570,6 +564,9 @@ https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
+
+#EXTINF:-1 tvg-id="TVArad.ro@SD" tvg-name="TV Arad (576i)" tvg-logo="https://tvarad.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",TV Arad (576i)
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 
 #EXTINF:-1 tvg-id="TVPaprika.ro@SD" tvg-name="TV Paprika" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ1XzE1NTM0NDVf/UGFwcmlrYS5wbmcmaGFzaD1kMGZjOTgx/MDcyMTZhOGYxNDc4NzNkM2E2ZTRmMjA1Mg==.png" group-title="Posibil Geo-blocat (de testat)",TV Paprika
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
