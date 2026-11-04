@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-03 11:25 UTC  |  Canale: 53
+## Generat automat: 2026-11-04 11:39 UTC  |  Canale: 55
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -12,6 +12,9 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-name="Observator News (360p)" tvg-logo="https://i.imgur.com/sarnn0Y.png" group-title="Generale",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 tvg-id="PrimaTV.ro@SD" tvg-name="Prima TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Generale",Prima TV
+http://89.44.231.73:7000/primatv
 
 #EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-name="National TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM4XzE1NTM0Mzhf/TmF0aW9uYWxfVFYucG5nJmhhc2g9YTI5/YTM2ZjM2NTZiMDgyYWE0N2FhNDNlZDg3NzIyY2Y=.png" group-title="Generale",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
@@ -138,6 +141,9 @@ https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 
 #EXTINF:-1 tvg-id="TVAS.ro@SD" tvg-name="TV AS" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDkxXzE1NTM0OTFf/VFZfQVMucG5nJmhhc2g9NmQxZGQ0MTc4N2UxOGRiMjkyNjM4YWRhMDZiNTE5YjM=.png" group-title="Generale",TV AS
 https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVArad.ro@SD" tvg-name="TV Arad (576i)" tvg-logo="https://tvarad.ro/favicon.ico" group-title="Generale",TV Arad (576i)
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 
 #EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-name="Orizont TV (576i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ0XzE1NTM0NDRf/T3Jpem9udF9UVi5wbmcmaGFzaD0zNGRk/M2IyNDRkOTNlZWY1ZWIzZGY5MGEwYzlhMmM0Zg==.png" group-title="Generale",Orizont TV (576i)
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
