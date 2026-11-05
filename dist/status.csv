@@ -18,15 +18,13 @@ dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
-dead,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
-dead,Generale,MISA TV,override,0,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Minimax,iptv-org-ro,0,https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-dead,Kids,Nickelodeon,override,0,https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
-dead,Kids,Nicktoons,override,0,https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+dead,Kids,Nickelodeon,override,0,http://178.76.68.60:7442/64/mpegts
+dead,Kids,Nicktoons,override,0,http://178.76.68.60:7442/80/mpegts
 dead,Muzica,Balkan TV,curated,0,https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
 dead,Muzica,Dibi TV,override,0,https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
 dead,Muzica,Hora TV,curated,0,https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
@@ -77,10 +75,11 @@ working,Generale,Bihor TV (576p),iptv-org-ro,576,https://bihor-tv.ro/hls/bihortv
 working,Generale,Chefi.ro (1080p),iptv-org-ro,1080,https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 working,Generale,CineWow (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
-working,Generale,Credo TV (720p) [Not 24/7],iptv-org-ro,720,http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+working,Generale,Credo TV (1080p),iptv-org-ro,1080,https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 working,Generale,DeParinti.ro (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 working,Generale,EMI TV (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 working,Generale,Favorit TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 working,Generale,In Puii Mei (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 working,Generale,Inedit TV,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 working,Generale,Intermedia TV (576p),iptv-org-ro,576,https://live.intermediatv.ro/ram/playlist.m3u8
@@ -91,6 +90,7 @@ working,Generale,Kanal D2 (1080i),iptv-org-ro,1080,https://stream2.kanald.ro/iph
 working,Generale,Kapital TV (576i),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 working,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 working,Generale,Mireasa (720p),override,720,https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+working,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 working,Generale,National TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 working,Generale,NCN (576p),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
@@ -100,7 +100,7 @@ working,Generale,Orizont TV (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro
 working,Generale,Prima TV,iptv-org-ro,0,http://89.44.231.73:7000/primatv
 working,Generale,PRO TV International,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 working,Generale,PROFI 24 TV,iptv-org-ro,0,https://live.ro24tv.ro/hls/stream.m3u8
-working,Generale,Qub TV,iptv-org-ro,0,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+working,Generale,Qub TV (720p),iptv-org-ro,720,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 working,Generale,Romantic FM (576i),iptv-org-ro,576,https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 working,Generale,Sangeorz TV (576p),iptv-org-ro,576,https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 working,Generale,Sens TV (576i),iptv-org-ro,576,https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
@@ -115,8 +115,8 @@ working,Generale,TVR 2 Ⓖ,free-tv-ro,0,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr
 working,Generale,TVR 3 Ⓖ,free-tv-ro,0,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 working,Generale,TVR Cluj Ⓖ,free-tv-ro,0,https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 working,Generale,TVR Craiova Ⓖ,free-tv-ro,0,https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
-working,Generale,TVR Cultural,iptv-org-ro,0,https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-working,Generale,TVR Folclor,override,0,https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+working,Generale,TVR Cultural (1440p),iptv-org-ro,1440,https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+working,Generale,TVR Folclor (1440p),override,1440,https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 working,Generale,TVR Iași Ⓖ,free-tv-ro,0,http://82.208.141.70:8778/1.m3u8
 working,Generale,TVR Info Ⓖ,free-tv-ro,0,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 working,Generale,TVR International Ⓖ,free-tv-ro,0,https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
@@ -156,7 +156,7 @@ working,Radio,Smart Radio (576p),iptv-org-ro,576,https://streamw.m.ro/Regie/radi
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Sport,Pro Arena (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
 working,Sport,Sport Total FM (576i),iptv-org-ro,576,https://livesptfm.com/SPTFM/Live/playlist.m3u8
-working,Sport,TVR Sport,iptv-org-ro,0,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+working,Sport,TVR Sport (1440p),iptv-org-ro,1440,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 working,Sport,Voyo Sport 1 (1080i),iptv-org-ro,1080,https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 working,Stiri,Aleph Business (1280p),override,1280,https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 working,Stiri,Antena 3 CNN (1080p),iptv-org-ro,1080,https://live3vox.antenaplay.ro/a3free/a3free.m3u8
