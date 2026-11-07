@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-06 11:38 UTC  |  Functionale: 113  |  De testat: 58
+## Generat automat: 2026-11-07 10:43 UTC  |  Functionale: 117  |  De testat: 57
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -18,9 +18,6 @@ http://89.44.231.73:7000/primatv
 
 #EXTINF:-1 tvg-id="NationalTV.ro@SD" tvg-name="National TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM4XzE1NTM0Mzhf/TmF0aW9uYWxfVFYucG5nJmhhc2g9YTI5/YTM2ZjM2NTZiMDgyYWE0N2FhNDNlZDg3NzIyY2Y=.png" group-title="Generale",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Generale",A7TV (1080p)
-https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AccesDirect.ro@SD" tvg-name="Acces Direct (576p)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Acces Direct (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
@@ -178,6 +175,18 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timișoara" tvg-logo="https://i.imgur.com/Db3DV6H.png" group-title="Generale",TVR Timișoara Ⓖ
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-name="AntenaPlay Events (576i) [Not 24/7]" tvg-logo="" group-title="Generale",AntenaPlay Events (576i) [Not 24/7]
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+
+#EXTINF:-1 tvg-id="Insulanonstop.ro@SD" tvg-name="Insula non stop (576i)" tvg-logo="" group-title="Generale",Insula non stop (576i)
+https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
+
+#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD" tvg-name="Asia Express NonStop (576p)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Asia Express NonStop (576p)
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
+
+#EXTINF:-1 tvg-id="Digi4K.ro@UHD" tvg-name="Digi 4K (2160p) [Geo-blocked]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxNSUyRjEzMDEyMjhfMTMwMTIyOF9E/SUdJLTRLLnBuZyZoYXNoPWQ0YTg1OWU3MmUyNzFlZTRhNTY4MzA2MDliZmUzMzhl.png" group-title="Generale",Digi 4K (2160p) [Geo-blocked]
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+
 
 #############################################
 ## Stiri
@@ -239,6 +248,9 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #############################################
 ## Filme
 #############################################
+#EXTINF:-1 tvg-id="HappyChannel.ro@HD" tvg-name="Happy Channel HD (1080i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Filme",Happy Channel HD (1080i)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png" group-title="Filme",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 
@@ -387,6 +399,9 @@ https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #############################################
 ## Posibil Geo-blocat (de testat)
 #############################################
+#EXTINF:-1 tvg-id="A7TV.ro@SD" tvg-name="A7TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Posibil Geo-blocat (de testat)",A7TV (1080p)
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AngelusTV.ro@SD" tvg-name="Angelus TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE3XzE1NTMzMTdf/QW5nZWx1c19UVi5wbmcmaGFzaD03N2Ni/NDVjZTdkYThkODdkMjE3NTZjOGY0ZmIxNDU2Ng==.png" group-title="Posibil Geo-blocat (de testat)",Angelus TV (1080p)
 https://video.angelustv.ro/hls/angelustv.m3u8
 
@@ -413,11 +428,6 @@ https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
 
 #EXTINF:-1 tvg-id="BalkanTV.ro" tvg-name="Balkan TV" tvg-logo="https://www.balkantv.rs/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Balkan TV
 https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-name="Comedy Central" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUxXzE1NTMzNTFf/Q29tZWR5X0NlbnRyYWwucG5nJmhhc2g9/NzU4YmRmNjYwNmViMDg0NWY0MWZmZDRiN2M4MDkxZmI=.png" group-title="Posibil Geo-blocat (de testat)",Comedy Central
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 
 #EXTINF:-1 tvg-id="DanceFM.ro" tvg-name="Dance FM" tvg-logo="https://www.dancefm.cl/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Dance FM
 https://astreaming.edi.ro:8443/dancefm_aac
@@ -469,9 +479,6 @@ https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
-
-#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Posibil Geo-blocat (de testat)",Happy Channel
-https://live7digi.antenaplay.ro/happy/happy_3000k.m3u8
 
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Posibil Geo-blocat (de testat)",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
