@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-07 10:43 UTC  |  Canale: 60
+## Generat automat: 2026-11-08 10:48 UTC  |  Canale: 62
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -186,3 +186,9 @@ https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 
 #EXTINF:-1 tvg-id="Digi4K.ro@UHD" tvg-name="Digi 4K (2160p) [Geo-blocked]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxNSUyRjEzMDEyMjhfMTMwMTIyOF9E/SUdJLTRLLnBuZyZoYXNoPWQ0YTg1OWU3MmUyNzFlZTRhNTY4MzA2MDliZmUzMzhl.png" group-title="Generale",Digi 4K (2160p) [Geo-blocked]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+
+#EXTINF:-1 tvg-id="Chefilacutite.ro@SD" tvg-name="Chefi la cutite (576i)" tvg-logo="" group-title="Generale",Chefi la cutite (576i)
+https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+
+#EXTINF:-1 tvg-id="VoyoEvents.ro@SD" tvg-name="Voyo Events (576i) [Not 24/7]" tvg-logo="https://voyo.protv.ro/favicon.ico" group-title="Generale",Voyo Events (576i) [Not 24/7]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0

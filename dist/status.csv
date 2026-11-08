@@ -5,13 +5,7 @@ dead,Documentare,Digi Life,curated,0,https://live3.cdn.dejacast.com/digilife/dig
 dead,Documentare,Digi World,curated,0,https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
 dead,Documentare,Hello Taste,override,0,https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 dead,Documentare,MediCOOL TV,override,0,https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-dead,Documentare,National Geographic,iptv-org-ro,0,https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
-dead,Documentare,Viasat Explore,iptv-org-ro,0,https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-dead,Documentare,Viasat History,iptv-org-ro,0,https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
-dead,Documentare,Viasat Nature,iptv-org-ro,0,https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
-dead,Filme,Film Now,iptv-org-ro,0,https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 dead,Filme,Timeless Dizi Channel,override,0,https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
-dead,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls/angelustv.m3u8
 dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
@@ -21,7 +15,6 @@ dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streamb
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
-dead,Kids,Minimax,iptv-org-ro,0,https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 dead,Kids,Nickelodeon,override,0,http://178.76.68.60:7442/64/mpegts
 dead,Kids,Nicktoons,override,0,http://178.76.68.60:7442/80/mpegts
 dead,Muzica,Balkan TV,curated,0,https://live3.cdn.dejacast.com/balkantv/balkantv_0.m3u8
@@ -54,6 +47,7 @@ geo,Generale,PRO X,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz
 geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 geo,Kids,Disney Channel,override,0,https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 geo,Muzica,Quantum TV (576p),iptv-org-ro,576,https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
+timeout,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 timeout,Stiri,Realitatea Plus,override,0,https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -73,6 +67,7 @@ working,Generale,Arges TV (720p),iptv-org-ro,720,https://btutzctahuf0wjoq.cdn.st
 working,Generale,AS TV (576p),iptv-org-ro,576,https://s2.netstreaming.eu/astv.m3u8
 working,Generale,Asia Express NonStop (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 working,Generale,Bihor TV (576p),iptv-org-ro,576,https://bihor-tv.ro/hls/bihortv.m3u8
+working,Generale,Chefi la cutite (576i),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 working,Generale,Chefi.ro (1080p),iptv-org-ro,1080,https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 working,Generale,CineWow (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
@@ -125,6 +120,7 @@ working,Generale,TVR Info Ⓖ,free-tv-ro,0,https://tvr-info.lg.mncdn.com/tvrinfo
 working,Generale,TVR International Ⓖ,free-tv-ro,0,https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 working,Generale,TVR Timișoara Ⓖ,free-tv-ro,0,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 working,Generale,TVR Tîrgu-Mureș Ⓖ,free-tv-ro,0,https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+working,Generale,Voyo Events (576i) [Not 24/7],iptv-org-ro,576,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 working,Kids,TraLaLa DSN,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 working,Kids,TraLaLa TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 working,Muzica,Atomic Academy TV,curated,0,https://atomic.streamnet.ro/academia.m3u8
