@@ -44,10 +44,10 @@ geo,Generale,PRO 2,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz
 geo,Generale,PRO GOLD,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist.m3u8
 geo,Generale,PRO TV,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist.m3u8
 geo,Generale,PRO X,override,0,https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlist.m3u8
+geo,Generale,Shop On TV (576i) [Geo-blocked],iptv-org-ro,576,https://vs2131.vcdn.biz/07f4d8c8729f786dd1bb07d0512b71eb_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183161731/rsid/f5e3c4b1-6357-466d-bf95-eb6bc5453333/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.160*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 geo,Generale,TV SUD (1080p) [Geo-blocked],override,1080,https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 geo,Kids,Disney Channel,override,0,https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 geo,Muzica,Quantum TV (576p),iptv-org-ro,576,https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
-timeout,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 timeout,Stiri,Realitatea Plus,override,0,https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -59,6 +59,7 @@ working,Filme,Cinemaraton Plus (1080i),iptv-org-ro,1080,https://hls02ns.antenapl
 working,Filme,Comedy Play,override,0,https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 working,Filme,Happy Channel HD (1080i),iptv-org-ro,1080,https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 working,Filme,Pro Cinema (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+working,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 working,Generale,Acces Direct (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 working,Generale,Alfa Omega TV (1080p) [Not 24/7],iptv-org-ro,1080,https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 working,Generale,Antena Monden,override,0,https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
