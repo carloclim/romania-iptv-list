@@ -14,6 +14,8 @@ dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/ast
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
+dead,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+dead,Generale,Sangeorz TV (576p),iptv-org-ro,576,https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Nickelodeon,override,0,http://178.76.68.60:7442/64/mpegts
 dead,Kids,Nicktoons,override,0,http://178.76.68.60:7442/80/mpegts
@@ -51,6 +53,7 @@ geo,Muzica,Quantum TV (576p),iptv-org-ro,576,https://vs2140.vcdn.biz/0ca68e9e27b
 timeout,Muzica,Tezaur TV,curated,0,https://testcam.go.ro:8080/hls/tezaurtv.m3u8
 timeout,Stiri,Realitatea Plus,override,0,https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 working,Documentare,Agro TV [Not 24/7],curated,0,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+working,Documentare,Discovery Channel,iptv-org-ro,0,http://92.180.26.103:80/stream/28/index.m3u8
 working,Documentare,National Geographic Wild,override,0,https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 working,Documentare,Travel Mix,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 working,Filme,Acasa (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
@@ -89,7 +92,7 @@ working,Generale,Kanal D2 (1080i),iptv-org-ro,1080,https://stream2.kanald.ro/iph
 working,Generale,Kapital TV (576i),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 working,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 working,Generale,Mireasa (720p),override,720,https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-working,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+working,Generale,Mireasa+ (480p),iptv-org-ro,480,https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 working,Generale,National TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 working,Generale,NCN (576p),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
@@ -101,7 +104,6 @@ working,Generale,PRO TV International,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.
 working,Generale,PROFI 24 TV,iptv-org-ro,0,https://live.ro24tv.ro/hls/stream.m3u8
 working,Generale,Qub TV (720p),iptv-org-ro,720,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 working,Generale,Romantic FM (576i),iptv-org-ro,576,https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
-working,Generale,Sangeorz TV (576p),iptv-org-ro,576,https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 working,Generale,Sens TV (576i),iptv-org-ro,576,https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,free-tv-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
@@ -155,6 +157,7 @@ working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
 working,Radio,Smart Radio (576p),iptv-org-ro,576,https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Sport,Pro Arena (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+working,Sport,Sport Extra HD,iptv-org-ro,0,http://92.180.26.103:80/stream/93/index.m3u8
 working,Sport,Sport Total FM (576i),iptv-org-ro,576,https://livesptfm.com/SPTFM/Live/playlist.m3u8
 working,Sport,TVR Sport (1440p),iptv-org-ro,1440,https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 working,Sport,Voyo Sport 1 (1080i),iptv-org-ro,1080,https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8

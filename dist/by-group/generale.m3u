@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-09 12:13 UTC  |  Canale: 63
+## Generat automat: 2026-11-10 11:53 UTC  |  Canale: 62
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -91,9 +91,6 @@ https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV (720p)" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV (720p)
-https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://www.musceltv.ro/favicon.ico" group-title="Generale",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
@@ -117,9 +114,6 @@ https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 
 #EXTINF:-1 tvg-id="RomanticFM.ro@SD" tvg-name="Romantic FM (576i)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Romantic FM (576i)
 https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-name="Sangeorz TV (576p)" tvg-logo="" group-title="Generale",Sangeorz TV (576p)
-https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 
 #EXTINF:-1 tvg-id="SensTV.ro@SD" tvg-name="Sens TV (576i)" tvg-logo="https://senstv.ro/favicon.ico" group-title="Generale",Sens TV (576i)
 https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
@@ -195,3 +189,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 
 #EXTINF:-1 tvg-id="VoyoEvents.ro@SD" tvg-name="Voyo Events (576i) [Not 24/7]" tvg-logo="https://voyo.protv.ro/favicon.ico" group-title="Generale",Voyo Events (576i) [Not 24/7]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="MireasaPlus.ro@SD" tvg-name="Mireasa+ (480p)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Mireasa+ (480p)
+https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
