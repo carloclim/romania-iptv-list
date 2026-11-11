@@ -14,8 +14,6 @@ dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/ast
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
-dead,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
-dead,Generale,Sangeorz TV (576p),iptv-org-ro,576,https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Nickelodeon,override,0,http://178.76.68.60:7442/64/mpegts
 dead,Kids,Nicktoons,override,0,http://178.76.68.60:7442/80/mpegts
@@ -26,7 +24,6 @@ dead,Muzica,Mooz Dance,curated,0,https://rtmp.digitalbroadcast.ro/moozdance/mooz
 dead,Muzica,Mooz Hits,curated,0,https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
-dead,Muzica,Tele7music (576i),override,576,https://live.tele7music.ro/hls/stream/index.m3u8
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
 dead,Radio,Radio Romania Resita (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/RadioResita/live/playlist.m3u8
@@ -90,9 +87,11 @@ working,Generale,iUmor (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/l
 working,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
 working,Generale,Kanal D2 (1080i),iptv-org-ro,1080,https://stream2.kanald.ro/iphone/knd2-live.m3u8
 working,Generale,Kapital TV (576i),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
+working,Generale,M9TV Romania (576i),iptv-org-ro,576,https://netstreaming.eu/m9tv.m3u8
 working,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 working,Generale,Mireasa (720p),override,720,https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 working,Generale,Mireasa+ (480p),iptv-org-ro,480,https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
+working,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 working,Generale,National TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 working,Generale,NCN (576p),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
@@ -104,6 +103,7 @@ working,Generale,PRO TV International,iptv-org-ro,0,http://rpprod.hbbtv.cdn.cra.
 working,Generale,PROFI 24 TV,iptv-org-ro,0,https://live.ro24tv.ro/hls/stream.m3u8
 working,Generale,Qub TV (720p),iptv-org-ro,720,https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 working,Generale,Romantic FM (576i),iptv-org-ro,576,https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
+working,Generale,Sangeorz TV (576p),iptv-org-ro,576,https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 working,Generale,Sens TV (576i),iptv-org-ro,576,https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
 working,Generale,SperantaTV (1080p),iptv-org-ro,1080,https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 working,Generale,Telestar1,free-tv-ro,0,https://dvb.tennet.ro/mobile_tv/telestar.m3u8
@@ -139,6 +139,7 @@ working,Muzica,Magic TV,curated,0,https://tv.broadcasting.ro/magictv/925f90db-5c
 working,Muzica,Party Mix HD (1080p),iptv-org-ro,1080,https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 working,Muzica,Rock TV,curated,0,https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 working,Muzica,Taraf TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+working,Muzica,Tele7music (576i),override,576,https://live.tele7music.ro/hls/stream/index.m3u8
 working,Muzica,Tequila Music TV,iptv-org-ro,0,https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 working,Muzica,UTV HD (1080i),override,1080,https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 working,Radio,Digi FM,curated,0,http://edge76.rdsnet.ro:84/digifm/digifm.mp3

@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-10 11:53 UTC  |  Canale: 53
+## Generat automat: 2026-11-11 11:29 UTC  |  Canale: 50
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -98,9 +98,6 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="MireasaExtra.ro@SD" tvg-name="Mireasa Extra" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mireasa Extra
 rtmp://stream1.antenaplay.ro/live/MireasaExtra
 
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV (720p)" tvg-logo="https://misatv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",MISA TV (720p)
-https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Posibil Geo-blocat (de testat)",Mooz Dance
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -149,14 +146,8 @@ https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Realitatea Sportiva
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-name="Sangeorz TV (576p)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Sangeorz TV (576p)
-https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
-
 #EXTINF:-1 tvg-id="ShopOnTV.ro@SD" tvg-name="Shop On TV (576i) [Geo-blocked]" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Shop On TV (576i) [Geo-blocked]
 https://vs2131.vcdn.biz/07f4d8c8729f786dd1bb07d0512b71eb_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183161731/rsid/f5e3c4b1-6357-466d-bf95-eb6bc5453333/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.160*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-name="Tele7music (576i)" tvg-logo="https://tele7music.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Tele7music (576i)
-https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="TezaurTV.ro" tvg-name="Tezaur TV" tvg-logo="https://i.imgur.com/t5eDZxU.png" group-title="Posibil Geo-blocat (de testat)",Tezaur TV
 https://testcam.go.ro:8080/hls/tezaurtv.m3u8
