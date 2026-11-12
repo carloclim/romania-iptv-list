@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-11 11:29 UTC  |  Canale: 65
+## Generat automat: 2026-11-12 11:56 UTC  |  Canale: 66
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -90,9 +90,6 @@ https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV (720p)" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV (720p)
-https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://www.musceltv.ro/favicon.ico" group-title="Generale",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
@@ -201,3 +198,9 @@ https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 
 #EXTINF:-1 tvg-id="M9TVRomania.ro@SD" tvg-name="M9TV Romania (576i)" tvg-logo="https://m9tv.ro/favicon.ico" group-title="Generale",M9TV Romania (576i)
 https://netstreaming.eu/m9tv.m3u8
+
+#EXTINF:-1 tvg-id="InfoHD.ro@SD" tvg-name="Info HD (576i)" tvg-logo="https://www.replicahd.ro/favicon.ico" group-title="Generale",Info HD (576i)
+https://netstreaming.eu/InfoHd.m3u8
+
+#EXTINF:-1 tvg-id="TV1.ro@SD" tvg-name="TV1 (576i)" tvg-logo="https://tv1sm.ro/favicon.ico" group-title="Generale",TV1 (576i)
+https://netstreaming.eu/tv1.m3u8

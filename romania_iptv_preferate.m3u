@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-11 11:29 UTC  |  Functionale: 125  |  De testat: 50
+## Generat automat: 2026-11-12 11:56 UTC  |  Functionale: 126  |  De testat: 52
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -90,9 +90,6 @@ https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV (720p)" tvg-logo="https://misatv.ro/favicon.ico" group-title="Generale",MISA TV (720p)
-https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-name="Muscel TV (720p)" tvg-logo="https://www.musceltv.ro/favicon.ico" group-title="Generale",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
@@ -201,6 +198,12 @@ https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 
 #EXTINF:-1 tvg-id="M9TVRomania.ro@SD" tvg-name="M9TV Romania (576i)" tvg-logo="https://m9tv.ro/favicon.ico" group-title="Generale",M9TV Romania (576i)
 https://netstreaming.eu/m9tv.m3u8
+
+#EXTINF:-1 tvg-id="InfoHD.ro@SD" tvg-name="Info HD (576i)" tvg-logo="https://www.replicahd.ro/favicon.ico" group-title="Generale",Info HD (576i)
+https://netstreaming.eu/InfoHd.m3u8
+
+#EXTINF:-1 tvg-id="TV1.ro@SD" tvg-name="TV1 (576i)" tvg-logo="https://tv1sm.ro/favicon.ico" group-title="Generale",TV1 (576i)
+https://netstreaming.eu/tv1.m3u8
 
 
 #############################################
@@ -514,6 +517,9 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="MireasaExtra.ro@SD" tvg-name="Mireasa Extra" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mireasa Extra
 rtmp://stream1.antenaplay.ro/live/MireasaExtra
 
+#EXTINF:-1 tvg-id="MISATV.ro@SD" tvg-name="MISA TV (720p)" tvg-logo="https://misatv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",MISA TV (720p)
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Posibil Geo-blocat (de testat)",Mooz Dance
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -534,6 +540,9 @@ http://178.76.68.60:7442/80/mpegts
 
 #EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="https://noratelevizyonu.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Noroc TV
 https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
+
+#EXTINF:-1 tvg-id="Prima4K.ro@UHD" tvg-name="Prima 4K (2160p)" tvg-logo="https://www.primatv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Prima 4K (2160p)
+http://92.180.26.103/stream/80/index.m3u8
 
 #EXTINF:-1 tvg-id="Pro2.ro" tvg-name="PRO 2" tvg-logo="https://www.protv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",PRO 2
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist.m3u8
