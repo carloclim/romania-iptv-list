@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-12 11:56 UTC  |  Canale: 66
+## Generat automat: 2026-11-13 11:39 UTC  |  Canale: 68
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -204,3 +204,9 @@ https://netstreaming.eu/InfoHd.m3u8
 
 #EXTINF:-1 tvg-id="TV1.ro@SD" tvg-name="TV1 (576i)" tvg-logo="https://tv1sm.ro/favicon.ico" group-title="Generale",TV1 (576i)
 https://netstreaming.eu/tv1.m3u8
+
+#EXTINF:-1 tvg-id="ZeceTV.ro@SD" tvg-name="Zece TV" tvg-logo="" group-title="Generale",Zece TV
+https://zecetv.ilink.ro:8088/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay (576i) [Not 24/7]" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Formula 1 AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8

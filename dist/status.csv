@@ -5,7 +5,6 @@ dead,Documentare,Digi Life,curated,0,https://live3.cdn.dejacast.com/digilife/dig
 dead,Documentare,Digi World,curated,0,https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
 dead,Documentare,Hello Taste,override,0,https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 dead,Documentare,MediCOOL TV,override,0,https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-dead,Filme,Timeless Dizi Channel,override,0,https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 dead,Generale,Angelus TV (1080p),iptv-org-ro,1080,https://video.angelustv.ro/hls/angelustv.m3u8
 dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
@@ -61,6 +60,7 @@ working,Filme,Cinemaraton Plus (1080i),iptv-org-ro,1080,https://hls02ns.antenapl
 working,Filme,Comedy Play,override,0,https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 working,Filme,Happy Channel HD (1080i),iptv-org-ro,1080,https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 working,Filme,Pro Cinema (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+working,Filme,Timeless Dizi Channel (576i),override,576,https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8
 working,Generale,A7TV (1080p),iptv-org-ro,1080,https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 working,Generale,Acces Direct (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 working,Generale,Alfa Omega TV (1080p) [Not 24/7],iptv-org-ro,1080,https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
@@ -79,6 +79,7 @@ working,Generale,DeParinti.ro (576p),iptv-org-ro,576,https://live77cdn2.antenapl
 working,Generale,Digi 4K (2160p) [Geo-blocked],iptv-org-ro,2160,https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 working,Generale,EMI TV (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 working,Generale,Favorit TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+working,Generale,Formula 1 AntenaPlay (576i) [Not 24/7],iptv-org-ro,576,https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 working,Generale,HD365 TV,iptv-org-ro,0,https://s2.netstreaming.eu/hd365.m3u8
 working,Generale,In Puii Mei (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 working,Generale,Inedit TV,iptv-org-ro,0,https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
@@ -127,6 +128,7 @@ working,Generale,TVR International Ⓖ,free-tv-ro,0,https://tvr-international.lg
 working,Generale,TVR Timișoara Ⓖ,free-tv-ro,0,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 working,Generale,TVR Tîrgu-Mureș Ⓖ,free-tv-ro,0,https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 working,Generale,Voyo Events (576i) [Not 24/7],iptv-org-ro,576,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+working,Generale,Zece TV,iptv-org-ro,0,https://zecetv.ilink.ro:8088/hls/live.m3u8
 working,Kids,TraLaLa DSN,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 working,Kids,TraLaLa TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 working,Muzica,Atomic Academy TV,curated,0,https://atomic.streamnet.ro/academia.m3u8
