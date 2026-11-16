@@ -10,13 +10,13 @@ dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
-dead,Generale,E!,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
 dead,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+dead,Generale,NHL AntenaPlay (576i) [Not 24/7],iptv-org-ro,576,https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Nickelodeon,override,0,http://178.76.68.60:7442/64/mpegts
 dead,Kids,Nicktoons,override,0,http://178.76.68.60:7442/80/mpegts
@@ -29,11 +29,9 @@ dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
-dead,Radio,Radio Romania Antena Satelor (720p) [Not 24/7],iptv-org-ro,720,https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 dead,Radio,Radio Romania Resita (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
 dead,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-dead,Sport,Digi Sport 1,curated,0,https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
 dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
 dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 dead,Sport,Realitatea Sportiva,override,0,https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
@@ -77,6 +75,7 @@ working,Generale,Columna TV,iptv-org-ro,0,https://cdn.streamnet.pro/columnatv/li
 working,Generale,Credo TV (1080p),iptv-org-ro,1080,https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 working,Generale,DeParinti.ro (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 working,Generale,Digi 4K (2160p) [Geo-blocked],iptv-org-ro,2160,https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+working,Generale,E!,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 working,Generale,EMI TV (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 working,Generale,Favorit TV (576p),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 working,Generale,Formula 1 AntenaPlay (576i) [Not 24/7],iptv-org-ro,576,https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
@@ -96,7 +95,6 @@ working,Generale,Mireasa+ (480p),iptv-org-ro,480,https://live77cdn2.antenaplay.r
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 working,Generale,National TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 working,Generale,NCN (576p),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
-working,Generale,NHL AntenaPlay (576i) [Not 24/7],iptv-org-ro,576,https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 working,Generale,Nostalgia TV (1080p),iptv-org-ro,1080,https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 working,Generale,Observator News (360p),iptv-org-ro,360,https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 working,Generale,Orizont TV (576i),iptv-org-ro,576,https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
@@ -154,12 +152,14 @@ working,Radio,Pro FM,override,0,https://edge126.rcs-rds.ro/profm/profm.mp3
 working,Radio,Radio Fx Net (720p),override,720,https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guerrilla.aac
 working,Radio,Radio Romania 3Net (480p),iptv-org-ro,480,https://media.3netmedia.ro/hls/stream.m3u8
+working,Radio,Radio Romania Antena Satelor (720p) [Not 24/7],iptv-org-ro,720,https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 working,Radio,Radio Romania Iasi (576i) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 working,Radio,Radio Romania Oltenia-Craiova (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 working,Radio,Radio Romania Targu Mures (576p),iptv-org-ro,576,https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
 working,Radio,Smart Radio (576p),iptv-org-ro,576,https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
+working,Sport,Digi Sport 1 HD,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
 working,Sport,Digi Sport 2 HD,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=867728420
 working,Sport,Digi Sport 3 HD,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
 working,Sport,Digi Sport 4,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
