@@ -10,7 +10,6 @@ dead,Generale,Antena 1,override,0,https://live1ag.antenaplay.ro/live_a1ro/live_a
 dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/acomedy_3000k.m3u8
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
-dead,Generale,E!,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -28,6 +27,7 @@ dead,Muzica,Mooz Ro!,curated,0,https://rtmp.digitalbroadcast.ro/moozro/moozro.m3
 dead,Muzica,Noroc TV,curated,0,https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
 dead,Muzica,Zu TV,curated,0,https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
 dead,Radio,Dance FM,curated,0,https://astreaming.edi.ro:8443/dancefm_aac
+dead,Radio,Radio Romania Antena Satelor (720p) [Not 24/7],iptv-org-ro,720,https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 dead,Radio,Radio Romania Resita (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 dead,Radio,Radio ZU,override,0,https://live.radiozu.ro/radiozu.aacp
 dead,Sport,Antena Sport [Not 24/7],override,0,https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
@@ -37,9 +37,6 @@ dead,Sport,Digi Sport 3,curated,0,https://live3.cdn.dejacast.com/digisport3/digi
 dead,Sport,Digi Sport 4,curated,0,https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
 dead,Sport,Eurosport 1 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
 dead,Sport,Eurosport 2 Romania,curated,0,https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
-dead,Sport,Prima Sport 2 HD,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
-dead,Sport,Prima Sport 3 HD,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
-dead,Sport,Prima Sport 4 HD,iptv-org-ro,0,http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
 dead,Sport,Realitatea Sportiva,override,0,https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 dead,Stiri,B1 TV,curated,0,https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8
 geo,Documentare,Discovery Channel,iptv-org-ro,0,http://92.180.26.103/stream/28/index.m3u8
@@ -166,13 +163,14 @@ working,Radio,Pro FM,override,0,https://edge126.rcs-rds.ro/profm/profm.mp3
 working,Radio,Radio Fx Net (720p),override,720,https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 working,Radio,Radio Guerrilla,curated,0,https://live.guerrillaradio.ro:8443/guerrilla.aac
 working,Radio,Radio Romania 3Net (480p),iptv-org-ro,480,https://media.3netmedia.ro/hls/stream.m3u8
-working,Radio,Radio Romania Antena Satelor (720p) [Not 24/7],iptv-org-ro,720,https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 working,Radio,Radio Romania Iasi (576i) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 working,Radio,Radio Romania Oltenia-Craiova (576p) [Not 24/7],iptv-org-ro,576,https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 working,Radio,Radio Romania Targu Mures (576p),iptv-org-ro,576,https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 working,Radio,Rock FM,override,0,https://live.rockfm.ro/rockfm.aacp
 working,Radio,Smart Radio (576p),iptv-org-ro,576,https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
+working,Sport,Prima Sport 1 HD,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+working,Sport,Prima Sport 2 HD,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 working,Sport,Prima Sport PPV 1,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 working,Sport,Prima Sport PPV 2,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
 working,Sport,Pro Arena (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
