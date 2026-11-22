@@ -11,9 +11,11 @@ dead,Generale,Antena Comedy,override,0,https://live7digi.antenaplay.ro/acomedy/a
 dead,Generale,Antena Cook & Play,override,0,https://live7digi.antenaplay.ro/acook/acook_3000k.m3u8
 dead,Generale,Antena Stars,override,0,https://live7digi.antenaplay.ro/astars/astars_3000k.m3u8
 dead,Generale,IasiTV Life (1080p) [Not 24/7],iptv-org-ro,1080,https://tv.streambox.ro/hls/itv/index.m3u8
+dead,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
 dead,Generale,Kanal D,override,0,https://stream2.kanald.ro/iphone/knd-live.m3u8
 dead,Generale,Metropola TV (1080p) [Not 24/7],iptv-org-ro,1080,https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 dead,Generale,Mireasa Extra,iptv-org-ro,0,rtmp://stream1.antenaplay.ro/live/MireasaExtra
+dead,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 dead,Generale,NHL AntenaPlay (576i) [Not 24/7],iptv-org-ro,576,https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 dead,Kids,Disney Junior,override,0,https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 dead,Kids,Nickelodeon,override,0,http://178.76.68.60:7442/64/mpegts
@@ -92,13 +94,11 @@ working,Generale,Insula non stop (576i),iptv-org-ro,576,https://live77cdn2.anten
 working,Generale,Intermedia TV (576p),iptv-org-ro,576,https://live.intermediatv.ro/ram/playlist.m3u8
 working,Generale,iRoast (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 working,Generale,iUmor (576p),iptv-org-ro,576,https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
-working,Generale,JOB TV (1080p),iptv-org-ro,1080,https://jobtvserver.eu/hls/stream.m3u8
 working,Generale,Kanal D2 (1080i),iptv-org-ro,1080,https://stream2.kanald.ro/iphone/knd2-live.m3u8
 working,Generale,Kapital TV (576i),iptv-org-ro,576,https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 working,Generale,M9TV Romania (576i),iptv-org-ro,576,https://netstreaming.eu/m9tv.m3u8
 working,Generale,Mireasa (720p),override,720,https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 working,Generale,Mireasa+ (480p),iptv-org-ro,480,https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
-working,Generale,MISA TV (720p),override,720,https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 working,Generale,Muscel TV (720p),override,720,https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 working,Generale,National TV,iptv-org-ro,0,https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 working,Generale,NBA AntenaPlay (576p),iptv-org-ro,576,https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
@@ -171,6 +171,9 @@ working,Radio,Smart Radio (576p),iptv-org-ro,576,https://streamw.m.ro/Regie/radi
 working,Radio,Virgin Radio,override,0,http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 working,Sport,Prima Sport 1 HD,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 working,Sport,Prima Sport 2 HD,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
+working,Sport,Prima Sport 3 HD,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+working,Sport,Prima Sport 4 HD,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
+working,Sport,Prima Sport 5 HD,override,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm
 working,Sport,Prima Sport PPV 1,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 working,Sport,Prima Sport PPV 2,iptv-org-ro,0,https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
 working,Sport,Pro Arena (1080p),iptv-org-ro,1080,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
