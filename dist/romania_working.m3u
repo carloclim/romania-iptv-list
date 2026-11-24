@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-23 13:44 UTC  |  Canale: 136
+## Generat automat: 2026-11-24 14:20 UTC  |  Canale: 137
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -37,14 +37,8 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 #EXTINF:-1 tvg-id="ASTV.ro@SD" tvg-name="AS TV (576p)" tvg-logo="https://astv.ro/favicon.ico" group-title="Generale",AS TV (576p)
 https://s2.netstreaming.eu/astv.m3u8
 
-#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD" tvg-name="Asia Express NonStop (576p)" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Asia Express NonStop (576p)
-https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
-
 #EXTINF:-1 tvg-id="BihorTV.ro@SD" tvg-name="Bihor TV (576p)" tvg-logo="https://bihortv.com/favicon.ico" group-title="Generale",Bihor TV (576p)
 https://bihor-tv.ro/hls/bihortv.m3u8
-
-#EXTINF:-1 tvg-id="Chefilacutite.ro@SD" tvg-name="Chefi la cutite (576i)" tvg-logo="" group-title="Generale",Chefi la cutite (576i)
-https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 
 #EXTINF:-1 tvg-id="Chefiro.ro@SD" tvg-name="Chefi.ro (1080p)" tvg-logo="https://chefi.ro/favicon.ico" group-title="Generale",Chefi.ro (1080p)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
@@ -70,8 +64,8 @@ https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV.ro@SD" tvg-name="Favorit TV (576p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk2XzE1NTMzOTZf/RmF2b3JpdC5wbmcmaGFzaD0zNzk0OTQy/M2I3MTBjMTdhODVjMTcyMGE4MjI0NDkyZA==.png" group-title="Generale",Favorit TV (576p)
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" tvg-name="Formula 2 AntenaPlay (576i) [Not 24/7]" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Formula 2 AntenaPlay (576i) [Not 24/7]
-https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay (576p) [Not 24/7]" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Generale",Formula 1 AntenaPlay (576p) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-name="HD365 TV" tvg-logo="https://www.hd365.tv/favicon.ico" group-title="Generale",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
@@ -100,11 +94,17 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-name="JOB TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDEzXzE1NTM0MTNf/Sm9iX1RWLnBuZyZoYXNoPTliMTI5OTQxMjE5OTA5ZDM0MDA4ZjQ5ZWQxOGJkZTYz.png" group-title="Generale",JOB TV (1080p)
 https://jobtvserver.eu/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-name="Kanal D2 (1080i)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODEyXzE3MTI4MTJf/MTUyeDUwX0thbmFsLUQyLUhELnBuZyZo/YXNoPTkxNTE4ZWNmMjgyMmE3YWM0OTE3ZjQ2MDMwNTVlNjJh.png" group-title="Generale",Kanal D2 (1080i)
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+
 #EXTINF:-1 tvg-id="KapitalTV.ro@SD" tvg-name="Kapital TV (576i)" tvg-logo="https://kapitaltv.ro/favicon.ico" group-title="Generale",Kapital TV (576i)
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="M9TVRomania.ro@SD" tvg-name="M9TV Romania (576i)" tvg-logo="https://m9tv.ro/favicon.ico" group-title="Generale",M9TV Romania (576i)
 https://netstreaming.eu/m9tv.m3u8
+
+#EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Generale",Metropola TV (1080p) [Not 24/7]
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa (720p)" tvg-logo="https://a1.ro/favicon.ico" group-title="Generale",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
@@ -440,6 +440,9 @@ https://media.3netmedia.ro/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Radio",Radio Romania Antena Satelor (720p) [Not 24/7]
 https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-name="Radio Romania Iasi (576i) [Not 24/7]" tvg-logo="https://www.radioiasi.ro/favicon.ico" group-title="Radio",Radio Romania Iasi (576i) [Not 24/7]
+https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-name="Radio Romania Oltenia-Craiova (576p) [Not 24/7]" tvg-logo="https://www.radiooltenia.ro/favicon.ico" group-title="Radio",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
