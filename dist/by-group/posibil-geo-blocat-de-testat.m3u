@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-25 13:39 UTC  |  Canale: 50
+## Generat automat: 2026-11-26 13:16 UTC  |  Canale: 47
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
@@ -40,17 +40,11 @@ https://astreaming.edi.ro:8443/dancefm_aac
 #EXTINF:-1 tvg-id="DibiTV.ro" tvg-name="Dibi TV" tvg-logo="https://dibitv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Dibi TV
 https://live3.cdn.dejacast.com/dibitv/dibitv_0.m3u8
 
-#EXTINF:-1 tvg-id="Digi4K.ro@UHD" tvg-name="Digi 4K (2160p) [Geo-blocked]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxNSUyRjEzMDEyMjhfMTMwMTIyOF9E/SUdJLTRLLnBuZyZoYXNoPWQ0YTg1OWU3MmUyNzFlZTRhNTY4MzA2MDliZmUzMzhl.png" group-title="Posibil Geo-blocat (de testat)",Digi 4K (2160p) [Geo-blocked]
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
-
 #EXTINF:-1 tvg-id="DigiAnimalWorld.ro" tvg-name="Digi Animal World" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzYwXzE1NTMzNjBf/RGlnaV9BbmltYWxfV29ybGRfSEQucG5n/Jmhhc2g9YzdkNzY2MGY3YTZmYjBkNDJhMjRmZTBiYTE2MGEyMWI=.png" group-title="Posibil Geo-blocat (de testat)",Digi Animal World
 https://live3.cdn.dejacast.com/digianimalworld/digianimalworld_0.m3u8
 
 #EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="Digi Life" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzYzXzE1NTMzNjNf/RGlnaV9MaWZlX0hELnBuZyZoYXNoPTZm/NWViOTRhYjI5ODZhNDQ3N2UxMTcxOGZmYmZlODg5.png" group-title="Posibil Geo-blocat (de testat)",Digi Life
 https://live3.cdn.dejacast.com/digilife/digilife_0.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png" group-title="Posibil Geo-blocat (de testat)",Digi Sport 1
-https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
 
 #EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzczXzE1NTMzNzNf/RGlnaV9Xb3JsZF9IRC5wbmcmaGFzaD1m/NmRjZTliMDVlYWJlNzdkZjVhNjdkNzU1ZjFlODYzNg==.png" group-title="Posibil Geo-blocat (de testat)",Digi World
 https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
@@ -83,9 +77,6 @@ https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://assets.antenaplay.ro/2023/04/13/fKKHBhi4gMsJkN7brGxm.png" group-title="Posibil Geo-blocat (de testat)",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HoraTv.ro" tvg-name="Hora TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDA4XzE1NTM0MDhf/SG9yYV9UVi5wbmcmaGFzaD0zZjEwNTJm/MjAzZjE5OGIwNmI1MWQyODFlNWFkODc5MA==.png" group-title="Posibil Geo-blocat (de testat)",Hora TV
-https://live3.cdn.dejacast.com/horatv/horatv_0.m3u8
-
 #EXTINF:-1 tvg-id="IasiTVLife.ro@SD" tvg-name="IasiTV Life (1080p) [Not 24/7]" tvg-logo="https://iasitvlife.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",IasiTV Life (1080p) [Not 24/7]
 https://tv.streambox.ro/hls/itv/index.m3u8
 
@@ -94,6 +85,9 @@ https://stream2.kanald.ro/iphone/knd-live.m3u8
 
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://assets.antenaplay.ro/2023/05/23/oygxpHGNZjc8Wpmwm4cd.png" group-title="Posibil Geo-blocat (de testat)",MediCOOL TV
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-name="Metropola TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Posibil Geo-blocat (de testat)",Metropola TV (1080p) [Not 24/7]
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MireasaExtra.ro@SD" tvg-name="Mireasa Extra" tvg-logo="https://antenaplay.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Mireasa Extra
 rtmp://stream1.antenaplay.ro/live/MireasaExtra
@@ -128,9 +122,6 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlis
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD" tvg-name="Quantum TV (576p)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Quantum TV (576p)
 https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
 
-#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-name="Radio Romania Iasi (576i) [Not 24/7]" tvg-logo="https://www.radioiasi.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Iasi (576i) [Not 24/7]
-https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
-
 #EXTINF:-1 tvg-id="RadioRomaniaResita.ro@SD" tvg-name="Radio Romania Resita (576p) [Not 24/7]" tvg-logo="https://www.radioresita.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Resita (576p) [Not 24/7]
 https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 
@@ -142,6 +133,9 @@ https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://www.realitatea.net/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Realitatea Sportiva
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-name="Sangeorz TV (576p)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Sangeorz TV (576p)
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 
 #EXTINF:-1 tvg-id="ShopOnTV.ro@SD" tvg-name="Shop On TV (576i) [Geo-blocked]" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Shop On TV (576i) [Geo-blocked]
 https://vs2131.vcdn.biz/07f4d8c8729f786dd1bb07d0512b71eb_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183161731/rsid/f5e3c4b1-6357-466d-bf95-eb6bc5453333/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.160*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
@@ -159,9 +153,6 @@ https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 
 #EXTINF:-1 tvg-id="TVSUD.ro@SD" tvg-name="TV SUD (1080p) [Geo-blocked]" tvg-logo="https://www.tvsud.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",TV SUD (1080p) [Geo-blocked]
 https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
-
-#EXTINF:-1 tvg-id="UTV.ro@HD" tvg-name="UTV HD (1080i)" tvg-logo="https://utv.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",UTV HD (1080i)
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 
 #EXTINF:-1 tvg-id="ZuTV.ro" tvg-name="Zu TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNiUyRjA3/JTJGMDIlMkYyODE4OTU4XzI4MTg5NThf/MTUyeDUwcHhfQ2hlZmlfSEQucG5nJmhh/c2g9MmMyMjYwMTk4NWEyMmFjZDIwZDQ3YTNiZmY1ZGNlODA=.png" group-title="Posibil Geo-blocat (de testat)",Zu TV
 https://live3.cdn.dejacast.com/zutv/zutv_0.m3u8
