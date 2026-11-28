@@ -1,15 +1,12 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz" tvg-shift="0" deinterlace="-1"
 ## Lista IPTV Romania - agregata automat
-## Generat automat: 2026-11-27 13:13 UTC  |  Canale: 44
+## Generat automat: 2026-11-28 12:29 UTC  |  Canale: 42
 ## Surse: curated, free-tv-ro, iptv-org-ro, override
 ## Nu se stocheaza fisiere video; doar linkuri publice. Vezi README (nota legala).
 
 #############################################
 ## Posibil Geo-blocat (de testat)
 #############################################
-#EXTINF:-1 tvg-id="AlfaOmegaTV.ro@SD" tvg-name="Alfa Omega TV (1080p) [Not 24/7]" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE0XzE1NTMzMTRf/QWxmYV9zaV9PbWVnYV9UVi5wbmcmaGFz/aD1kNDgwODQzMjBlNGU0ZmFmZmUyNGQ2ZjFhNTM3NDQyYQ==.png" group-title="Posibil Geo-blocat (de testat)",Alfa Omega TV (1080p) [Not 24/7]
-https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-
 #EXTINF:-1 tvg-id="AngelusTV.ro@SD" tvg-name="Angelus TV (1080p)" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE3XzE1NTMzMTdf/QW5nZWx1c19UVi5wbmcmaGFzaD03N2Ni/NDVjZTdkYThkODdkMjE3NTZjOGY0ZmIxNDU2Ng==.png" group-title="Posibil Geo-blocat (de testat)",Angelus TV (1080p)
 https://video.angelustv.ro/hls/angelustv.m3u8
 
@@ -48,12 +45,6 @@ https://live3.cdn.dejacast.com/digianimalworld/digianimalworld_0.m3u8
 
 #EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="Digi Life" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzYzXzE1NTMzNjNf/RGlnaV9MaWZlX0hELnBuZyZoYXNoPTZm/NWViOTRhYjI5ODZhNDQ3N2UxMTcxOGZmYmZlODg5.png" group-title="Posibil Geo-blocat (de testat)",Digi Life
 https://live3.cdn.dejacast.com/digilife/digilife_0.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY5XzE1NTMzNjlf/RGlnaV9TcG9ydF8zX0hELnBuZyZoYXNo/PTE4ODAwMGM3OTU4NTAzMzMwMDcwNGRjMDRiZWIxMGNj.png" group-title="Posibil Geo-blocat (de testat)",Digi Sport 3
-https://live3.cdn.dejacast.com/digisport3/digisport3_0.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzcxXzE1NTMzNzFf/RGlnaV9TcG9ydF80X0hELnBuZyZoYXNo/PWFmNjc2N2U1Y2FiMjllMzQ5Y2Y4MmI2ZjNlNDVkZWVi.png" group-title="Posibil Geo-blocat (de testat)",Digi Sport 4
-https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
 
 #EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzczXzE1NTMzNzNf/RGlnaV9Xb3JsZF9IRC5wbmcmaGFzaD1m/NmRjZTliMDVlYWJlNzdkZjVhNjdkNzU1ZjFlODYzNg==.png" group-title="Posibil Geo-blocat (de testat)",Digi World
 https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
@@ -94,6 +85,9 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
+#EXTINF:-1 tvg-id="NationalTV2.ro@SD" tvg-name="National TV2 (1080i)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",National TV2 (1080i)
+http://91.235.165.117:8002/play/a098/index.m3u8
+
 #EXTINF:-1 tvg-id="NoraTv.ro" tvg-name="Noroc TV" tvg-logo="https://noratelevizyonu.com/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Noroc TV
 https://live3.cdn.dejacast.com/noroctv/noroctv_0.m3u8
 
@@ -112,8 +106,8 @@ https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-prox2/playlis
 #EXTINF:-1 tvg-id="QuantumTV.ro@SD" tvg-name="Quantum TV (576p)" tvg-logo="" group-title="Posibil Geo-blocat (de testat)",Quantum TV (576p)
 https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
 
-#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-name="Radio Romania Iasi (576i) [Not 24/7]" tvg-logo="https://www.radioiasi.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Iasi (576i) [Not 24/7]
-https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="https://www.antenasatelor.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaResita.ro@SD" tvg-name="Radio Romania Resita (576p) [Not 24/7]" tvg-logo="https://www.radioresita.ro/favicon.ico" group-title="Posibil Geo-blocat (de testat)",Radio Romania Resita (576p) [Not 24/7]
 https://stream3.srr.ro/RadioResita/live/playlist.m3u8
